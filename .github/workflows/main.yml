@@ -1,4 +1,7 @@
-name: Proxy Server Tester
+
+name: Congfig Tester
+permissions: write-all
+
 on:
   push:
     branches:
@@ -7,38 +10,36 @@ on:
     - cron: '0 */6 * * *'
 
   workflow_dispatch:
-
-
 jobs:
-  server-test:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-    
+
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
-      
+      uses: actions/checkout@v2
+
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v2
       with:
-        python-version: '3.10'
+        python-version: '3.11'
         
+    - name: Stash any local changes
+      run: git stash
+      
     - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y unzip curl jq
-        pip install -r requirements.txt
+      run: cd files && pip install -r requirements.txt
+
+    - name: Run Config script and save output to file
+      run:   python app.py
+      
         
-    - name: Run Server Tester
-      run: |
-        python app.py --max-threads 6
-      env:
-        PYTHONUNBUFFERED: 1
-        
-    - name: Upload results
-      uses: actions/upload-artifact@v3
+    - name: Commit and push files
+      uses: EndBug/add-and-commit@v7
       with:
-        name: test-results
-        path: |
-          Tested\ Servers/
-          logs/
+        author_name: "Github Actions"
+        author_email: "actions@github.com"
+        message: "Updated  🎉"
+        add: "."
+        push: "https://github.com/FereydoonEisapour/Config_tester.git"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
