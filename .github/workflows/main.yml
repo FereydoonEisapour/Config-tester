@@ -40,6 +40,6 @@ jobs:
         author_email: "actions@github.com"
         message: "Updated  🎉"
         add: "."
-        push: "https://github.com/FereydoonEisapour/Config_tester.git"
+        push: "https://github.com/FereydoonEisapour/Config-tester.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
