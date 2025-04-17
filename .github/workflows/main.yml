@@ -27,13 +27,13 @@ jobs:
       run: git stash
       
     - name: Install dependencies
-      run: cd files && pip install -r requirements.txt
+      run: cd Files && pip install -r requirements.txt
 
     - name: Run Config script and save output to file
       run:   python app.py
       
         
-    - name: Commit and push files
+    - name: Commit and push Files
       uses: EndBug/add-and-commit@v7
       with:
         author_name: "Github Actions"
