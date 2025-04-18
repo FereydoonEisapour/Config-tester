@@ -1,3 +1,5 @@
+[file name]: app.py
+[file content begin]
 import os
 import sys
 import platform
@@ -20,13 +22,13 @@ import base64
 
 # Constants
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
-V2RAY_DIR = 'v2ray'
+V2RAY_DIR = os.path.abspath('v2ray')  # Absolute path
 LOG_DIR = 'logs'
-TEST_LINK = "https://www.google.com/generate_204"
+TEST_LINK = "http://httpbin.org/get"  # Reliable test endpoint
 MAX_THREADS = 10
-START_PORT = 20000
-REQUEST_TIMEOUT = 15
-PROCESS_START_WAIT = 3
+START_PORT = 10000  # Adjusted port range
+REQUEST_TIMEOUT = 20  # Increased timeout
+PROCESS_START_WAIT = 10  # Extended startup time
 
 # Disable SSL warnings
 requests.packages.urllib3.disable_warnings()
@@ -42,10 +44,9 @@ def get_next_port():
         current_port += 1
     return port
 
-# First part - Link processing functions
 def download_content(url):
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
         response.raise_for_status()
         return response.text
     except requests.exceptions.RequestException as e:
@@ -148,7 +149,7 @@ def extract_links_from_file(input_file, output_file):
         for link in links:
             logging.info(f"Processing {link}...")
             try:
-                response = requests.get(link)
+                response = requests.get(link, headers={'User-Agent': 'Mozilla/5.0'})
                 response.raise_for_status()
                 soup = BeautifulSoup(response.text, "html.parser")
                 extracted_links = [a.get("href") for a in soup.find_all("a", href=True)]
@@ -198,17 +199,19 @@ def extract_links_from_file(input_file, output_file):
         logging.error(f"Unknown error: {e}")
         return []
 
-# Second part - Testing functions
 def check_v2ray_installed():
     try:
         result = subprocess.run(
             [os.path.join(V2RAY_DIR, V2RAY_BIN), 'version'],
-            stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True
+            stdout=subprocess.PIPE, 
+            stderr=subprocess.PIPE, 
+            check=True
         )
         output = result.stdout.decode('utf-8')
         version = output.split()[1]
         return version
-    except Exception:
+    except Exception as e:
+        logging.error(f"V2Ray check failed: {str(e)}")
         return None
 
 def get_latest_version():
@@ -219,14 +222,18 @@ def get_latest_version():
         )
         response.raise_for_status()
         return response.json()['tag_name'].lstrip('v')
-    except requests.exceptions.RequestException:
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Failed to get latest version: {str(e)}")
         return None
-
 
 def install_v2ray():
     try:
         os_type = platform.system().lower()
         base_url = 'https://github.com/v2fly/v2ray-core/releases/latest/download'
+        
+        if os_type not in ['linux', 'windows']:
+            raise OSError(f"Unsupported OS: {os_type}")
+        
         if os_type == 'windows':
             url = f'{base_url}/v2ray-windows-64.zip'
         else:
@@ -243,12 +250,21 @@ def install_v2ray():
             with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(V2RAY_DIR)
             os.chmod(os.path.join(V2RAY_DIR, V2RAY_BIN), 0o755)
+            
+            # Verify installation
+            result = subprocess.run(
+                [os.path.join(V2RAY_DIR, V2RAY_BIN), 'version'],
+                stdout=subprocess.PIPE, 
+                stderr=subprocess.PIPE
+            )
+            if result.returncode != 0:
+                raise RuntimeError(f"V2Ray install verification failed: {result.stderr.decode()}")
+                
         except Exception as e:
             sys.exit(f"Installation failed: {e}")
     except Exception as e:
         logging.critical(f"V2Ray installation failed: {e}")
         sys.exit(1)
-
 
 def parse_vless_link(link):
     parsed = urlparse(link)
@@ -351,6 +367,8 @@ def generate_config(server_info, local_port):
             "streamSettings": {}
         }]
     }
+    
+    # Protocol-specific configurations
     if server_info['protocol'] == 'vless':
         config['outbounds'][0]['settings'] = {
             "vnext": [{
@@ -393,6 +411,8 @@ def generate_config(server_info, local_port):
                 "ota": False
             }]
         }
+    
+    # Stream settings
     stream = {
         "network": server_info.get('network', 'tcp'),
         "security": server_info.get('security', 'none'),
@@ -400,6 +420,7 @@ def generate_config(server_info, local_port):
         "realitySettings": None,
         "wsSettings": None
     }
+    
     if server_info.get('security') == 'tls':
         stream['tlsSettings'] = {
             "allowInsecure": True,
@@ -415,6 +436,7 @@ def generate_config(server_info, local_port):
             "shortId": server_info.get('sid', ''),
             "spiderX": ""
         }
+    
     if server_info.get('network') == 'ws':
         stream['wsSettings'] = {
             "path": server_info.get('ws_path', ''),
@@ -422,9 +444,8 @@ def generate_config(server_info, local_port):
                 "Host": server_info.get('ws_host', '')
             }
         }
-    stream = {k: v for k, v in stream.items() if v is not None}
-    config['outbounds'][0]['streamSettings'] = stream
-    config = {k: v for k, v in config.items() if v}
+    
+    config['outbounds'][0]['streamSettings'] = {k: v for k, v in stream.items() if v is not None}
     return config
 
 def test_server(server_info, config, local_port, log_queue):
@@ -434,36 +455,49 @@ def test_server(server_info, config, local_port, log_queue):
         with tempfile.NamedTemporaryFile('w', delete=False, suffix='.json') as f:
             json.dump(config, f)
             config_path = f.name
+        
+        v2ray_path = os.path.join(V2RAY_DIR, V2RAY_BIN)
+        logging.info(f"Starting V2Ray with config: {config_path}")
+        
         process = subprocess.Popen(
-            [os.path.join(V2RAY_DIR, V2RAY_BIN), 'run', '--config', config_path],
+            [v2ray_path, 'run', '--config', config_path],
             cwd=V2RAY_DIR,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE
         )
         time.sleep(PROCESS_START_WAIT)
+        
         if process.poll() is not None:
-            raise RuntimeError("V2Ray process terminated prematurely")
-        timeout = REQUEST_TIMEOUT * 1.5 if server_info.get('security') in ['tls', 'reality'] else REQUEST_TIMEOUT
-        start_time = time.time()
+            stderr = process.stderr.read().decode()
+            raise RuntimeError(f"V2Ray process failed to start. Error: {stderr}")
+        
         proxies = {
             'http': f'socks5h://127.0.0.1:{local_port}',
             'https': f'socks5h://127.0.0.1:{local_port}'
         }
+        
+        start_time = time.time()
         response = requests.get(
             TEST_LINK,
             proxies=proxies,
-            timeout=timeout,
+            timeout=REQUEST_TIMEOUT,
             verify=False
         )
         elapsed = time.time() - start_time
-        if response.status_code in (200, 204):
+        
+        if response.status_code == 200:
             log_queue.put(('success', server_info, f"Success ({elapsed:.2f}s)"))
         else:
             log_queue.put(('failure', server_info, f"HTTP {response.status_code}"))
+            
     except requests.exceptions.RequestException as e:
-        log_queue.put(('failure', server_info, f"Request failed: {str(e)}"))
+        error_msg = f"Request failed: {str(e)}"
+        logging.error(error_msg)
+        log_queue.put(('failure', server_info, error_msg))
     except Exception as e:
-        log_queue.put(('failure', server_info, f"Test error: {str(e)}"))
+        error_msg = f"Test error: {str(e)}"
+        logging.error(error_msg)
+        log_queue.put(('failure', server_info, error_msg))
     finally:
         if process and process.poll() is None:
             process.terminate()
@@ -475,7 +509,7 @@ def test_server(server_info, config, local_port, log_queue):
             try:
                 os.remove(config_path)
             except Exception as e:
-                print(f"Config cleanup failed: {e}")
+                logging.error(f"Config cleanup failed: {e}")
 
 def logger_thread(log_queue, log_file, working_file, dead_file):
     protocols_dir = os.path.join('Tested Servers', 'Protocols')
@@ -491,7 +525,6 @@ def logger_thread(log_queue, log_file, working_file, dead_file):
                 break
             status, server_info, message = record
             
-            # Write to main log file
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             log_entry = (
                 f"[{timestamp}] Host: {server_info.get('host', 'N/A')}:{server_info.get('port', 'N/A')} | "
@@ -502,7 +535,6 @@ def logger_thread(log_queue, log_file, working_file, dead_file):
             )
             log_f.write(log_entry)
             
-            # Write to working/dead files and protocol-specific files
             if status == 'success':
                 working_f.write(f"{server_info.get('original_link', 'N/A')}\n")
                 protocol = server_info.get('protocol', 'unknown').lower()
@@ -512,49 +544,50 @@ def logger_thread(log_queue, log_file, working_file, dead_file):
             else:
                 dead_f.write(f"{server_info.get('original_link', 'N/A')}\n")
             
-            # Flush all buffers
             log_f.flush()
             working_f.flush()
             dead_f.flush()
 
-# Main execution
 if __name__ == "__main__":
-    # First part: Process and categorize links
     sys.stdout.reconfigure(encoding='utf-8')
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s",
-        handlers=[logging.StreamHandler()]
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler('debug.log')
+        ]
     )
     
-    input_file = os.path.join('Files', 'git_links.txt')
-    temp_output_file = os.path.join('Files', 'filtered_links.txt')
-    output_folder = os.path.join('Files', 'ServerByType')
+    # Part 1: Process links
+    input_file = os.path.join('files', 'git_links.txt')
+    temp_output_file = os.path.join('files', 'filtered_links.txt')
+    output_folder = os.path.join('files', 'ServerByType')
     
     logging.info("Starting link processing...")
-    os.makedirs('Files', exist_ok=True)
+    os.makedirs('files', exist_ok=True)
     unique_links = remove_duplicate_links(input_file)
     
     if not unique_links:
-        logging.error("No valid links found in the input file after removing duplicates.")
+        logging.error("No valid links found after deduplication.")
         sys.exit(1)
     
     filtered_links = extract_links_from_file(input_file, temp_output_file)
     
     if filtered_links:
         process_and_save_links(filtered_links, output_folder)
-        logging.info(f"All information processed and categorized into folder '{output_folder}'.")
+        logging.info(f"Links processed and saved to {output_folder}")
     else:
-        logging.error("No valid links were found during extraction.")
+        logging.error("No valid links extracted.")
+        sys.exit(1)
     
-    # Second part: Test servers
+    # Part 2: Test servers
     parser = argparse.ArgumentParser(description='Multi-Protocol Server Tester')
     parser.add_argument('--max-threads', type=int, default=MAX_THREADS)
     parser.add_argument('--servers-dir', default=output_folder)
     parser.add_argument('--log-dir', default=LOG_DIR)
     args = parser.parse_args()
     
-    # Create required directories
     os.makedirs('Tested Servers', exist_ok=True)
     os.makedirs(os.path.join('Tested Servers', 'Protocols'), exist_ok=True)
     os.makedirs(args.log_dir, exist_ok=True)
@@ -570,31 +603,32 @@ if __name__ == "__main__":
     )
     logger.start()
     
+    # V2Ray installation check
     installed_version = check_v2ray_installed()
     latest_version = get_latest_version()
-    if installed_version and latest_version:
-        if installed_version != latest_version:
-            print(f"Updating V2Ray from {installed_version} to {latest_version}")
-            install_v2ray()
-        else:
-            print(f"V2Ray {installed_version} is up to date")
-    else:
-        print("Installing V2Ray...")
-        install_v2ray()
     
+    if not installed_version or (latest_version and installed_version != latest_version):
+        logging.info("Installing/Updating V2Ray...")
+        install_v2ray()
+    else:
+        logging.info(f"Using V2Ray {installed_version}")
+    
+    # Load servers
+    servers = []
     try:
-        servers = []
-        servers_dir = args.servers_dir
-        for filename in os.listdir(servers_dir):
+        for filename in os.listdir(args.servers_dir):
             if filename.endswith('.txt'):
-                file_path = os.path.join(servers_dir, filename)
+                file_path = os.path.join(args.servers_dir, filename)
                 with open(file_path, 'r') as f:
                     servers.extend([line.strip() for line in f if line.strip()])
         if not servers:
-            sys.exit(f"No servers found in {servers_dir}")
+            logging.error("No servers found for testing")
+            sys.exit(1)
     except Exception as e:
-        sys.exit(f"Error reading servers: {str(e)}")
+        logging.error(f"Error loading servers: {str(e)}")
+        sys.exit(1)
     
+    # Start testing
     with ThreadPoolExecutor(max_workers=args.max_threads) as executor:
         futures = []
         for link in servers:
@@ -609,15 +643,23 @@ if __name__ == "__main__":
                 elif parsed.scheme == 'ss':
                     server_info = parse_ss_link(link)
                 else:
-                    raise ValueError(f"Unsupported protocol: {parsed.scheme}")
+                    logging.warning(f"Unsupported protocol: {parsed.scheme}")
+                    continue
+                
                 local_port = get_next_port()
                 config = generate_config(server_info, local_port)
                 futures.append(executor.submit(test_server, server_info, config, local_port, log_queue))
+                
             except Exception as e:
-                log_queue.put(('failure', {'original_link': link}, f"Parse error: {str(e)}"))
+                error_msg = f"Parse error for {link}: {str(e)}"
+                logging.error(error_msg)
+                log_queue.put(('failure', {'original_link': link}, error_msg))
+        
+        # Wait for all tests
         for future in futures:
             future.result()
     
     log_queue.put(None)
     logger.join()
-    print(f"Testing completed. Results saved to Tested Servers/ and {args.log_dir}")
+    logging.info("Testing completed. Results saved to 'Tested Servers/'")
+[file content end]

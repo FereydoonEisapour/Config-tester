@@ -1,4 +1,3 @@
-
 name: Run V2Ray Server Tester
 permissions: write-all
 
@@ -18,27 +17,33 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y unzip  
+        
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.11'
         
-    - name: Stash any local changes
-      run: git stash
-      
-    - name: Install dependencies
-      run: cd files && pip install -r requirements.txt
-
-    - name: Run Config script and save output to file
-      run:   python app.py
-      
+    - name: Install Python dependencies
+      run: |
+        cd files
+        pip install --upgrade pip
+        pip install -r requirements.txt
         
-    - name: Commit and push files
+    - name: Run tester
+      run: python app.py
+      env:
+        PYTHONUNBUFFERED: 1 
+        
+    - name: Commit and push results
       uses: EndBug/add-and-commit@v7
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated  🎉"
+        message: "Updated results 🚀"
         add: "."
-        push: "https://github.com/FereydoonEisapour/Config-tester.git"
-    
+        push: true
+[file content end]
