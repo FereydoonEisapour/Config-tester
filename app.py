@@ -222,36 +222,34 @@ def get_latest_version():
     except requests.exceptions.RequestException:
         return None
 
+
 def install_v2ray():
     try:
-     os_type = platform.system().lower()
-     url = (
-        f'https://github.com/v2fly/v2ray-core/releases/latest/download/'
-        f'v2ray-{os_type}-64.zip' if os_type == 'windows' else
-        f'v2ray-{os_type}-64.tgz'
-    )
-     if os.path.exists(V2RAY_DIR):
-         shutil.rmtree(V2RAY_DIR, ignore_errors=True)
-     os.makedirs(V2RAY_DIR, exist_ok=True)
-     try:
+        os_type = platform.system().lower()
+        base_url = 'https://github.com/v2fly/v2ray-core/releases/latest/download'
         if os_type == 'windows':
+            url = f'{base_url}/v2ray-windows-64.zip'
+        else:
+            url = f'{base_url}/v2ray-linux-64.zip'
+
+        if os.path.exists(V2RAY_DIR):
+            shutil.rmtree(V2RAY_DIR, ignore_errors=True)
+        os.makedirs(V2RAY_DIR, exist_ok=True)
+
+        try:
             import zipfile
             import urllib.request
             zip_path, _ = urllib.request.urlretrieve(url)
             with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(V2RAY_DIR)
-        else:
-            import tarfile
-            import urllib.request
-            tgz_path, _ = urllib.request.urlretrieve(url)
-            with tarfile.open(tgz_path, 'r:gz') as tar_ref:
-                tar_ref.extractall(V2RAY_DIR)
             os.chmod(os.path.join(V2RAY_DIR, V2RAY_BIN), 0o755)
-     except Exception as e:
-        sys.exit(f"Installation failed: {e}")
+        except Exception as e:
+            sys.exit(f"Installation failed: {e}")
     except Exception as e:
         logging.critical(f"V2Ray installation failed: {e}")
         sys.exit(1)
+
+
 def parse_vless_link(link):
     parsed = urlparse(link)
     if parsed.scheme != 'vless':
