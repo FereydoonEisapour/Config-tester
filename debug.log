@@ -1,0 +1,91 @@
+2025-04-18 10:25:23,173 - INFO - Starting link processing...
+2025-04-18 10:25:23,173 - INFO - Duplicate links removed. 1 unique links remain in files/git_links.txt.
+2025-04-18 10:25:23,173 - INFO - Processing https://github.com/FereydoonEisapour/v2ray/tree/main/region...
+2025-04-18 10:25:23,488 - INFO - 1 unique links extracted and saved to files/filtered_links.txt.
+2025-04-18 10:25:23,488 - INFO - Processing raw content from link 1: https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/region/Germany.txt
+2025-04-18 10:25:23,603 - INFO - Server count by type:
+2025-04-18 10:25:23,603 - INFO - ss: 13 servers
+2025-04-18 10:25:23,603 - INFO - vless: 22 servers
+2025-04-18 10:25:23,603 - INFO - vmess: 10 servers
+2025-04-18 10:25:23,604 - INFO - Links processed and saved to files/ServerByType
+2025-04-18 10:25:23,605 - ERROR - V2Ray check failed: [Errno 2] No such file or directory: '/home/runner/work/Config-tester/Config-tester/v2ray/v2ray'
+2025-04-18 10:25:23,734 - INFO - Installing/Updating V2Ray...
+2025-04-18 10:25:24,421 - INFO - Starting V2Ray with config: /tmp/tmppmwzya0c.json
+2025-04-18 10:25:24,422 - INFO - Starting V2Ray with config: /tmp/tmpt3u5xem4.json
+2025-04-18 10:25:24,422 - INFO - Starting V2Ray with config: /tmp/tmpj5azvfae.json
+2025-04-18 10:25:24,423 - INFO - Starting V2Ray with config: /tmp/tmp60qw8k8y.json
+2025-04-18 10:25:24,424 - INFO - Starting V2Ray with config: /tmp/tmpf0n2am3v.json
+2025-04-18 10:25:24,425 - INFO - Starting V2Ray with config: /tmp/tmp9kx11jzz.json
+2025-04-18 10:25:24,425 - INFO - Starting V2Ray with config: /tmp/tmppbq9h9v9.json
+2025-04-18 10:25:24,427 - INFO - Starting V2Ray with config: /tmp/tmpkry3virc.json
+2025-04-18 10:25:24,433 - INFO - Starting V2Ray with config: /tmp/tmp6m8lziiu.json
+2025-04-18 10:25:24,437 - INFO - Starting V2Ray with config: /tmp/tmpjzlmmpry.json
+2025-04-18 10:25:24,439 - ERROR - Parse error for ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20US-173.244.56.6%3A443%F0%9F%A4%AF: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%20%F0%9F%87%B9%F0%9F%87%B7AZARBAYJAB1%E2%9A%99%EF%B8%8F: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#%40Hope_Netss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY2MDhjNC0xZTNmLTRhNTctYjRlOC05ODc5ZGQ1YzA5Y2Q%40free.2weradf.xyz%3A36115%23%40Hope_Netss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODFkZjQ0MC05NzZhLTQ2OWItYmRiOC03M2M0NzdkODdiMWE%40free.2weradf.xyz%3A36111%23%40Hope_Netvless%3A%2F%2Fcf25a07b-798a-4912-9611-04d906a9189c%40217.61.20.71%3A55443%3Fsecurity%3Dnone%26type%3Dgrpc%26serviceName%3DZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048%23%40Hope_Net-join-us-on-Telegram%E2%9A%A0%EF%B8%8F: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q%4045.87.175.181%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1%4045.158.171.141%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB%4045.158.171.60%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB%4045.87.175.35%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1%4045.87.175.171%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93%4051.195.119.47%3A1080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo%4086.104.74.243%3A14255%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB%40103.104.247.47%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD%40103.106.1.92%3A23492%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz%40185.123.101.241%3A990%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o%40151.236.206.42%3A39649%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o%40151.236.206.42%3A39649%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4%40213.109.147.242%3A62685%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn%4045.87.175.192%3A8080%23%40V2rayNG3ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B%40176.124.218.95%3A1080%23%40V2rayNG3wireguard%3A%2F%2FwGIrp9rAnjEIN8xTLQeFtYEVnfbqPJnxrvanOeq0oH8%3D%40188.114.96.135%3A942%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D120%2C213%2C192%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3wireguard%3A%2F%2FCKhobkhCpHDD2ygfXMp256m4SJ8UdOvRGevvgWkZU1A%3D%40188.114.99.126%3A894%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D206%2C226%2C9%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3wireguard%3A%2F%2F6CjosclCOzsHP%2F1fk%2F4prdnHEW3UqComl0rkgYMgnX0%3D%40188.114.97.211%3A880%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D77%2C3%2C207%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3wireguard%3A%2F%2FEGA0JKtdI3gdftNuX6ky%2BGbUH%2BxWvUt4oy11ySvdZX4%3D%40188.114.99.137%3A4198%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D135%2C131%2C215%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3wireguard%3A%2F%2FqFPf70wY1w8m7u3S443mCPSTtbKflTPfheECiFx9H0E%3D%40188.114.96.233%3A7152%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D225%2C120%2C131%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3wireguard%3A%2F%2FiI4A7qsgbBGw7Uy8p9KzvCXSvqvB0DsfTakAMeHNfEU%3D%40162.159.195.230%3A1843%3Faddress%3D172.16.0.2%2F32%26presharedkey%3D%26reserved%3D94%2C93%2C191%26publickey%3DbmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D%26mtu%3D1280%23%40V2rayNG3trojan%3A%2F%2Famclubs%40103.160.204.1%3A443%3Fpath%3D%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560%26security%3Dtls%26host%3Dtran.amclubstest.nyc.mn%26type%3Dws%26sni%3Dtran.amclubstest.nyc.mn%23%40V2rayNG3trojan%3A%2F%2FAXpQXM4vNh%40141.227.160.167%3A1935%3Fsecurity%3Dtls%26alpn%3Dh3%2Ch2%2Chttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dx2swe-ovh.devefun.net%23%40V2rayNG3trojan%3A%2F%2FhZ7JkYVAfB%40141.227.138.29%3A1935%3Fsecurity%3Dtls%26alpn%3Dh3%2Ch2%2Chttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dx1ch-ovh.devefun.net%23%40V2rayNG3trojan%3A%2F%2FutF6JLQd2x%40141.227.128.69%3A1935%3Fsecurity%3Dtls%26alpn%3Dh3%2Ch2%2Chttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dx1es-ovh.devefun.net%23%40V2rayNG3trojan%3A%2F%2FeG92F3gh09%4051.15.86.181%3A1935%3Fsecurity%3Dtls%26headerType%3Dnone%26type%3Dtcp%26sni%3Dx1ams-scaleway.devefun.net%23%40V2rayNG3trojan%3A%2F%2FFiSo7J6vfS%4051.68.13.106%3A1935%3Fsecurity%3Dtls%26alpn%3Dh3%2Ch2%2Chttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dx1fr-ovh.devefun.net%23%40V2rayNG3trojan%3A%2F%2Fredfree8%40104.17.148.22%3A80%3Fpath%3D%2FtrLwW5jwrnymnOdqki%3Fed%3D2560%26security%3Dnone%26host%3Dredfree8-p1.pooriashop.ir%26type%3Dws%23%40V2rayNG3trojan%3A%2F%2Fredfree8%40104.17.148.22%3A80%3Fpath%3D%2FtrLwW5jwrnymnOdqki%3Fed%3D2560%26security%3Dnone%26host%3Dredfree8-p1.pooriashop.ir%26type%3Dws%23%40V2rayNG3%E2%9C%88%EF%B8%8F%40V2rayNG3%E2%9C%88%EF%B8%8F%40SERVER444%F0%9F%A4%AF: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%40V2rayNG3: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%40V2rayNG3%F0%9F%A4%AF: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#WedBaZ: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaHJteUtFNkY5QlFDaW9naWdKMUlE@77.110.106.74:31465#%F0%9F%87%AB%F0%9F%87%B7%20FR-77.110.106.74%3A31465: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,441 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SUFnZTA2UG1QdW81T0pHRDE3c2Rn@203.25.108.78:44591#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,442 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo%3D@107.181.151.147:43669#United%20Kingdom: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,442 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%40FNET00%F0%9F%93%B1: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,442 - ERROR - Parse error for ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C34ss%3A%2F%2FYWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO%4067.220.95.29%3A8118%23%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C35vmess%3A%2F%2FeyJhZGQiOiIzZGIxNTZhMC1zdjJzZzAtc3ZwYnp0LWhuczcuY201LnA1cHYuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY4NTdmMWJjLWYyN2ItMTFlYS04N2FkLWYyM2M5MTNjOGQyYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTcyMzQiLCJwcyI6IvCfh6jwn4ezfENOfEB3eGdxbGZ4fDM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9ss%3A%2F%2FYWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN%4067.220.95.29%3A443%23%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C37ss%3A%2F%2FYWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH%4067.220.95.29%3A7002%23%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C38vless%3A%2F%2F4088e698-69fd-4d15-98bc-f1fe4c071642%40160.22.79.155%3A443%3Fpath%3DTelegramTW_%40WangCai2%2F%3Fed%3D2560%26security%3Dtls%26encryption%3Dnone%26host%3Ddigitalscientificresearchgroup.ir%26type%3Dws%26sni%3Ddigitalscientificresearchgroup.ir%23%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%40wxgqlfx%7C39vmess%3A%2F%2FeyJhZGQiOiJkNGMxYjFhMS1zdjJzZzAtc3Y4aW5xLTF0a3RwLmNtNS5wNXB2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMTNjMDgxMC0wOTFlLTExZjAtOTlhOS1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3MjM0IiwicHMiOiLwn4eo8J%2BHs3xDTnxAd3hncWxmeHw0MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3Dvless%3A%2F%2F2fec7227-9abe-46f2-af18-78302b836c45%40172.67.163.14%3A443%3Fpath%3D%2FqF5dXhCllosLcFpqdDoAgkondVWl%26security%3Dtls%26encryption%3Dnone%26host%3D3u.2031.pp.ua%26type%3Dws%26sni%3D3u.2031.pp.ua%23%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C41ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI%3D%40hk02.x.quickcht3.club%3A52612%23%F0%9F%87%A8%F0%9F%87%B3%7CCN%7C%40wxgqlfx%7C42vmess%3A%2F%2FeyJhZGQiOiJkMmJlZjI0OC1zdjJzZzAtdGJyaGNrLTF0aHFiLmNtNS5wNXB2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZjRjNjg3Ni1mY2Y2LTExZWYtOTRhYS1mMjNjOTEzYzhkMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3MjM0IiwicHMiOiLwn4eo8J%2BHs3xDTnxAd3hncWxmeHw0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3Dvmess%3A%2F%2FeyJhZGQiOiJmYzA4YmFjZi1zdjJzZzAtc3lnMHBrLTE5eXJvLmNtNS5wNXB2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZDcxODJjZS04ZGNjLTExZWYtYTNmNi1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3MjM0IiwicHMiOiLwn4eo8J%2BHs3xDTnxAd3hncWxmeHw0NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:24,442 - ERROR - Parse error for ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir%D9%85%D8%AE%D8%B5%D9%88%D8%B5: not enough values to unpack (expected 2, got 1)
+2025-04-18 10:25:34,425 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,426 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,429 - INFO - Starting V2Ray with config: /tmp/tmp0gaqiet8.json
+2025-04-18 10:25:34,430 - INFO - Starting V2Ray with config: /tmp/tmp5kmyhy2q.json
+2025-04-18 10:25:34,435 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,437 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,438 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,439 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,441 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,443 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,444 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,447 - INFO - Starting V2Ray with config: /tmp/tmp2gen55m7.json
+2025-04-18 10:25:34,445 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:34,449 - INFO - Starting V2Ray with config: /tmp/tmpuckh7f52.json
+2025-04-18 10:25:34,450 - INFO - Starting V2Ray with config: /tmp/tmp67gf9nrt.json
+2025-04-18 10:25:34,452 - INFO - Starting V2Ray with config: /tmp/tmpjrzc0me3.json
+2025-04-18 10:25:34,453 - INFO - Starting V2Ray with config: /tmp/tmpug0f3sdi.json
+2025-04-18 10:25:34,453 - INFO - Starting V2Ray with config: /tmp/tmpuiw9vs8x.json
+2025-04-18 10:25:34,454 - INFO - Starting V2Ray with config: /tmp/tmp5i_s6651.json
+2025-04-18 10:25:34,455 - INFO - Starting V2Ray with config: /tmp/tmp1jjtcu16.json
+2025-04-18 10:25:44,431 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,432 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,435 - INFO - Starting V2Ray with config: /tmp/tmpkjvg4s1s.json
+2025-04-18 10:25:44,436 - INFO - Starting V2Ray with config: /tmp/tmpmiq3_1_t.json
+2025-04-18 10:25:44,452 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,452 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,456 - INFO - Starting V2Ray with config: /tmp/tmpi9pgywlf.json
+2025-04-18 10:25:44,457 - INFO - Starting V2Ray with config: /tmp/tmpczjrurf4.json
+2025-04-18 10:25:44,459 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,460 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,461 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,462 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,465 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,463 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:44,467 - INFO - Starting V2Ray with config: /tmp/tmp8too_9fz.json
+2025-04-18 10:25:44,467 - INFO - Starting V2Ray with config: /tmp/tmpu1nfndop.json
+2025-04-18 10:25:44,469 - INFO - Starting V2Ray with config: /tmp/tmpxtuujytd.json
+2025-04-18 10:25:44,471 - INFO - Starting V2Ray with config: /tmp/tmpr_oix_lm.json
+2025-04-18 10:25:44,473 - INFO - Starting V2Ray with config: /tmp/tmpphchbs4g.json
+2025-04-18 10:25:44,478 - INFO - Starting V2Ray with config: /tmp/tmpzuozkv31.json
+2025-04-18 10:25:54,437 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,438 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,442 - INFO - Starting V2Ray with config: /tmp/tmpkjin82hn.json
+2025-04-18 10:25:54,442 - INFO - Starting V2Ray with config: /tmp/tmp7bl5zq2k.json
+2025-04-18 10:25:54,458 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,459 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,471 - ERROR - Test error: V2Ray process failed to start. Error: Failed to start: main/commands: failed to create server > proxy/vless/outbound: failed to parse server spec > proxy/vless: failed to parse ID > invalid UUID: tell--ZEDMODEON
+
+2025-04-18 10:25:54,472 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,474 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,475 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,481 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:25:54,483 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:26:04,444 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:26:04,445 - ERROR - Request failed: Missing dependencies for SOCKS support.
+2025-04-18 10:26:04,449 - INFO - Testing completed. Results saved to 'Tested Servers/'
