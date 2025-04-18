@@ -1,5 +1,3 @@
-[file name]: app.py
-[file content begin]
 import os
 import sys
 import platform
@@ -662,4 +660,3 @@ if __name__ == "__main__":
     log_queue.put(None)
     logger.join()
     logging.info("Testing completed. Results saved to 'Tested Servers/'")
-[file content end]
