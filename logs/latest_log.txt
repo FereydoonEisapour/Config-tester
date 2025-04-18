@@ -1,0 +1,45 @@
+[2025-04-18 08:10:36] Host: 45.12.138.82:54757 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 188.114.99.134:443 | Protocol: vmess | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 2.56.126.103:33579 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 15.204.86.120:35696 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 51.81.203.57:28860 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 172.67.207.26:443 | Protocol: vmess | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 104.21.90.210:443 | Protocol: vless | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: N/A:N/A | Protocol: N/A | Security: N/A | Network: N/A | Message: Parse error: not enough values to unpack (expected 2, got 1)
+[2025-04-18 08:10:36] Host: 154.26.153.161:21759 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 88.216.187.55:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 172.67.156.210:443 | Protocol: vmess | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 172.67.170.11:443 | Protocol: vmess | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 91.194.11.162:58891 | Protocol: vmess | Security:  | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 84.32.9.55:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 84.32.9.134:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 84.32.9.245:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 88.216.187.127:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 103.160.204.36:2087 | Protocol: vless | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 104.21.112.1:443 | Protocol: vless | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 84.32.9.13:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 84.32.9.17:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: ::ffff:45.136.117.8:8880 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 45.131.5.213:80 | Protocol: vless | Security: none | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 162.159.152.2:80 | Protocol: vless | Security: none | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: connectcarolina.sites.unc.edu:443 | Protocol: vless | Security: tls | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 109.73.192.184:443 | Protocol: vless | Security: reality | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: helmet.germany.iranstars-shop.ir:8443 | Protocol: vless | Security: reality | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: ev2.waltonweb.ir:443 | Protocol: vless | Security: reality | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 151.234.162.123:20000 | Protocol: vless | Security: none | Network: tcp | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: 188.34.201.88:16072 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: tls.zeoaeriedo-saioesrio.ir:2000 | Protocol: vless | Security: none | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: ev2.waltonweb.ir:443 | Protocol: vless | Security: reality | Network: grpc | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
+[2025-04-18 08:10:36] Host: tify-binex-join.espikernajafi.ir:2053 | Protocol: vless | Security: none | Network: ws | Message: Test error: [Errno 20] Not a directory: 'v2ray/v2ray'
