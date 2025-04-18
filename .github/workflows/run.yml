@@ -29,10 +29,13 @@ jobs:
         
     - name: Install Python dependencies
       run: |
+
+        sudo apt-get update
+        sudo apt-get install -y unzip libcap2-bin
+        sudo setcap cap_net_bind_service=+ep /usr/bin/python3.11
         cd files
-        pip install --upgrade pip
         pip install -r requirements.txt
-        
+
     - name: Run tester
       run: python app.py
       env:

@@ -11,6 +11,7 @@ import threading
 import queue
 import requests
 import shutil
+import re
 from urllib.parse import urlparse, parse_qs, unquote
 from base64 import urlsafe_b64decode
 from concurrent.futures import ThreadPoolExecutor
@@ -20,13 +21,13 @@ import base64
 
 # Constants
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
-V2RAY_DIR = os.path.abspath('v2ray')  # Absolute path
+V2RAY_DIR = os.path.abspath('v2ray')
 LOG_DIR = 'logs'
-TEST_LINK = "http://httpbin.org/get"  # Reliable test endpoint
+TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 10
-START_PORT = 10000  # Adjusted port range
-REQUEST_TIMEOUT = 20  # Increased timeout
-PROCESS_START_WAIT = 10  # Extended startup time
+START_PORT = 10000
+REQUEST_TIMEOUT = 30
+PROCESS_START_WAIT = 15
 
 # Disable SSL warnings
 requests.packages.urllib3.disable_warnings()
@@ -229,13 +230,16 @@ def install_v2ray():
         os_type = platform.system().lower()
         base_url = 'https://github.com/v2fly/v2ray-core/releases/latest/download'
         
-        if os_type not in ['linux', 'windows']:
-            raise OSError(f"Unsupported OS: {os_type}")
-        
-        if os_type == 'windows':
+        if os_type == 'linux':
+            machine = platform.machine().lower()
+            if 'aarch64' in machine or 'arm64' in machine:
+                url = f'{base_url}/v2ray-linux-arm64.zip'
+            else:
+                url = f'{base_url}/v2ray-linux-64.zip'
+        elif os_type == 'windows':
             url = f'{base_url}/v2ray-windows-64.zip'
         else:
-            url = f'{base_url}/v2ray-linux-64.zip'
+            raise OSError(f"Unsupported OS: {os_type}")
 
         if os.path.exists(V2RAY_DIR):
             shutil.rmtree(V2RAY_DIR, ignore_errors=True)
@@ -247,16 +251,17 @@ def install_v2ray():
             zip_path, _ = urllib.request.urlretrieve(url)
             with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(V2RAY_DIR)
-            os.chmod(os.path.join(V2RAY_DIR, V2RAY_BIN), 0o755)
             
-            # Verify installation
+            v2ray_path = os.path.join(V2RAY_DIR, V2RAY_BIN)
+            os.chmod(v2ray_path, 0o755)
+            
             result = subprocess.run(
-                [os.path.join(V2RAY_DIR, V2RAY_BIN), 'version'],
-                stdout=subprocess.PIPE, 
+                [v2ray_path, 'version'],
+                stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE
             )
             if result.returncode != 0:
-                raise RuntimeError(f"V2Ray install verification failed: {result.stderr.decode()}")
+                raise RuntimeError(f"V2Ray install failed: {result.stderr.decode()}")
                 
         except Exception as e:
             sys.exit(f"Installation failed: {e}")
@@ -264,15 +269,57 @@ def install_v2ray():
         logging.critical(f"V2Ray installation failed: {e}")
         sys.exit(1)
 
+def parse_ss_link(link):
+    parsed = urlparse(link)
+    if parsed.scheme != 'ss':
+        raise ValueError("Invalid Shadowsocks link")
+    
+    userinfo = unquote(parsed.netloc)
+    
+    if '@' not in userinfo:
+        try:
+            decoded = urlsafe_b64decode(userinfo + '==').decode('utf-8')
+            if decoded.count(':') < 2:
+                raise ValueError("Invalid SS format")
+            method, password, host_port = decoded.split(':', 2)
+            host, port = host_port.rsplit(':', 1) if ':' in host_port else (host_port, '8388')
+        except Exception as e:
+            raise ValueError(f"Base64 decode error: {str(e)}")
+    
+    else:
+        parts = userinfo.split('@')
+        if len(parts) != 2:
+            raise ValueError("Invalid SS format")
+        method_password, host_port = parts
+        if ':' not in method_password:
+            raise ValueError("Invalid method:password format")
+        method, password = method_password.split(':', 1)
+        host, port = host_port.split(':', 1) if ':' in host_port else (host_port, '8388')
+    
+    return {
+        'original_link': link,
+        'protocol': 'shadowsocks',
+        'method': method,
+        'password': password,
+        'host': host,
+        'port': int(port),
+        'network': 'tcp'
+    }
+
 def parse_vless_link(link):
     parsed = urlparse(link)
     if parsed.scheme != 'vless':
         raise ValueError("Invalid VLESS link")
+    
+    uuid = parsed.username
+    if not re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', uuid, re.I):
+        raise ValueError("Invalid UUID format")
+    
     query = parse_qs(parsed.query)
     return {
         'original_link': link,
         'protocol': 'vless',
-        'uuid': parsed.username,
+        'uuid': uuid,
         'host': parsed.hostname,
         'port': parsed.port,
         'security': query.get('security', [''])[0] or 'none',
@@ -329,28 +376,6 @@ def parse_trojan_link(link):
         'ws_host': query.get('host', [parsed.hostname])[0]
     }
 
-def parse_ss_link(link):
-    parsed = urlparse(link)
-    if parsed.scheme != 'ss':
-        raise ValueError("Invalid Shadowsocks link")
-    if '@' in parsed.netloc:
-        parts = parsed.netloc.split('@')
-        method, password = parts[0].split(':')
-        host, port = parts[1].split(':')
-    else:
-        decoded = urlsafe_b64decode(parsed.netloc + '==').decode('utf-8')
-        method, password, host_port = decoded.split(':', 2)
-        host, port = host_port.split('@')[1].split(':', 1)
-    return {
-        'original_link': link,
-        'protocol': 'shadowsocks',
-        'method': method,
-        'password': password,
-        'host': host,
-        'port': int(port),
-        'network': 'tcp'
-    }
-
 def generate_config(server_info, local_port):
     config = {
         "inbounds": [{
@@ -366,7 +391,6 @@ def generate_config(server_info, local_port):
         }]
     }
     
-    # Protocol-specific configurations
     if server_info['protocol'] == 'vless':
         config['outbounds'][0]['settings'] = {
             "vnext": [{
@@ -410,7 +434,6 @@ def generate_config(server_info, local_port):
             }]
         }
     
-    # Stream settings
     stream = {
         "network": server_info.get('network', 'tcp'),
         "security": server_info.get('security', 'none'),
