@@ -1,12 +1,12 @@
 name: Run V2Ray Server Tester
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '**.py'
       - '**.txt'
       - .github/workflows/run.yml
-  workflow_dispatch:
 
 jobs:
   run-script:
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,3 +32,11 @@ jobs:
       - name: Run app.py
         run: |
           python app.py --max-threads 5
+
+      - name: Push Results Back to Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Tested\ Servers/ logs/
+          git commit -m "Add server test results from GitHub Actions" || echo "No changes to commit"
+          git push
