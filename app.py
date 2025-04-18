@@ -22,7 +22,7 @@ import base64
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
 V2RAY_DIR = 'v2ray'
 LOG_DIR = 'logs'
-TEST_LINK = "http://httpbin.org/get"
+TEST_LINK = "https://www.google.com/generate_204"
 MAX_THREADS = 10
 START_PORT = 20000
 REQUEST_TIMEOUT = 15
@@ -442,6 +442,10 @@ def test_server(server_info, config, local_port, log_queue):
         )
         time.sleep(PROCESS_START_WAIT)
         if process.poll() is not None:
+            out, err = process.communicate(timeout=5)
+            print(f"[DEBUG][{server_info.get('protocol')}] V2Ray exited early.")
+            print("STDOUT:\n", out.decode(errors='ignore'))
+            print("STDERR:\n", err.decode(errors='ignore'))
             raise RuntimeError("V2Ray process terminated prematurely")
         timeout = REQUEST_TIMEOUT * 1.5 if server_info.get('security') in ['tls', 'reality'] else REQUEST_TIMEOUT
         start_time = time.time()
