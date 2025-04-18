@@ -22,7 +22,7 @@ import base64
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
 V2RAY_DIR = 'v2ray'
 LOG_DIR = 'logs'
-TEST_LINK = "https://www.google.com/generate_204"
+TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 10
 START_PORT = 20000
 REQUEST_TIMEOUT = 15
