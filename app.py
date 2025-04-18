@@ -527,12 +527,12 @@ if __name__ == "__main__":
         handlers=[logging.StreamHandler()]
     )
     
-    input_file = os.path.join('Files', 'git_links.txt')
-    temp_output_file = os.path.join('Files', 'filtered_links.txt')
-    output_folder = os.path.join('Files', 'ServerByType')
+    input_file = os.path.join('files', 'git_links.txt')
+    temp_output_file = os.path.join('files', 'filtered_links.txt')
+    output_folder = os.path.join('files', 'ServerByType')
     
     logging.info("Starting link processing...")
-    os.makedirs('Files', exist_ok=True)
+    os.makedirs('files', exist_ok=True)
     unique_links = remove_duplicate_links(input_file)
     
     if not unique_links:
