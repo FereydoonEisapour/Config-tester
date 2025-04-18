@@ -20,26 +20,28 @@ jobs:
     - name: Install system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y unzip  
-        
+        sudo apt-get install -y unzip libcap2-bin
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.11'
         
+    - name: Configure Python capabilities
+      run: |
+        PYTHON_PATH=$(which python3.11)
+        echo "Python path: $PYTHON_PATH"
+        sudo setcap cap_net_bind_service=+ep $PYTHON_PATH
+        
     - name: Install Python dependencies
       run: |
-
-        sudo apt-get update
-        sudo apt-get install -y unzip libcap2-bin
-        sudo setcap cap_net_bind_service=+ep /usr/bin/python3.11
         cd files
         pip install -r requirements.txt
-
+        
     - name: Run tester
       run: python app.py
       env:
-        PYTHONUNBUFFERED: 1 
+        PYTHONUNBUFFERED: 1
         
     - name: Commit and push results
       uses: EndBug/add-and-commit@v7
