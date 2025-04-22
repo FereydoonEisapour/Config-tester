@@ -48,3 +48,9 @@ trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201%F0%9F%A4%AF
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&sni=x1ams-scaleway.devefun.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%201%F0%9F%A4%AF
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&sni=x1ams-scaleway.devefun.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%201%F0%9F%A4%AF
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201%F0%9F%A4%AF
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201%F0%9F%A4%AF
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%201
