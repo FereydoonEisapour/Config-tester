@@ -2,21 +2,21 @@
 Total Servers: 1000
 Successful Geo-IP Resolutions: 708
 Failed Geo-IP Resolutions: 292
-Unknown              : 246
-United States        : 75
-Germany              : 71
+Unknown              : 244
+United States        : 76
+Germany              : 72
 Lithuania            : 61
-Iran                 : 48
+Iran                 : 49
 United Kingdom       : 40
-The Netherlands      : 34
 Finland              : 32
+The Netherlands      : 31
 France               : 27
-Sweden               : 13
+Sweden               : 15
 Russia               : 8
 Hong Kong            : 6
+Cyprus               : 6
 United Arab Emirates : 6
 Czechia              : 5
-Cyprus               : 5
 Türkiye              : 4
 Spain                : 3
 Poland               : 3
@@ -30,13 +30,12 @@ Bulgaria             : 2
 Slovakia             : 1
 Romania              : 1
 Austria              : 1
-Italy                : 1
 South Africa         : 1
 Australia            : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 338
+SS                   : 334
 VMESS                : 143
 TROJAN               : 47
 HYSTERIA2            : 23
@@ -63,16 +62,16 @@ farahvpn            : 40
 ConfigsHUB2         : 40
 vmess_ir            : 40
 vmesc               : 40
+gh_v2rayng          : 39
 v2ray_free_conf     : 39
 asak_vpn            : 39
 summertimeus        : 39
-v2ry_proxy          : 38
-gh_v2rayng          : 37
 kurdistan_vpn_perfectt: 37
 outline_ir          : 36
 vpnplusee_free      : 36
 vmesskhodam         : 34
 FreakConfig         : 34
+v2ry_proxy          : 34
 satellitenewspersian: 33
 v2mystery           : 31
 vpnowl              : 30
