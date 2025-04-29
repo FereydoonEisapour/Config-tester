@@ -59,7 +59,7 @@ TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 20
 START_PORT = 10000
 REQUEST_TIMEOUT = 30
-PROCESS_START_WAIT = 20
+PROCESS_START_WAIT = 15
 MAX_RETRIES = 1
 
 def clean_directory(dir_path):
@@ -506,12 +506,11 @@ def parse_vless_link(link):
     parsed = urlparse(link)
     if parsed.scheme != 'vless':
         raise ValueError("Invalid VLESS link")
+    
     uuid = parsed.username
-    uuid_pattern = (
-        r'^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$'
-    )
-    if not re.match(uuid_pattern, uuid, re.I):
-        raise ValueError(f"Invalid UUID format: {uuid}")
+    if not re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', uuid, re.I):
+        raise ValueError("Invalid UUID format")
+    
     query = parse_qs(parsed.query)
     return {
         'original_link': link,
@@ -577,8 +576,11 @@ def parse_ss_link(link):
     parsed = urlparse(link)
     if parsed.scheme != 'ss':
         raise ValueError("Invalid Shadowsocks link")
+
     try:
         userinfo = unquote(parsed.netloc)
+
+       
         if '@' in userinfo:
             base64_part, _ = userinfo.split('@', 1)
             try:
@@ -589,14 +591,18 @@ def parse_ss_link(link):
                 method, password = decoded.split(':', 1)
             except Exception as e:
                 raise ValueError(f"Failed to decode base64 method:password — {str(e)}")
+       
         elif ':' in userinfo:
             method, password = userinfo.split(':', 1)
         else:
             raise ValueError("Shadowsocks link missing proper format (no @ or :)")
+
         host = parsed.hostname
         port = parsed.port
+
         if not host or not port:
             raise ValueError("Missing host or port in Shadowsocks link")
+
         return {
             'original_link': link,
             'protocol': 'shadowsocks',
@@ -606,6 +612,7 @@ def parse_ss_link(link):
             'port': int(port),
             'network': 'tcp'
         }
+
     except Exception as e:
         raise ValueError(f"Invalid Shadowsocks link format: {str(e)}")
 
@@ -623,6 +630,7 @@ def generate_config(server_info, local_port):
             "streamSettings": {}
         }]
     }
+    
     if server_info['protocol'] == 'vless':
         config['outbounds'][0]['settings'] = {
             "vnext": [{
@@ -665,6 +673,7 @@ def generate_config(server_info, local_port):
                 "ota": False
             }]
         }
+    
     stream = {
         "network": server_info.get('network', 'tcp'),
         "security": server_info.get('security', 'none'),
@@ -672,6 +681,7 @@ def generate_config(server_info, local_port):
         "realitySettings": None,
         "wsSettings": None
     }
+    
     if server_info.get('security') == 'tls':
         stream['tlsSettings'] = {
             "allowInsecure": True,
@@ -687,6 +697,7 @@ def generate_config(server_info, local_port):
             "shortId": server_info.get('sid', ''),
             "spiderX": ""
         }
+    
     if server_info.get('network') == 'ws':
         stream['wsSettings'] = {
             "path": server_info.get('ws_path', ''),
@@ -694,60 +705,68 @@ def generate_config(server_info, local_port):
                 "Host": server_info.get('ws_host', '')
             }
         }
+    
     config['outbounds'][0]['streamSettings'] = {k: v for k, v in stream.items() if v is not None}
     return config
 
 def test_server(server_info, config, local_port, log_queue):
-    for attempt in range(MAX_RETRIES):
-        process = None
-        config_path = None
-        try:
-            with tempfile.NamedTemporaryFile('w', delete=False, suffix='.json') as f:
-                json.dump(config, f)
-                config_path = f.name
-            v2ray_path = os.path.join(V2RAY_DIR, V2RAY_BIN)
-            process = subprocess.Popen(
-                [v2ray_path, 'run', '--config', config_path],
-                cwd=V2RAY_DIR,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE
-            )
-            time.sleep(PROCESS_START_WAIT)
-            if process.poll() is not None:
-                raise RuntimeError("V2Ray failed to start")
-            proxies = {
-                'http': f'socks5h://127.0.0.1:{local_port}',
-                'https': f'socks5h://127.0.0.1:{local_port}'
-            }
-            start_time = time.time()
-            response = requests.get(
-                TEST_LINK,
-                proxies=proxies,
-                timeout=REQUEST_TIMEOUT,
-                verify=False
-            )
-            elapsed = time.time() - start_time
-            if response.status_code == 200:
-                log_queue.put(('success', server_info, f"{elapsed:.2f}s (Attempt {attempt+1})"))
-                break
-            else:
-                if attempt == MAX_RETRIES - 1:
-                    log_queue.put(('failure', server_info, f"HTTP {response.status_code}"))
-        except Exception as e:
-            if attempt == MAX_RETRIES - 1:
-                log_queue.put(('failure', server_info, f"Test error: {str(e)}"))
-        finally:
-            if process and process.poll() is None:
-                process.terminate()
-                try:
-                    process.wait(timeout=5)
-                except subprocess.TimeoutExpired:
-                    process.kill()
-            if config_path and os.path.exists(config_path):
-                try:
-                    os.remove(config_path)
-                except Exception:
-                    pass
+    process = None
+    config_path = None
+    try:
+        with tempfile.NamedTemporaryFile('w', delete=False, suffix='.json') as f:
+            json.dump(config, f)
+            config_path = f.name
+        
+        v2ray_path = os.path.join(V2RAY_DIR, V2RAY_BIN)
+        logging.info(f"Testing {server_info['host']}:{server_info['port']}")
+        
+        process = subprocess.Popen(
+            [v2ray_path, 'run', '--config', config_path],
+            cwd=V2RAY_DIR,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE
+        )
+        time.sleep(PROCESS_START_WAIT)
+        
+        if process.poll() is not None:
+            stderr = process.stderr.read().decode()
+            raise RuntimeError(f"V2Ray failed to start: {stderr}")
+        
+        proxies = {
+            'http': f'socks5h://127.0.0.1:{local_port}',
+            'https': f'socks5h://127.0.0.1:{local_port}'
+        }
+        
+        start_time = time.time()
+        response = requests.get(
+            TEST_LINK,
+            proxies=proxies,
+            timeout=REQUEST_TIMEOUT,
+            verify=False
+        )
+        elapsed = time.time() - start_time
+        
+        if response.status_code == 200:
+            log_queue.put(('success', server_info, f"{elapsed:.2f}s"))
+        else:
+            log_queue.put(('failure', server_info, f"HTTP {response.status_code}"))
+            
+    except requests.exceptions.RequestException as e:
+        log_queue.put(('failure', server_info, f"Request failed: {str(e)}"))
+    except Exception as e:
+        log_queue.put(('failure', server_info, f"Test error: {str(e)}"))
+    finally:
+        if process and process.poll() is None:
+            process.terminate()
+            try:
+                process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                process.kill()
+        if config_path and os.path.exists(config_path):
+            try:
+                os.remove(config_path)
+            except Exception:
+                pass
 
 def check_v2ray_installed():
     try:
@@ -778,6 +797,7 @@ def install_v2ray():
     try:
         os_type = platform.system().lower()
         base_url = 'https://github.com/v2fly/v2ray-core/releases/latest/download'
+        
         if os_type == 'linux':
             machine = platform.machine().lower()
             if 'aarch64' in machine or 'arm64' in machine:
@@ -788,17 +808,21 @@ def install_v2ray():
             url = f'{base_url}/v2ray-windows-64.zip'
         else:
             raise OSError(f"Unsupported OS: {os_type}")
+
         if os.path.exists(V2RAY_DIR):
             shutil.rmtree(V2RAY_DIR, ignore_errors=True)
         os.makedirs(V2RAY_DIR, exist_ok=True)
+
         try:
             import zipfile
             import urllib.request
             zip_path, _ = urllib.request.urlretrieve(url)
             with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(V2RAY_DIR)
+            
             v2ray_path = os.path.join(V2RAY_DIR, V2RAY_BIN)
             os.chmod(v2ray_path, 0o755)
+            
             result = subprocess.run(
                 [v2ray_path, 'version'],
                 stdout=subprocess.PIPE,
@@ -806,6 +830,7 @@ def install_v2ray():
             )
             if result.returncode != 0:
                 raise RuntimeError(f"V2Ray install failed: {result.stderr.decode()}")
+                
         except Exception as e:
             sys.exit(f"Installation failed: {e}")
     except Exception as e:
