@@ -104,9 +104,9 @@ PATTERNS = {
 # Protocol enable/disable configuration
 ENABLED_PROTOCOLS = {
     'vless': True,
-    'vmess': True,
-    'trojan': True,
-    'ss': True
+    'vmess': False,
+    'trojan': False,
+    'ss': False
 }
 
 def normalize_telegram_url(url):
@@ -947,7 +947,6 @@ def logger_thread(log_queue):
 
     except Exception as e:
         logging.error(f"Error in logger thread: {str(e)}")
-
 
 
 if __name__ == "__main__":
