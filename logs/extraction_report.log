@@ -1,43 +1,44 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 708
-Failed Geo-IP Resolutions: 292
-Unknown              : 244
-United States        : 76
-Germany              : 72
-Lithuania            : 61
+Successful Geo-IP Resolutions: 709
+Failed Geo-IP Resolutions: 291
+Unknown              : 246
+United States        : 79
+Germany              : 71
+Lithuania            : 62
 Iran                 : 49
 United Kingdom       : 40
+The Netherlands      : 32
 Finland              : 32
-The Netherlands      : 31
 France               : 27
-Sweden               : 15
+Sweden               : 11
 Russia               : 8
 Hong Kong            : 6
-Cyprus               : 6
 United Arab Emirates : 6
 Czechia              : 5
+Cyprus               : 5
 Türkiye              : 4
 Spain                : 3
 Poland               : 3
 Switzerland          : 3
 Peru                 : 2
-Serbia               : 2
 Kuwait               : 2
 Canada               : 2
 Brazil               : 2
 Bulgaria             : 2
 Slovakia             : 1
 Romania              : 1
+Serbia               : 1
 Austria              : 1
+Italy                : 1
 South Africa         : 1
 Australia            : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 334
+SS                   : 336
 VMESS                : 143
-TROJAN               : 47
+TROJAN               : 45
 HYSTERIA2            : 23
 WIREGUARD            : 14
 HYSTERIA             : 0
@@ -57,20 +58,20 @@ NEW_MTProxi2        : 42
 v2rayprotocol       : 41
 VmessProtocol       : 40
 FarahVPN            : 40
-configshub2         : 40
+gh_v2rayng          : 40
 farahvpn            : 40
-ConfigsHUB2         : 40
 vmess_ir            : 40
 vmesc               : 40
-gh_v2rayng          : 39
 v2ray_free_conf     : 39
 asak_vpn            : 39
 summertimeus        : 39
 kurdistan_vpn_perfectt: 37
 outline_ir          : 36
 vpnplusee_free      : 36
+configshub2         : 34
 vmesskhodam         : 34
 FreakConfig         : 34
+ConfigsHUB2         : 34
 v2ry_proxy          : 34
 satellitenewspersian: 33
 v2mystery           : 31
@@ -114,9 +115,9 @@ freestrongvpn       : 8
 configV2rayForFree  : 8
 free_nettm          : 7
 kingofilter         : 6
+artemisvpn1         : 6
 nofiltering2        : 3
 zibanabz            : 3
 freeiranweb         : 2
 v2rayvpn2           : 2
 vpn4ir_1            : 2
-artemisvpn1         : 2
