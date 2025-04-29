@@ -1,17 +1,17 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 709
-Failed Geo-IP Resolutions: 291
-Unknown              : 246
+Successful Geo-IP Resolutions: 711
+Failed Geo-IP Resolutions: 289
+Unknown              : 247
 United States        : 79
-Germany              : 71
+Germany              : 73
 Lithuania            : 62
 Iran                 : 49
 United Kingdom       : 40
-The Netherlands      : 32
-Finland              : 32
-France               : 27
-Sweden               : 11
+Finland              : 33
+The Netherlands      : 31
+France               : 26
+Sweden               : 10
 Russia               : 8
 Hong Kong            : 6
 United Arab Emirates : 6
@@ -22,13 +22,13 @@ Spain                : 3
 Poland               : 3
 Switzerland          : 3
 Peru                 : 2
+Serbia               : 2
 Kuwait               : 2
 Canada               : 2
 Brazil               : 2
 Bulgaria             : 2
 Slovakia             : 1
 Romania              : 1
-Serbia               : 1
 Austria              : 1
 Italy                : 1
 South Africa         : 1
@@ -37,7 +37,7 @@ Australia            : 1
 === Server Type Summary ===
 VLESS                : 500
 SS                   : 336
-VMESS                : 143
+VMESS                : 145
 TROJAN               : 45
 HYSTERIA2            : 23
 WIREGUARD            : 14
@@ -67,11 +67,11 @@ asak_vpn            : 39
 summertimeus        : 39
 kurdistan_vpn_perfectt: 37
 outline_ir          : 36
+configshub2         : 36
+ConfigsHUB2         : 36
 vpnplusee_free      : 36
-configshub2         : 34
 vmesskhodam         : 34
 FreakConfig         : 34
-ConfigsHUB2         : 34
 v2ry_proxy          : 34
 satellitenewspersian: 33
 v2mystery           : 31
