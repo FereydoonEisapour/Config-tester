@@ -1,2 +1,0 @@
-# Statistics: Total=19 Active=1 Failed=18 Percent=5.3%
-vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?path=%2F%3Fed&security=tls&encryption=none&host=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&sni=kosesher2.nayase6031.workers.dev#______%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F______

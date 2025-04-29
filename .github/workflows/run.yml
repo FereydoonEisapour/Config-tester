@@ -35,7 +35,7 @@ jobs:
         
     - name: Install Python dependencies
       run: |
-        cd files
+        cd data
         pip install -r requirements.txt
         
     - name: Run tester

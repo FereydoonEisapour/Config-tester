@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw%3D%3D@95.164.68.37:8388#%40V2rayNG3
-vless://5767ae45-cdd4-4df2-bbe3-c21b66ced9b1@95.164.68.37:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____

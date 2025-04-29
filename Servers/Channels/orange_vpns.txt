@@ -1,3 +1,0 @@
-# Statistics: Total=4 Active=2 Failed=2 Percent=50.0%
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.145.23:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support.vless://86d834c3-cbf6-4a85-8214-949ac4b7ff17@2.144.7.213:28963?security=none&encryption=none&headerType=none&type=tcp#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.145.23:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support.vless://86d834c3-cbf6-4a85-8214-949ac4b7ff17@2.144.7.213:28963?security=none&encryption=none&headerType=none&type=tcp#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
