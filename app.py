@@ -58,7 +58,7 @@ MAX_MERGED_SERVERS = 1000         # Max entries in merged file
 TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 20
 START_PORT = 10000
-REQUEST_TIMEOUT = 10
+REQUEST_TIMEOUT = 30
 PROCESS_START_WAIT = 20
 MAX_RETRIES = 1
 
