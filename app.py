@@ -43,7 +43,7 @@ FETCH_CONFIG_LINKS_TIMEOUT = 15  # HTTP request timeout for Telegram scraping (s
 
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-V2RAY_DIR = os.path.join("data", 'v2ray')
+V2RAY_DIR = os.path.join('v2ray')
 TESTED_SERVERS_DIR = os.path.join(BASE_DIR, 'Tested_Servers')
 LOGS_DIR = os.path.join(BASE_DIR, 'logs')
 CHANNELS_DIR = os.path.join(BASE_DIR, 'Servers/Channels')
