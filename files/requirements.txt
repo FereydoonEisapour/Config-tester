@@ -1,4 +1,5 @@
-beautifulsoup4==4.13.4
-requests==2.32.3
-urllib3==2.4.0
-PySocks==1.7.1
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+geoip2>=4.7.0
+urllib3>=1.26.0
+PySocks>=1.7.1

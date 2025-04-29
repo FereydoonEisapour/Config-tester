@@ -48,6 +48,6 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated results 🚀"
+        message: "Updated  🚀"
         add: "."
         push: true 
