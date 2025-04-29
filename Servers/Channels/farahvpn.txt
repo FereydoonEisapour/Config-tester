@@ -1,1 +1,2 @@
-# Statistics: Total=14 Active=0 Failed=14 Percent=0.0%
+# Statistics: Total=18 Active=1 Failed=17 Percent=5.6%
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry

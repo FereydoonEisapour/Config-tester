@@ -1,5 +1,5 @@
 # Statistics: Total=10 Active=4 Failed=6 Percent=40.0%
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@QrV2ray|Allnet#فیلترشکن
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@QrV2ray|Allnet2
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-5…
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@QrV2ray|Allnet
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@QrV2ray|Allnet2
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@QrV2ray|Allnet#فیلترشکن

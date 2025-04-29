@@ -1,5 +1,4 @@
-# Statistics: Total=18 Active=4 Failed=14 Percent=22.2%
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40shokhmiplus
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?path=%2F&security=none&encryption=none&host=omidyzvg2.kamaleriz.info&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+# Statistics: Total=18 Active=3 Failed=15 Percent=16.7%
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?path=%2F&security=none&encryption=none&host=omidyzvg2.kamaleriz.info&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40shokhmiplus
