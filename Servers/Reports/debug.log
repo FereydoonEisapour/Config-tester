@@ -1,0 +1,378 @@
+2025-04-29 09:44:29,039 - INFO - Cleaning previous data...
+2025-04-29 09:44:29,039 - INFO - Cleaned directory: /home/runner/work/Config-tester/Config-tester/Servers/Protocols
+2025-04-29 09:44:29,039 - INFO - Cleaned directory: /home/runner/work/Config-tester/Config-tester/Servers/Regions
+2025-04-29 09:44:29,039 - INFO - Cleaned directory: /home/runner/work/Config-tester/Config-tester/Servers/Merged
+2025-04-29 09:44:29,039 - INFO - Cleaned directory: /home/runner/work/Config-tester/Config-tester/Servers/Channels
+2025-04-29 09:44:29,039 - INFO - Starting server extraction and testing
+2025-04-29 09:44:29,040 - INFO - Found 77 unique channels (standardized)
+2025-04-29 09:44:30,176 - INFO - Processed 1/77 https://t.me/s/ConfigsHUB2 (38 new configs)
+2025-04-29 09:44:30,742 - INFO - Processed 2/77 https://t.me/s/FarahVPN (38 new configs)
+2025-04-29 09:44:31,395 - INFO - Processed 3/77 https://t.me/s/FreakConfig (34 new configs)
+2025-04-29 09:44:32,360 - INFO - Processed 4/77 https://t.me/s/Hope_Net (48 new configs)
+2025-04-29 09:44:33,199 - INFO - Processed 5/77 https://t.me/s/NEW_MTProxi2 (42 new configs)
+2025-04-29 09:44:34,140 - INFO - Processed 6/77 https://t.me/s/Outline_Vpn (67 new configs)
+2025-04-29 09:44:35,028 - INFO - Processed 7/77 https://t.me/s/ShadowSocks_s (0 new configs)
+2025-04-29 09:44:35,749 - INFO - Processed 8/77 https://t.me/s/V2aryng_vpn (27 new configs)
+2025-04-29 09:44:37,084 - INFO - Processed 9/77 https://t.me/s/V2ra_ng_iran (23 new configs)
+2025-04-29 09:44:38,476 - INFO - Processed 10/77 https://t.me/s/V2rayNG3 (149 new configs)
+2025-04-29 09:44:38,476 - INFO - Processed 10/77 channels, pausing for 3 s
+2025-04-29 09:44:42,066 - INFO - Processed 11/77 https://t.me/s/V2rayng_Fast (14 new configs)
+2025-04-29 09:44:42,715 - INFO - Processed 12/77 https://t.me/s/VmessProtocol (40 new configs)
+2025-04-29 09:44:43,407 - INFO - Processed 13/77 https://t.me/s/WedBaZvpn (22 new configs)
+2025-04-29 09:44:44,188 - INFO - Processed 14/77 https://t.me/s/artemisvpn1 (8 new configs)
+2025-04-29 09:44:45,154 - INFO - Processed 15/77 https://t.me/s/asak_vpn (39 new configs)
+2025-04-29 09:44:45,943 - INFO - Processed 16/77 https://t.me/s/azarbayjab1 (23 new configs)
+2025-04-29 09:44:46,553 - INFO - Processed 17/77 https://t.me/s/chv2raynp (19 new configs)
+2025-04-29 09:44:47,303 - INFO - Processed 18/77 https://t.me/s/configV2rayForFree (8 new configs)
+2025-04-29 09:44:47,856 - INFO - Processed 19/77 https://t.me/s/configpluse (10 new configs)
+2025-04-29 09:44:48,396 - INFO - Processed 20/77 https://t.me/s/configshub2 (38 new configs)
+2025-04-29 09:44:48,396 - INFO - Processed 20/77 channels, pausing for 3 s
+2025-04-29 09:44:52,081 - INFO - Processed 21/77 https://t.me/s/dr_v2ray (29 new configs)
+2025-04-29 09:44:53,569 - INFO - Processed 22/77 https://t.me/s/expressvpn_420 (76 new configs)
+2025-04-29 09:44:54,158 - INFO - Processed 23/77 https://t.me/s/farahvpn (38 new configs)
+2025-04-29 09:44:55,486 - INFO - Processed 24/77 https://t.me/s/free1_vpn (10 new configs)
+2025-04-29 09:44:56,769 - INFO - Processed 25/77 https://t.me/s/free_nettm (7 new configs)
+2025-04-29 09:44:57,807 - INFO - Processed 26/77 https://t.me/s/free_vpn_for_all_of_us (20 new configs)
+2025-04-29 09:44:58,584 - INFO - Processed 27/77 https://t.me/s/freeiranweb (2 new configs)
+2025-04-29 09:44:59,972 - INFO - Processed 28/77 https://t.me/s/freestrongvpn (8 new configs)
+2025-04-29 09:45:00,549 - INFO - Processed 29/77 https://t.me/s/gh_v2rayng (39 new configs)
+2025-04-29 09:45:01,555 - INFO - Processed 30/77 https://t.me/s/kingoclubs (27 new configs)
+2025-04-29 09:45:01,555 - INFO - Processed 30/77 channels, pausing for 3 s
+2025-04-29 09:45:05,345 - INFO - Processed 31/77 https://t.me/s/kingofilter (6 new configs)
+2025-04-29 09:45:05,967 - INFO - Processed 32/77 https://t.me/s/kurdistan_vpn_perfectt (37 new configs)
+2025-04-29 09:45:06,648 - INFO - Processed 33/77 https://t.me/s/m_vipv2ray (25 new configs)
+2025-04-29 09:45:07,378 - INFO - Processed 34/77 https://t.me/s/meli_proxyy (21 new configs)
+2025-04-29 09:45:08,481 - INFO - Processed 35/77 https://t.me/s/nofiltering2 (3 new configs)
+2025-04-29 09:45:09,105 - INFO - Processed 36/77 https://t.me/s/orange_vpns (42 new configs)
+2025-04-29 09:45:09,721 - INFO - Processed 37/77 https://t.me/s/outline_ir (36 new configs)
+2025-04-29 09:45:10,754 - INFO - Processed 38/77 https://t.me/s/outlinev2rayng (29 new configs)
+2025-04-29 09:45:11,327 - INFO - Processed 39/77 https://t.me/s/proxy_mtproto_vpns_free (12 new configs)
+2025-04-29 09:45:13,047 - INFO - Processed 40/77 https://t.me/s/qrv2ray (17 new configs)
+2025-04-29 09:45:13,047 - INFO - Processed 40/77 channels, pausing for 3 s
+2025-04-29 09:45:16,816 - INFO - Processed 41/77 https://t.me/s/satellitenewspersian (33 new configs)
+2025-04-29 09:45:17,454 - INFO - Processed 42/77 https://t.me/s/selinc (14 new configs)
+2025-04-29 09:45:18,206 - INFO - Processed 43/77 https://t.me/s/shokhmiplus (61 new configs)
+2025-04-29 09:45:19,852 - INFO - Processed 44/77 https://t.me/s/sinavm (10 new configs)
+2025-04-29 09:45:21,602 - INFO - Processed 45/77 https://t.me/s/skivpn (22 new configs)
+2025-04-29 09:45:22,459 - INFO - Processed 46/77 https://t.me/s/summertimeus (39 new configs)
+2025-04-29 09:45:23,128 - INFO - Processed 47/77 https://t.me/s/v2mystery (31 new configs)
+2025-04-29 09:45:24,561 - INFO - Processed 48/77 https://t.me/s/v2ray1_ng (10 new configs)
+2025-04-29 09:45:25,964 - INFO - Processed 49/77 https://t.me/s/v2ray_best_iran (20 new configs)
+2025-04-29 09:45:26,535 - INFO - Processed 50/77 https://t.me/s/v2ray_free_conf (39 new configs)
+2025-04-29 09:45:26,535 - INFO - Processed 50/77 channels, pausing for 3 s
+2025-04-29 09:45:30,323 - INFO - Processed 51/77 https://t.me/s/v2ray_ng (149 new configs)
+2025-04-29 09:45:31,544 - INFO - Processed 52/77 https://t.me/s/v2ray_raha (14 new configs)
+2025-04-29 09:45:33,048 - INFO - Processed 53/77 https://t.me/s/v2ray_sub (11 new configs)
+2025-04-29 09:45:34,571 - INFO - Processed 54/77 https://t.me/s/v2rayfree (12 new configs)
+2025-04-29 09:45:35,192 - INFO - Processed 55/77 https://t.me/s/v2raying (14 new configs)
+2025-04-29 09:45:36,625 - INFO - Processed 56/77 https://t.me/s/v2rayng_1378 (21 new configs)
+2025-04-29 09:45:37,957 - INFO - Processed 57/77 https://t.me/s/v2rayngfreee (13 new configs)
+2025-04-29 09:45:38,483 - INFO - Processed 58/77 https://t.me/s/v2rayngri (0 new configs)
+2025-04-29 09:45:39,329 - INFO - Processed 59/77 https://t.me/s/v2rayprotocol (41 new configs)
+2025-04-29 09:45:39,932 - INFO - Processed 60/77 https://t.me/s/v2raytg (46 new configs)
+2025-04-29 09:45:39,932 - INFO - Processed 60/77 channels, pausing for 3 s
+2025-04-29 09:45:43,504 - INFO - Processed 61/77 https://t.me/s/v2rayvpn2 (2 new configs)
+2025-04-29 09:45:44,186 - INFO - Processed 62/77 https://t.me/s/v2ry_proxy (38 new configs)
+2025-04-29 09:45:45,670 - INFO - Processed 63/77 https://t.me/s/v2ryorg (26 new configs)
+2025-04-29 09:45:46,642 - INFO - Processed 64/77 https://t.me/s/v_2rayng0 (23 new configs)
+2025-04-29 09:45:47,228 - INFO - Processed 65/77 https://t.me/s/vistav2ray (14 new configs)
+2025-04-29 09:45:47,862 - INFO - Processed 66/77 https://t.me/s/vmesc (40 new configs)
+2025-04-29 09:45:49,205 - INFO - Processed 67/77 https://t.me/s/vmess_ir (40 new configs)
+2025-04-29 09:45:49,783 - INFO - Processed 68/77 https://t.me/s/vmesskhodam (34 new configs)
+2025-04-29 09:45:50,339 - INFO - Processed 69/77 https://t.me/s/vpn4ir_1 (2 new configs)
+2025-04-29 09:45:50,965 - INFO - Processed 70/77 https://t.me/s/vpn_ioss (18 new configs)
+2025-04-29 09:45:50,965 - INFO - Processed 70/77 channels, pausing for 3 s
+2025-04-29 09:45:54,770 - INFO - Processed 71/77 https://t.me/s/vpn_tehran (24 new configs)
+2025-04-29 09:45:56,043 - INFO - Processed 72/77 https://t.me/s/vpnkanfik (10 new configs)
+2025-04-29 09:45:56,644 - INFO - Processed 73/77 https://t.me/s/vpnowl (30 new configs)
+2025-04-29 09:45:57,267 - INFO - Processed 74/77 https://t.me/s/vpnplusee_free (36 new configs)
+2025-04-29 09:45:58,653 - INFO - Processed 75/77 https://t.me/s/wxgmrjdcc (20 new configs)
+2025-04-29 09:45:59,238 - INFO - Processed 76/77 https://t.me/s/zede_filteri (18 new configs)
+2025-04-29 09:46:00,297 - INFO - Processed 77/77 https://t.me/s/zibanabz (3 new configs)
+2025-04-29 09:46:00,297 - INFO - Starting geographical analysis...
+2025-04-29 09:46:00,297 - INFO - GeoIP database missing. Attempting download...
+2025-04-29 09:46:01,200 - INFO - GeoLite2 database downloaded successfully
+2025-04-29 09:46:01,993 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,993 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,993 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@speedtest.net.t... Error: Invalid UUID format: 55a3df5c-143c-43e5-ed36-4624fc39cafd
+2025-04-29 09:46:01,993 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://59860b15-b2d9-47f9-9b92…... Error: expected string or bytes-like object, got 'NoneType'
+2025-04-29 09:46:01,994 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@speedtest.net.t... Error: Invalid UUID format: 55a3df5c-143c-43e5-ed36-4624fc39cafd
+2025-04-29 09:46:01,994 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@speedtest.net.t... Error: Invalid UUID format: 55a3df5c-143c-43e5-ed36-4624fc39cafd
+2025-04-29 09:46:01,994 - ERROR - Invalid VLESS link in qrv2ray.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,995 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:88... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:01,995 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2... Error: Invalid UUID format: 1834c324-e0a5-5406-906e-d83e4b8afb2e
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.198:888... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,996 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.250:888... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2... Error: Invalid UUID format: 880adfbf-6098-5ed9-8e3d-7716caf63e72
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:888... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,997 - ERROR - Invalid VLESS link in shokhmiplus.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.240:888... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,998 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,998 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,999 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://Parsashonam-225@[2a01:4f8:1c1b:e1d0::1]:8888?type=tc... Error: Invalid UUID format: Parsashonam-225
+2025-04-29 09:46:01,999 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://Parsashonam-225@[2a01:4f8:1c1b:e1d0::1]:8888?type=tc... Error: Invalid UUID format: Parsashonam-225
+2025-04-29 09:46:01,999 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:01,999 - ERROR - Invalid VLESS link in VmessProtocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,001 - ERROR - Invalid VLESS link in vpn_tehran.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:88... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,001 - ERROR - Invalid VLESS link in vpn_tehran.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:88... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,002 - ERROR - Invalid VLESS link in nofiltering2.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,002 - ERROR - Invalid VLESS link in nofiltering2.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,002 - ERROR - Invalid VLESS link in nofiltering2.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,002 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://e4824193…... Error: expected string or bytes-like object, got 'NoneType'
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://102e5f34…... Error: expected string or bytes-like object, got 'NoneType'
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,003 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,004 - ERROR - Invalid VLESS link in kingoclubs.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,004 - ERROR - Invalid VLESS link in v2rayfree.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,007 - ERROR - Invalid VLESS link in gh_v2rayng.txt: vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:4... Error: Invalid UUID format: f0f8ae10-e52f-4454-f5ac-55b4e25eeb73
+2025-04-29 09:46:02,008 - ERROR - Invalid VLESS link in gh_v2rayng.txt: vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:4... Error: Invalid UUID format: f0f8ae10-e52f-4454-f5ac-55b4e25eeb73
+2025-04-29 09:46:02,008 - ERROR - Invalid VLESS link in gh_v2rayng.txt: vless://def6e08c-b9ec-4257-86ef-475efaddd366@91.107.167.61:5... Error: Port could not be cast to integer value as '592…'
+2025-04-29 09:46:02,009 - ERROR - Invalid VLESS link in azarbayjab1.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,009 - ERROR - Invalid VLESS link in azarbayjab1.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,010 - ERROR - Invalid VLESS link in v_2rayng0.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,010 - ERROR - Invalid VLESS link in v_2rayng0.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,011 - ERROR - Invalid VLESS link in v_2rayng0.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,011 - ERROR - Invalid VLESS link in expressvpn_420.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,013 - ERROR - Invalid VLESS link in expressvpn_420.txt: vless://45ce6f5fd81c414286cad87e5ba1f61a@inconigto.web.id:80... Error: Invalid UUID format: 45ce6f5fd81c414286cad87e5ba1f61a
+2025-04-29 09:46:02,013 - ERROR - Invalid VLESS link in expressvpn_420.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,014 - ERROR - Invalid VLESS link in outline_ir.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,014 - ERROR - Invalid VLESS link in outline_ir.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,015 - ERROR - Invalid VLESS link in configshub2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:15379?type=ws&path=/... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,015 - ERROR - Invalid VLESS link in configshub2.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,015 - ERROR - Invalid VLESS link in configshub2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:15379?type=ws&path=/... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,015 - ERROR - Invalid VLESS link in configshub2.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,016 - ERROR - Invalid VLESS link in configshub2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:1234?type=grpc&mode=... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,016 - ERROR - Invalid VLESS link in configshub2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:1234?type=grpc&mode=... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,017 - ERROR - Invalid VLESS link in vmesskhodam.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,018 - ERROR - Invalid VLESS link in vmesskhodam.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,018 - ERROR - Invalid VLESS link in FreakConfig.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,018 - ERROR - Invalid VLESS link in FreakConfig.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in FreakConfig.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in FreakConfig.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://2c72029d…... Error: expected string or bytes-like object, got 'NoneType'
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@speedtest.net.t... Error: Invalid UUID format: 55a3df5c-143c-43e5-ed36-4624fc39cafd
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@www.speedtest.n... Error: Invalid UUID format: 4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a
+2025-04-29 09:46:02,019 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@www.speedtest.n... Error: Invalid UUID format: 4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a
+2025-04-29 09:46:02,020 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@speedtest.net.t... Error: Invalid UUID format: 55a3df5c-143c-43e5-ed36-4624fc39cafd
+2025-04-29 09:46:02,020 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://6e4135f9-cf0f-4355-f133-177571fdccb4@wdbz.frqansgame... Error: Invalid UUID format: 6e4135f9-cf0f-4355-f133-177571fdccb4
+2025-04-29 09:46:02,020 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@Www.speedtest.n... Error: Invalid UUID format: 4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a
+2025-04-29 09:46:02,020 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@www.speedtest.n... Error: Invalid UUID format: 880adfbf-6098-5ed9-8e3d-7716caf63e72
+2025-04-29 09:46:02,020 - ERROR - Invalid VLESS link in WedBaZvpn.txt: vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@Www.speedtest.n... Error: Invalid UUID format: 4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a
+2025-04-29 09:46:02,021 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,021 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,021 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,022 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,022 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,022 - ERROR - Invalid VLESS link in Outline_Vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,023 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,023 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,023 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,023 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,024 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,024 - ERROR - Invalid VLESS link in asak_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,024 - ERROR - Invalid VLESS link in proxy_mtproto_vpns_free.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,025 - ERROR - Invalid VLESS link in chv2raynp.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,026 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,027 - ERROR - Invalid VLESS link in orange_vpns.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,027 - ERROR - Invalid VLESS link in v2rayngfreee.txt: vless://V2rayNGFreee@77.110.98.179:54715?security=none&encry... Error: Invalid UUID format: V2rayNGFreee
+2025-04-29 09:46:02,027 - ERROR - Invalid VLESS link in v2rayngfreee.txt: vless://V2rayNGFreee@77.110.98.179:54715?security=none&encry... Error: Invalid UUID format: V2rayNGFreee
+2025-04-29 09:46:02,028 - ERROR - Invalid VLESS link in meli_proxyy.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,028 - ERROR - Invalid VLESS link in meli_proxyy.txt: vless://Parsashonam-229@[2a01:4f8:1c1b:e1d0::1]:8888?securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,028 - ERROR - Invalid VLESS link in meli_proxyy.txt: vless://8d3e428a-c674-4fdb-d223-b94042dcf222@speedtest.net:8... Error: Invalid UUID format: 8d3e428a-c674-4fdb-d223-b94042dcf222
+2025-04-29 09:46:02,029 - ERROR - Invalid VLESS link in meli_proxyy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,029 - ERROR - Invalid VLESS link in meli_proxyy.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,029 - ERROR - Invalid VLESS link in v2ryorg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,029 - ERROR - Invalid VLESS link in v2ryorg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,030 - ERROR - Invalid VLESS link in v2ryorg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,030 - ERROR - Invalid VLESS link in v2ryorg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,031 - ERROR - Invalid VLESS link in satellitenewspersian.txt: vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:8... Error: Invalid UUID format: fb55df78-d8cd-fb15-0ceb-4e50d02908f9
+2025-04-29 09:46:02,031 - ERROR - Invalid VLESS link in satellitenewspersian.txt: vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:8... Error: Invalid UUID format: fb55df78-d8cd-fb15-0ceb-4e50d02908f9
+2025-04-29 09:46:02,031 - ERROR - Invalid VLESS link in satellitenewspersian.txt: vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247... Error: Invalid UUID format: e4824193-4f54-453b-d037-88368e85ef0e
+2025-04-29 09:46:02,033 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:15379?type=ws&path=/... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,033 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,033 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:15379?type=ws&path=/... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,033 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,033 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:1234?type=grpc&mode=... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,034 - ERROR - Invalid VLESS link in ConfigsHUB2.txt: vless://V2RAXX@V2RAXX-channel.cataba.ir:1234?type=grpc&mode=... Error: Invalid UUID format: V2RAXX
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://V2RAXX--@V2RAXX-channel.cataba.ir:15379?path=%2F%40V... Error: Invalid UUID format: V2RAXX--
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://V2RAXX--@V2RAXX-channel.cataba.ir:15379?path=%2F%40V... Error: Invalid UUID format: V2RAXX--
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://V2RAXX--@V2RAXX-channel.cataba.ir:15379?path=%2F%40V... Error: Invalid UUID format: V2RAXX--
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://uFUaJjiB@138.128.224.100:443?path=%2Ftelegram-mitivp... Error: Invalid UUID format: uFUaJjiB
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://dd155336-2b3b-13c6-8557-ad6b2c2a54fe@185.143.233.1:8... Error: Invalid UUID format: dd155336-2b3b-13c6-8557-ad6b2c2a54fe
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://uFUaJjiB@138.128.224.100:443?path=%2Ftelegram-mitivp... Error: Invalid UUID format: uFUaJjiB
+2025-04-29 09:46:02,035 - ERROR - Invalid VLESS link in skivpn.txt: vless://uFUaJjiB@138.128.224.100:443?path=%2Ftelegram-mitivp... Error: Invalid UUID format: uFUaJjiB
+2025-04-29 09:46:02,036 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,036 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,036 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,036 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,036 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,037 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,037 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://telegram-id-ArV2ray@151.101.64.155:80?path=%2F-ArV2r... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,037 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,037 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://telegram-id-ArV2ray@151.101.64.155:80?path=%2F-ArV2r... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,037 - ERROR - Invalid VLESS link in v2ry_proxy.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,038 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2F-... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=n... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://7b238953-b0bf-4a9a-cecc-5739c395303b@62.60.164.163:1... Error: Invalid UUID format: 7b238953-b0bf-4a9a-cecc-5739c395303b
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2F-... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://7b238953-b0bf-4a9a-cecc-5739c395303b@62.60.164.163:1... Error: Invalid UUID format: 7b238953-b0bf-4a9a-cecc-5739c395303b
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=n... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,039 - ERROR - Invalid VLESS link in vpnplusee_free.txt: vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,040 - ERROR - Invalid VLESS link in v2raytg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,040 - ERROR - Invalid VLESS link in v2raytg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,040 - ERROR - Invalid VLESS link in v2raytg.txt: vless://hcjmtjTh7KyDcy@77.83.85.188:443?security=reality&enc... Error: Invalid UUID format: hcjmtjTh7KyDcy
+2025-04-29 09:46:02,040 - ERROR - Invalid VLESS link in v2raytg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,041 - ERROR - Invalid VLESS link in v2raytg.txt: vless://hcjmtjTh7KyDcy@77.83.85.188:443?security=reality&enc... Error: Invalid UUID format: hcjmtjTh7KyDcy
+2025-04-29 09:46:02,041 - ERROR - Invalid VLESS link in v2raytg.txt: vless://5e73919b-b748-4a20-ebab-3ca714ab7c1e@speedtest.net:8... Error: Invalid UUID format: 5e73919b-b748-4a20-ebab-3ca714ab7c1e
+2025-04-29 09:46:02,041 - ERROR - Invalid VLESS link in v2raytg.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,041 - ERROR - Invalid VLESS link in v2raytg.txt: vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@speedtest.net:8... Error: Invalid UUID format: 0f38c3a9-e0c0-47ba-c619-0f16933f1d18
+2025-04-29 09:46:02,041 - ERROR - Invalid VLESS link in v2raytg.txt: vless://qGIpSqSIap2ncn@185.237.95.216:443?security=reality&e... Error: Invalid UUID format: qGIpSqSIap2ncn
+2025-04-29 09:46:02,042 - ERROR - Invalid VLESS link in selinc.txt: vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:4... Error: Invalid UUID format: f0f8ae10-e52f-4454-f5ac-55b4e25eeb73
+2025-04-29 09:46:02,042 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.u... Error: Invalid UUID format: ca9074b2-2442-43b8-c7ab-5440cb7f3ef7
+2025-04-29 09:46:02,042 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,042 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,042 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.u... Error: Invalid UUID format: ca9074b2-2442-43b8-c7ab-5440cb7f3ef7
+2025-04-29 09:46:02,043 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&host=m... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,043 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&host=m... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,043 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,043 - ERROR - Invalid VLESS link in kurdistan_vpn_perfectt.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,044 - ERROR - Invalid VLESS link in V2aryng_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,044 - ERROR - Invalid VLESS link in V2aryng_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,044 - ERROR - Invalid VLESS link in V2aryng_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,044 - ERROR - Invalid VLESS link in V2aryng_vpn.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.7:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.7:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,046 - ERROR - Invalid VLESS link in v2mystery.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,047 - ERROR - Invalid VLESS link in v2mystery.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,047 - ERROR - Invalid VLESS link in v2mystery.txt: vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?se... Error: Invalid UUID format: TELEGRAM-ServerNett
+2025-04-29 09:46:02,048 - ERROR - Invalid VLESS link in m_vipv2ray.txt: vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:88... Error: Invalid UUID format: 2b18c69d-b774-5eb8-9cf5-a5dd26bd6229
+2025-04-29 09:46:02,048 - ERROR - Invalid VLESS link in m_vipv2ray.txt: vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:88... Error: Invalid UUID format: 2b18c69d-b774-5eb8-9cf5-a5dd26bd6229
+2025-04-29 09:46:02,048 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.245.172:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,049 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,049 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,049 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883232... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,049 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.84:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,050 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,050 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,050 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:88... Error: Invalid UUID format: 9ac37507-dc17-5313-8125-c6f588c60103
+2025-04-29 09:46:02,051 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,051 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,051 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,051 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.212.64:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,052 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:88... Error: Invalid UUID format: bacff32b-48b5-5191-b222-33538e15c735
+2025-04-29 09:46:02,052 - ERROR - Invalid VLESS link in V2rayNG3.txt: vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:88... Error: Invalid UUID format: bacff32b-48b5-5191-b222-33538e15c735
+2025-04-29 09:46:02,052 - ERROR - Invalid VLESS link in vistav2ray.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,053 - ERROR - Invalid VLESS link in v2ray_raha.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,053 - ERROR - Invalid VLESS link in v2ray_raha.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,053 - ERROR - Invalid VLESS link in v2ray_raha.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,053 - ERROR - Invalid VLESS link in v2ray_raha.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,054 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,054 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://Parsashonam-225@[2a01:4f8:1c1b:e1d0::1]:8888?type=tc... Error: Invalid UUID format: Parsashonam-225
+2025-04-29 09:46:02,054 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://Parsashonam-225@[2a01:4f8:1c1b:e1d0::1]:8888?type=tc... Error: Invalid UUID format: Parsashonam-225
+2025-04-29 09:46:02,054 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,055 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,056 - ERROR - Invalid VLESS link in v2rayprotocol.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,056 - ERROR - Invalid VLESS link in NEW_MTProxi2.txt: vless://cedfff41-f584-551f-a43c-e9841a7babac@14.102.228.75:2... Error: Invalid UUID format: cedfff41-f584-551f-a43c-e9841a7babac
+2025-04-29 09:46:02,056 - ERROR - Invalid VLESS link in NEW_MTProxi2.txt: vless://cedfff41-f584-551f-a43c-e9841a7babac@14.102.228.75:2... Error: Invalid UUID format: cedfff41-f584-551f-a43c-e9841a7babac
+2025-04-29 09:46:02,058 - ERROR - Invalid VLESS link in vmess_ir.txt: vless://Parsashonam-228@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2... Error: Invalid UUID format: Parsashonam-228
+2025-04-29 09:46:02,058 - ERROR - Invalid VLESS link in vmess_ir.txt: vless://Parsashonam-228@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-228
+2025-04-29 09:46:02,058 - ERROR - Invalid VLESS link in vmess_ir.txt: vless://Parsashonam-228@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-228
+2025-04-29 09:46:02,058 - ERROR - Invalid VLESS link in vmess_ir.txt: vless://Parsashonam-228@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2... Error: Invalid UUID format: Parsashonam-228
+2025-04-29 09:46:02,060 - ERROR - Invalid VLESS link in vmesc.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,060 - ERROR - Invalid VLESS link in vmesc.txt: vless://f28b23ed-6eb2-da9a-c112-6918a83654a6@mehamboz.darkpi... Error: Invalid UUID format: f28b23ed-6eb2-da9a-c112-6918a83654a6
+2025-04-29 09:46:02,060 - ERROR - Invalid VLESS link in vmesc.txt: vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:4... Error: Invalid UUID format: f0f8ae10-e52f-4454-f5ac-55b4e25eeb73
+2025-04-29 09:46:02,060 - ERROR - Invalid VLESS link in vmesc.txt: vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:4... Error: Invalid UUID format: f0f8ae10-e52f-4454-f5ac-55b4e25eeb73
+2025-04-29 09:46:02,061 - ERROR - Invalid VLESS link in vmesc.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638804378561968... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,061 - ERROR - Invalid VLESS link in vmesc.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,061 - ERROR - Invalid VLESS link in vmesc.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638804378561968... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,061 - ERROR - Invalid VLESS link in vmesc.txt: vless://f28b23ed-6eb2-da9a-c112-6918a83654a6@mehamboz.darkpi... Error: Invalid UUID format: f28b23ed-6eb2-da9a-c112-6918a83654a6
+2025-04-29 09:46:02,061 - ERROR - Invalid VLESS link in v2rayng_1378.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,062 - ERROR - Invalid VLESS link in v2rayng_1378.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,062 - ERROR - Invalid VLESS link in V2ra_ng_iran.txt: vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:4... Error: Port could not be cast to integer value as '451…'
+2025-04-29 09:46:02,063 - ERROR - Invalid VLESS link in V2ra_ng_iran.txt: vless://8dabe69a-0cf2-47d1-bce2-…... Error: expected string or bytes-like object, got 'NoneType'
+2025-04-29 09:46:02,063 - ERROR - Invalid VLESS link in V2ra_ng_iran.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,063 - ERROR - Invalid VLESS link in V2ra_ng_iran.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:88... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,063 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://8d3e428a-c674-4fdb-d223-b94042dcf222@151.101.130.219... Error: Invalid UUID format: 8d3e428a-c674-4fdb-d223-b94042dcf222
+2025-04-29 09:46:02,064 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://caacbba-acba-baca-dacb-bbbaccacbaca@127.0.0.1:3080?s... Error: Invalid UUID format: caacbba-acba-baca-dacb-bbbaccacbaca
+2025-04-29 09:46:02,064 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://cbcabaa-baac-abac-dbac-caacacabbcbb@127.0.0.1:1080?s... Error: Invalid UUID format: cbcabaa-baac-abac-dbac-caacacabbcbb
+2025-04-29 09:46:02,064 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://cbcabaa-baac-abac-dbac-caacacabbcbb@127.0.0.1:1080?s... Error: Invalid UUID format: cbcabaa-baac-abac-dbac-caacacabbcbb
+2025-04-29 09:46:02,064 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://8d3e428a-c674-4fdb-d223-b94042dcf222@151.101.130.219... Error: Invalid UUID format: 8d3e428a-c674-4fdb-d223-b94042dcf222
+2025-04-29 09:46:02,065 - ERROR - Invalid VLESS link in Hope_Net.txt: vless://caacbba-acba-baca-dacb-bbbaccacbaca@127.0.0.1:3080?s... Error: Invalid UUID format: caacbba-acba-baca-dacb-bbbaccacbaca
+2025-04-29 09:46:02,065 - ERROR - Invalid VLESS link in summertimeus.txt: vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2... Error: Invalid UUID format: telegram-id-ArV2ray1
+2025-04-29 09:46:02,066 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.245.172:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,066 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,067 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,067 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883232... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,067 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.84:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,068 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,068 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,068 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:88... Error: Invalid UUID format: 9ac37507-dc17-5313-8125-c6f588c60103
+2025-04-29 09:46:02,068 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,068 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,069 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,069 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.212.64:8... Error: Invalid UUID format: df0680ca-e43c-498d-ed86-8e196eedd012
+2025-04-29 09:46:02,069 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:88... Error: Invalid UUID format: bacff32b-48b5-5191-b222-33538e15c735
+2025-04-29 09:46:02,070 - ERROR - Invalid VLESS link in v2ray_ng.txt: vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:88... Error: Invalid UUID format: bacff32b-48b5-5191-b222-33538e15c735
+2025-04-29 09:46:02,070 - ERROR - Invalid VLESS link in wxgmrjdcc.txt: vless://6b5080c3-c19d-5401-aa83-c557ccfec5ff@14.102.228.75:2... Error: Invalid UUID format: 6b5080c3-c19d-5401-aa83-c557ccfec5ff
+2025-04-29 09:46:02,070 - ERROR - Invalid VLESS link in wxgmrjdcc.txt: vless://f372227f-fa57-434c-e702-b160b7117bc5@188.114.97.50:2... Error: Invalid UUID format: f372227f-fa57-434c-e702-b160b7117bc5
+2025-04-29 09:46:02,071 - ERROR - Invalid VLESS link in vpnkanfik.txt: vless://9de3b235-bc16-eb6f-aca6-9b38e2b22d62@91.199.27.133:8... Error: Invalid UUID format: 9de3b235-bc16-eb6f-aca6-9b38e2b22d62
+2025-04-29 09:46:02,071 - ERROR - Invalid VLESS link in vpnkanfik.txt: vless://9de3b235-bc16-eb6f-aca6-9b38e2b22d62@91.199.27.133:8... Error: Invalid UUID format: 9de3b235-bc16-eb6f-aca6-9b38e2b22d62
+2025-04-29 09:46:02,072 - ERROR - Invalid VLESS link in outlinev2rayng.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,072 - ERROR - Invalid VLESS link in outlinev2rayng.txt: vless://Parsashonam-229@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,072 - ERROR - Invalid VLESS link in outlinev2rayng.txt: vless://Parsashonam-229@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,072 - ERROR - Invalid VLESS link in outlinev2rayng.txt: vless://Parsashonam-229@185.146.173.39:8880?path=%2F&securit... Error: Invalid UUID format: Parsashonam-229
+2025-04-29 09:46:02,073 - ERROR - Invalid VLESS link in free_vpn_for_all_of_us.txt: vless://telegram-id-ArV2ray@185.146.173.158:8080?path=%2Ftel... Error: Invalid UUID format: telegram-id-ArV2ray
+2025-04-29 09:46:02,073 - INFO - Loaded 1194 servers from 75 channel files
+2025-04-29 09:46:02,074 - INFO - Protocol configuration:
+2025-04-29 09:46:02,074 - INFO -   VLESS     : Enabled
+2025-04-29 09:46:02,074 - INFO -   VMESS     : Disabled
+2025-04-29 09:46:02,074 - INFO -   TROJAN    : Disabled
+2025-04-29 09:46:02,074 - INFO -   SS        : Disabled
+2025-04-29 09:46:02,074 - INFO -   HYSTERIA  : Disabled
+2025-04-29 09:46:02,074 - INFO -   HYSTERIA2 : Disabled
+2025-04-29 09:46:02,074 - INFO -   TUIC      : Disabled
+2025-04-29 09:46:02,074 - INFO -   WIREGUARD : Disabled
+2025-04-29 09:46:02,074 - INFO -   WARP      : Disabled
+2025-04-29 09:46:02,383 - INFO - Installing V2Ray...
+2025-04-29 09:54:30,570 - INFO - 
+Extraction and Testing Complete
+2025-04-29 09:54:30,570 - INFO - Protocols: /home/runner/work/Config-tester/Config-tester/Servers/Protocols
+2025-04-29 09:54:30,570 - INFO - Regions: /home/runner/work/Config-tester/Config-tester/Servers/Regions
+2025-04-29 09:54:30,570 - INFO - Merged: /home/runner/work/Config-tester/Config-tester/Servers/Merged
+2025-04-29 09:54:30,570 - INFO - Channels: /home/runner/work/Config-tester/Config-tester/Servers/Channels
+2025-04-29 09:54:30,570 - INFO - 
+Final Statistics:
+2025-04-29 09:54:30,570 - INFO - Total Servers Extracted: 1858
+2025-04-29 09:54:30,570 - INFO - Successful Geo-IP Resolutions: 1207
+2025-04-29 09:54:30,570 - INFO - Failed Geo-IP Resolutions: 651

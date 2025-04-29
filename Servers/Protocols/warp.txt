@@ -1,0 +1,4 @@
+warp://[2606:4700:d1::7608:c675:d55b:d2e1]:987/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m6&&detour=warp://[2606:4700:d1::7608:c675:d55b:d2e1]:987/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m6#Artemisvpn1-WoW-IPv6🇩🇪🚩
+warp://188.114.97.37:8854/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m4&&detour=warp://188.114.97.37:8854/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m4#Artemisvpn1-WoW-IPv4🇩🇪🚩
+warp://188.114.97.37:8854/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m4&&detour=warp://188.114.97.37:8854/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m4#Artemisvpn1-WoW-IPv4🇩🇪
+warp://[2606:4700:d1::7608:c675:d55b:d2e1]:987/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m6&&detour=warp://[2606:4700:d1::7608:c675:d55b:d2e1]:987/?ifp=40-80&ifps=20-40&ifpd=1-2&ifpm=m6#Artemisvpn1-WoW-IPv6🇩🇪

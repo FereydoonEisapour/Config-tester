@@ -1,0 +1,5 @@
+# Statistics: Total=38 Active=4 Failed=34 Percent=10.5%
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40summertimeus
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40summertimeusهمه‌ی
+vless://5e209303-24cd-471a-be96-107598465a1b@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus🎀
+vless://5e209303-24cd-471a-be96-107598465a1b@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#@summertimeus

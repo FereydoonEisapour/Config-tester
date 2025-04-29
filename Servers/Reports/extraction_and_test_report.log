@@ -1,0 +1,209 @@
+=== Extraction and Testing Report ===
+Total Servers Extracted: 1858
+Successful Geo-IP Resolutions: 1207
+Failed Geo-IP Resolutions: 651
+
+=== Country Statistics ===
+Unknown              : 430
+United States        : 130
+Germany              : 111
+Lithuania            : 84
+United Kingdom       : 75
+Iran                 : 54
+The Netherlands      : 51
+Finland              : 51
+France               : 45
+Sweden               : 30
+Singapore            : 23
+Russia               : 13
+Cyprus               : 11
+Poland               : 11
+Türkiye              : 11
+United Arab Emirates : 10
+Brazil               : 9
+Hong Kong            : 7
+Czechia              : 7
+Austria              : 5
+Switzerland          : 5
+Serbia               : 4
+Spain                : 4
+Italy                : 3
+Latvia               : 2
+Japan                : 2
+Seychelles           : 2
+Canada               : 2
+China                : 2
+Moldova              : 2
+Gibraltar            : 2
+Bulgaria             : 2
+Bahrain              : 2
+Slovakia             : 1
+Romania              : 1
+Iceland              : 1
+South Africa         : 1
+Australia            : 1
+
+=== Server Type Summary ===
+VLESS                : 1690
+SS                   : 331
+VMESS                : 143
+TROJAN               : 45
+HYSTERIA             : 19
+HYSTERIA2            : 19
+WIREGUARD            : 15
+WARP                 : 4
+TUIC                 : 0
+
+=== Channel Extraction Statistics ===
+V2rayNG3            : 149
+v2ray_ng            : 149
+expressvpn_420      : 76
+Outline_Vpn         : 67
+shokhmiplus         : 61
+Hope_Net            : 48
+v2raytg             : 46
+NEW_MTProxi2        : 42
+orange_vpns         : 42
+v2rayprotocol       : 41
+VmessProtocol       : 40
+vmesc               : 40
+vmess_ir            : 40
+asak_vpn            : 39
+gh_v2rayng          : 39
+summertimeus        : 39
+v2ray_free_conf     : 39
+ConfigsHUB2         : 38
+FarahVPN            : 38
+configshub2         : 38
+farahvpn            : 38
+v2ry_proxy          : 38
+kurdistan_vpn_perfectt: 37
+outline_ir          : 36
+vpnplusee_free      : 36
+FreakConfig         : 34
+vmesskhodam         : 34
+satellitenewspersian: 33
+v2mystery           : 31
+vpnowl              : 30
+dr_v2ray            : 29
+outlinev2rayng      : 29
+V2aryng_vpn         : 27
+kingoclubs          : 27
+v2ryorg             : 26
+m_vipv2ray          : 25
+vpn_tehran          : 24
+V2ra_ng_iran        : 23
+azarbayjab1         : 23
+v_2rayng0           : 23
+WedBaZvpn           : 22
+skivpn              : 22
+meli_proxyy         : 21
+v2rayng_1378        : 21
+free_vpn_for_all_of_us: 20
+v2ray_best_iran     : 20
+wxgmrjdcc           : 20
+chv2raynp           : 19
+vpn_ioss            : 18
+zede_filteri        : 18
+qrv2ray             : 17
+V2rayng_Fast        : 14
+selinc              : 14
+v2ray_raha          : 14
+v2raying            : 14
+vistav2ray          : 14
+v2rayngfreee        : 13
+proxy_mtproto_vpns_free: 12
+v2rayfree           : 12
+v2ray_sub           : 11
+configpluse         : 10
+free1_vpn           : 10
+sinavm              : 10
+v2ray1_ng           : 10
+vpnkanfik           : 10
+artemisvpn1         : 8
+configV2rayForFree  : 8
+freestrongvpn       : 8
+free_nettm          : 7
+kingofilter         : 6
+nofiltering2        : 3
+zibanabz            : 3
+freeiranweb         : 2
+v2rayvpn2           : 2
+vpn4ir_1            : 2
+ShadowSocks_s       : 0
+v2rayngri           : 0
+
+=== Channel Testing Statistics ===
+qrv2ray.txt         : Total=10 Active=0 Failed=0 Percent=0.0%
+freestrongvpn.txt   : Total=4 Active=0 Failed=0 Percent=0.0%
+shokhmiplus.txt     : Total=18 Active=0 Failed=0 Percent=0.0%
+free1_vpn.txt       : Total=8 Active=0 Failed=0 Percent=0.0%
+VmessProtocol.txt   : Total=24 Active=0 Failed=0 Percent=0.0%
+zede_filteri.txt    : Total=6 Active=0 Failed=0 Percent=0.0%
+vpn_tehran.txt      : Total=18 Active=0 Failed=0 Percent=0.0%
+kingoclubs.txt      : Total=19 Active=0 Failed=0 Percent=0.0%
+v2rayfree.txt       : Total=10 Active=0 Failed=0 Percent=0.0%
+sinavm.txt          : Total=8 Active=0 Failed=0 Percent=0.0%
+FarahVPN.txt        : Total=14 Active=0 Failed=0 Percent=0.0%
+free_nettm.txt      : Total=7 Active=0 Failed=0 Percent=0.0%
+freeiranweb.txt     : Total=2 Active=0 Failed=0 Percent=0.0%
+vpnowl.txt          : Total=30 Active=0 Failed=0 Percent=0.0%
+gh_v2rayng.txt      : Total=18 Active=0 Failed=0 Percent=0.0%
+configV2rayForFree.txt: Total=8 Active=0 Failed=0 Percent=0.0%
+azarbayjab1.txt     : Total=15 Active=0 Failed=0 Percent=0.0%
+zibanabz.txt        : Total=3 Active=0 Failed=0 Percent=0.0%
+v_2rayng0.txt       : Total=12 Active=0 Failed=0 Percent=0.0%
+v2ray1_ng.txt       : Total=8 Active=0 Failed=0 Percent=0.0%
+expressvpn_420.txt  : Total=73 Active=0 Failed=0 Percent=0.0%
+outline_ir.txt      : Total=22 Active=0 Failed=0 Percent=0.0%
+configshub2.txt     : Total=22 Active=0 Failed=0 Percent=0.0%
+vmesskhodam.txt     : Total=27 Active=0 Failed=0 Percent=0.0%
+FreakConfig.txt     : Total=8 Active=0 Failed=0 Percent=0.0%
+WedBaZvpn.txt       : Total=13 Active=0 Failed=0 Percent=0.0%
+Outline_Vpn.txt     : Total=30 Active=0 Failed=0 Percent=0.0%
+asak_vpn.txt        : Total=15 Active=0 Failed=0 Percent=0.0%
+proxy_mtproto_vpns_free.txt: Total=10 Active=0 Failed=0 Percent=0.0%
+kingofilter.txt     : Total=6 Active=0 Failed=0 Percent=0.0%
+chv2raynp.txt       : Total=12 Active=0 Failed=0 Percent=0.0%
+orange_vpns.txt     : Total=4 Active=0 Failed=0 Percent=0.0%
+v2rayngfreee.txt    : Total=9 Active=0 Failed=0 Percent=0.0%
+configpluse.txt     : Total=5 Active=0 Failed=0 Percent=0.0%
+v2ray_sub.txt       : Total=3 Active=0 Failed=0 Percent=0.0%
+meli_proxyy.txt     : Total=12 Active=0 Failed=0 Percent=0.0%
+v2ryorg.txt         : Total=14 Active=0 Failed=0 Percent=0.0%
+satellitenewspersian.txt: Total=25 Active=0 Failed=0 Percent=0.0%
+v2raying.txt        : Total=14 Active=0 Failed=0 Percent=0.0%
+farahvpn.txt        : Total=14 Active=0 Failed=0 Percent=0.0%
+ConfigsHUB2.txt     : Total=22 Active=0 Failed=0 Percent=0.0%
+vpn_ioss.txt        : Total=13 Active=0 Failed=0 Percent=0.0%
+skivpn.txt          : Total=10 Active=0 Failed=0 Percent=0.0%
+v2ry_proxy.txt      : Total=16 Active=0 Failed=0 Percent=0.0%
+vpnplusee_free.txt  : Total=22 Active=0 Failed=0 Percent=0.0%
+v2raytg.txt         : Total=26 Active=0 Failed=0 Percent=0.0%
+selinc.txt          : Total=6 Active=0 Failed=0 Percent=0.0%
+kurdistan_vpn_perfectt.txt: Total=19 Active=0 Failed=0 Percent=0.0%
+V2aryng_vpn.txt     : Total=18 Active=0 Failed=0 Percent=0.0%
+dr_v2ray.txt        : Total=29 Active=0 Failed=0 Percent=0.0%
+v2mystery.txt       : Total=21 Active=0 Failed=0 Percent=0.0%
+m_vipv2ray.txt      : Total=18 Active=0 Failed=0 Percent=0.0%
+V2rayNG3.txt        : Total=52 Active=0 Failed=0 Percent=0.0%
+vistav2ray.txt      : Total=13 Active=0 Failed=0 Percent=0.0%
+v2ray_raha.txt      : Total=4 Active=0 Failed=0 Percent=0.0%
+v2rayprotocol.txt   : Total=22 Active=0 Failed=0 Percent=0.0%
+NEW_MTProxi2.txt    : Total=26 Active=0 Failed=0 Percent=0.0%
+v2rayvpn2.txt       : Total=2 Active=0 Failed=0 Percent=0.0%
+vmess_ir.txt        : Total=30 Active=0 Failed=0 Percent=0.0%
+v2ray_best_iran.txt : Total=20 Active=0 Failed=0 Percent=0.0%
+vpn4ir_1.txt        : Total=2 Active=0 Failed=0 Percent=0.0%
+vmesc.txt           : Total=20 Active=0 Failed=0 Percent=0.0%
+v2rayng_1378.txt    : Total=10 Active=0 Failed=0 Percent=0.0%
+artemisvpn1.txt     : Total=4 Active=0 Failed=0 Percent=0.0%
+V2ra_ng_iran.txt    : Total=11 Active=0 Failed=0 Percent=0.0%
+Hope_Net.txt        : Total=26 Active=0 Failed=0 Percent=0.0%
+summertimeus.txt    : Total=38 Active=0 Failed=0 Percent=0.0%
+v2ray_ng.txt        : Total=52 Active=0 Failed=0 Percent=0.0%
+wxgmrjdcc.txt       : Total=8 Active=0 Failed=0 Percent=0.0%
+V2rayng_Fast.txt    : Total=12 Active=0 Failed=0 Percent=0.0%
+vpnkanfik.txt       : Total=6 Active=0 Failed=0 Percent=0.0%
+outlinev2rayng.txt  : Total=17 Active=0 Failed=0 Percent=0.0%
+free_vpn_for_all_of_us.txt: Total=19 Active=0 Failed=0 Percent=0.0%
