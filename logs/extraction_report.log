@@ -1,24 +1,24 @@
 === Country Statistics ===
 Total Servers: 1000
-Successful Geo-IP Resolutions: 699
-Failed Geo-IP Resolutions: 301
-Unknown              : 220
-United States        : 86
-Germany              : 67
-Lithuania            : 49
+Successful Geo-IP Resolutions: 693
+Failed Geo-IP Resolutions: 307
+Unknown              : 221
+United States        : 89
+Germany              : 62
 United Kingdom       : 48
+Lithuania            : 47
 Iran                 : 46
-France               : 37
-The Netherlands      : 32
-Finland              : 25
-Sweden               : 15
+France               : 38
+The Netherlands      : 31
+Finland              : 24
+Sweden               : 14
 Czechia              : 9
 Russia               : 8
 Switzerland          : 7
 United Arab Emirates : 7
-Cyprus               : 6
 Hong Kong            : 5
 Austria              : 5
+Cyprus               : 5
 Latvia               : 4
 Türkiye              : 4
 Mexico               : 2
@@ -36,8 +36,8 @@ Australia            : 1
 
 === Server Type Summary ===
 VLESS                : 500
-SS                   : 333
-VMESS                : 134
+SS                   : 328
+VMESS                : 126
 TROJAN               : 51
 HYSTERIA2            : 27
 WIREGUARD            : 14
@@ -52,31 +52,31 @@ Outline_Vpn         : 50
 V2rayNG3            : 50
 v2ray_ng            : 50
 v2raytg             : 48
+NEW_MTProxi2        : 44
 orange_vpns         : 42
-NEW_MTProxi2        : 42
 Hope_Net            : 42
 v2rayprotocol       : 41
 VmessProtocol       : 40
 gh_v2rayng          : 40
 kurdistan_vpn_perfectt: 40
-vmesc               : 40
 asak_vpn            : 39
 summertimeus        : 39
 FarahVPN            : 38
+configshub2         : 38
 farahvpn            : 38
+ConfigsHUB2         : 38
 v2ry_proxy          : 38
 vmess_ir            : 38
+vmesc               : 38
 outline_ir          : 36
 v2ray_free_conf     : 36
 vmesskhodam         : 34
 satellitenewspersian: 34
-ConfigsHUB2         : 34
 outlinev2rayng      : 34
-configshub2         : 32
-FreakConfig         : 32
-vpnplusee_free      : 32
 v2mystery           : 32
 vpnowl              : 30
+FreakConfig         : 30
+vpnplusee_free      : 30
 dr_v2ray            : 29
 V2aryng_vpn         : 27
 v2ryorg             : 26
@@ -100,19 +100,19 @@ zede_filteri        : 18
 vistav2ray          : 18
 v2raying            : 17
 vpn_ioss            : 16
-V2rayng_Fast        : 16
 selinc              : 15
 free1_vpn           : 14
 v2ray1_ng           : 13
 v2rayngfreee        : 13
+V2rayng_Fast        : 12
 vpnkanfik           : 12
 v2ray_sub           : 11
 v2rayfree           : 8
 sinavm              : 8
 configV2rayForFree  : 8
 proxy_mtproto_vpns_free: 8
-configpluse         : 8
 free_nettm          : 7
+configpluse         : 7
 kingofilter         : 6
 freestrongvpn       : 4
 nofiltering2        : 3
