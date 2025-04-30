@@ -43,7 +43,7 @@ FETCH_CONFIG_LINKS_TIMEOUT = 15  # HTTP request timeout for Telegram scraping (s
 
 V2RAY_BIN = 'v2ray' if platform.system() == 'Linux' else 'v2ray.exe'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-V2RAY_DIR = os.path.join('v2ray')
+V2RAY_DIR = os.path.join("data", 'v2ray')
 TESTED_SERVERS_DIR = os.path.join(BASE_DIR, 'Tested_Servers')
 LOGS_DIR = os.path.join(BASE_DIR, 'logs')
 CHANNELS_DIR = os.path.join(BASE_DIR, 'Servers/Channels')
@@ -58,8 +58,8 @@ MAX_MERGED_SERVERS = 1000         # Max entries in merged file
 TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 20
 START_PORT = 10000
-REQUEST_TIMEOUT = 30
-PROCESS_START_WAIT = 15
+REQUEST_TIMEOUT = 20
+PROCESS_START_WAIT = 30
 MAX_RETRIES = 1
 
 def clean_directory(dir_path):
