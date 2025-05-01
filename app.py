@@ -60,7 +60,7 @@ MAX_THREADS = 20
 START_PORT = 10000
 REQUEST_TIMEOUT = 20
 PROCESS_START_WAIT = 30
-MAX_RETRIES = 1
+MAX_RETRIES = 2
 
 def clean_directory(dir_path):
     if os.path.exists(dir_path):
