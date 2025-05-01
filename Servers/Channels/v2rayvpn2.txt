@@ -1,2 +1,4 @@
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40v2rayvpn2
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=d1.medicaldream.ir&fp=chrome&type=ws&sni=d1.medicaldream.ir#%40V2ravpn2
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40v2rayvpn2همه
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40v2rayvpn2
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=d1.medicaldream.ir&fp=chrome&type=ws&sni=d1.medicaldream.ir#%40V2ravpn2همه

@@ -1,1 +1,1 @@
-# Statistics: Total=7 Active=0 Failed=7 Percent=0.0%
+# Statistics: Total=6 Active=0 Failed=6 Percent=0.0%
