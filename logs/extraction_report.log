@@ -1,33 +1,31 @@
 === Country Statistics ===
-Total Servers: 164
-Successful Geo-IP Resolutions: 132
-Failed Geo-IP Resolutions: 32
-Unknown              : 28
-United States        : 20
-United Kingdom       : 20
+Total Servers: 172
+Successful Geo-IP Resolutions: 116
+Failed Geo-IP Resolutions: 56
+Unknown              : 30
+United Kingdom       : 18
+United States        : 16
 Germany              : 12
-The Netherlands      : 8
-Finland              : 6
-China                : 4
-Switzerland          : 4
-Türkiye              : 4
-Lithuania            : 4
-United Arab Emirates : 4
+Finland              : 8
+Lithuania            : 6
+The Netherlands      : 4
 Japan                : 2
-Seychelles           : 2
 France               : 2
 Cyprus               : 2
 Vietnam              : 2
 Iran                 : 2
-Moldova              : 2
+Sweden               : 2
+Switzerland          : 2
 Bulgaria             : 2
+Türkiye              : 2
 Russia               : 2
+United Arab Emirates : 2
 
 === Server Type Summary ===
-VLESS                : 110
-SS                   : 28
-VMESS                : 18
-TROJAN               : 8
+VLESS                : 108
+SS                   : 32
+VMESS                : 26
+TROJAN               : 6
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -35,8 +33,8 @@ WIREGUARD            : 0
 WARP                 : 0
 
 === Channel Statistics ===
-Hope_Net            : 44
-NEW_MTProxi2        : 38
-FarahVPN            : 36
-ConfigsHUB2         : 26
-FreakConfig         : 20
+NEW_MTProxi2        : 42
+Hope_Net            : 42
+FarahVPN            : 38
+ConfigsHUB2         : 32
+FreakConfig         : 18
