@@ -1,2 +1,0 @@
-vless://e237e89c-08cd-4de0-ad33-383009f2459b@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#[🇬🇧]t.me/ConfigsHub
-vless://e237e89c-08cd-4de0-ad33-383009f2459b@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#[🇬🇧]t.me/ConfigsHubϟ
