@@ -1,4 +1,4 @@
 vless://8ebec509-70af-49e8-a668-0944563b112d@u1800984520.paxvpn.xyz:443?type=tcp&security=reality&fp=chrome&pbk=hNnsC90sJIWdsw6SZ_iYYXRfOBaQCCYo-b_tTdHtsGY&sni=dl.google.com&flow=xtls-rprx-vision&sid=8a08c105&spx=%2F#outline.premium
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TnJGWHU2TVVOamVDOWNjeU5LQTJ4@77.238.245.245:27818/?outline=1#OberOL22488
 ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA@bg-1.npveniltuo.com:995?prefix=%16%03%01%00%C2%A8%01%01#1day
 vless://0f8eecbf-3d5f-4112-b7f3-32521ca114d4@94.159.103.254:443?type=tcp&security=reality&pbk=r4Visq16WAEVR7yIvxfC36KpaiuVLyzyXxA5xZwNEGk&fp=chrome&sni=yahoo.com&sid=a7970bf71a2aca0c&spx=%2F#koksik
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TnJGWHU2TVVOamVDOWNjeU5LQTJ4@77.238.245.245:27818/?outline=1#OberOL22488

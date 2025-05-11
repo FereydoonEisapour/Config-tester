@@ -1,4 +1,4 @@
-warp://[2606:4700:d0::639f:c9a4:f041:32ba]:7559?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
-warp://[2606:4700:d1::23ed:312a:3e2a:da4a]:1070?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
-warp://[2606:4700:d0::2961:5f2a:263a:e8f2]:864?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
 warp://[2606:4700:d0::8e5f:5ff9:42a:4cca]:890?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
+warp://[2606:4700:d0::2961:5f2a:263a:e8f2]:864?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
+warp://[2606:4700:d1::23ed:312a:3e2a:da4a]:1070?ifp=50-80&ifps=80-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto?ifp=80-100&ifps=80-100&ifpd=4-8&ifpm=m3#m3
+vless://597b7379-9d02-67fa-7062-26b734d98f09@testh.shirinifandogh.ir:235?security=none&encryption=none&host=ehbo.divarcdn.com&headerType=http&type=tcp&sni=ehbo.divarcdn.com#%40ConfigLand
