@@ -1,0 +1,1 @@
+vless://286bc77c-7296-4f5c-abe5-feb0803ef31f@ham.nv10.sbs:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@nv_configs

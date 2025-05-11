@@ -1,0 +1,4 @@
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?path=%2F&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%282%29+MRDESERT
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%2F%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+MRDESERT
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%2F%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AAMRDESERT
+vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&encryption=none&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&headerType=none&fp=chrome&type=tcp&sni=oMIdmAHBouBI.ir#MRDESERT%F0%9F%87%A9%F0%9F%87%AA

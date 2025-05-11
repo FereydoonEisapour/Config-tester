@@ -1,0 +1,1 @@
+vless://1f15e342-9be9-47b1-9666-3d169da1bd27@ip6-free.shakhle.ir:55566?type=tcp&headerType=http&host=w3.com&path=/&security=none#IPv6-Irancell%F0%9F%87%A9%F0%9F%87%AA

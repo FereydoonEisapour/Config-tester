@@ -1,0 +1,5 @@
+vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@vowelquran18.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#e...s%7C6543217890_93888برای
+vmess://eyJhZGQiOiJqcDAxLmJhaXl1bnhyYXkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZDlkZTMwLWMyY2EtNDE3MS1jYmI1LTdiZGE1NjZkMGQwOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJ2cG4gdjJyYXkvOTgzNzk5aiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://cd538545-c016-42db-bde3-d9011258114e@45.67.211.23:44049?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#tst-%D8%A7%D8%AF%D8%B1%DB%8C%D8%B3+%D8%B4%D8%A7%D9%84%D8%A7%D9%84%D8%A7
+vless://cd538545-c016-42db-bde3-d9011258114e@45.67.211.23:44049?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#tst-%D8%A7%D8%AF%D8%B1%DB%8C%D8%B3+%D8%B4%D8%A7%D9%84%D8%A7%D9%84%D8%A7برای
+vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@vowelquran18.xyz:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws#e...s%7C6543217890_93888

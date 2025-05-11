@@ -1,0 +1,6 @@
+vless://5ba34c00-22be-4362-844c-389d608c2fc8@bn1.iranman.shop:33375?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#%40lakvpn1-lak.vpnn🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
+vless://d1c39c87-0ce1-497f-ba7a-59672b005a49@all.funlifea.shop:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#bzbbao1b🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
+vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@all.funlifea.shop:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%40LAKVPN1-n729sgbd🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
+vless://12c39772-94bd-49f5-b0ae-ca7b45eeb583@all.funlifea.shop:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#4bagllnt🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
+vless://1089c9ea-330f-4896-abaf-70c160cee6c8@all.funlifea.shop:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#kvo6i5fo🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
+vless://5e3527b9-e220-4049-8caf-ebb2dca593f4@all.funlifea.shop:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3&sni=t5.funlifea.shop#%40LAKVPN1-lakvpn_Deadhacker🔱🔱🔱🔱🔱🔱🔱🔱https://t.me/LAKVPN1
