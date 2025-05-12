@@ -58,8 +58,8 @@ MAX_MERGED_SERVERS = 100000         # Max entries in merged file
 TEST_LINK = "http://httpbin.org/get"
 MAX_THREADS = 20
 START_PORT = 10000
-REQUEST_TIMEOUT = 20
-PROCESS_START_WAIT = 30
+REQUEST_TIMEOUT = 30
+PROCESS_START_WAIT = 15
 MAX_RETRIES = 2
 
 def clean_directory(dir_path):
