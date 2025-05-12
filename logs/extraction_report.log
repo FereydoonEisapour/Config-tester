@@ -1,20 +1,27 @@
 === Country Statistics ===
-Total Servers: 46
-Successful Geo-IP Resolutions: 32
-Failed Geo-IP Resolutions: 14
-Unknown              : 14
-United States        : 8
-United Kingdom       : 2
-The Netherlands      : 2
-Germany              : 2
-Vietnam              : 2
-South Korea          : 2
+Total Servers (Merged): 79
+Successful Geo-IP Resolutions: 79
+Failed Geo-IP Resolutions: 0
+Unknown              : 42
+US                   : 14
+DE                   : 6
+CN                   : 3
+KR                   : 3
+NL                   : 2
+GB                   : 2
+JP                   : 1
+HK                   : 1
+IR                   : 1
+VN                   : 1
+CH                   : 1
+FR                   : 1
+RU                   : 1
 
 === Server Type Summary ===
-VLESS                : 34
-SS                   : 8
-VMESS                : 2
-TROJAN               : 2
+VLESS                : 56
+SS                   : 12
+TROJAN               : 8
+VMESS                : 3
 HYSTERIA             : 0
 HYSTERIA2            : 0
 TUIC                 : 0
@@ -22,5 +29,5 @@ WIREGUARD            : 0
 WARP                 : 0
 
 === Channel Statistics ===
-Hope_Net            : 42
-Helix_Servers       : 4
+Hope_Net                      : 76
+Helix_Servers                 : 3

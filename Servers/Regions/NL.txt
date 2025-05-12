@@ -1,0 +1,2 @@
+vless://6b6a5648-5a44-401d-987e-ca46482aeaa7@77.239.112.132:22991?security=reality&sni=www.microsoft.com&type=xhttp&path=/v2raybluecrystal&fp=chrome&pbk=v5ICW4Fk4-xZXA3KoDRk47V2LCPWY_rh8TvYf4ZUAGU&sid=87ab7c8324bbcd#@Hope_Net-join-us-on-Telegram
+vless://9b24cb3f-5f60-4881-9c35-ac46ea158b92@64.227.77.203:443?type=tcp#@Hope_Net-join-us-on-Telegram
