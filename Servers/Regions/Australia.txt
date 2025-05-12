@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeThnUGF0bXlPNGRpbVZFOEkyVXd5@170.64.212.153:46227#%F0%9F%87%A6%F0%9F%87%BA3%40shadowsockskeys@shadowsockskeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeThnUGF0bXlPNGRpbVZFOEkyVXd5@170.64.212.153:46227#%F0%9F%87%A6%F0%9F%87%BA3%40shadowsockskeys
 vless://3b29dfdf-1bbe-4c14-beaa-932b650d6c0b@82.115.16.170:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#v2ray✔کانالمون

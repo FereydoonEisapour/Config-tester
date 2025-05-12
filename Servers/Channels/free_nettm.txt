@@ -1,9 +1,9 @@
-hysteria2://dongtaiwang.com@195.154.33.70:4489?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%40NTGreen
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.111:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%20NTGreen%20%F0%9F%91%BD
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=QtTjVrWp21.nExOpOiNt.oRg&fp=chrome&type=ws&sni=QtTjVrWp21.nExOpOiNt.oRg#NTGreen%20%F0%9F%91%BD
-hysteria2://dongtaiwang.com@46.17.41.5:12904?security=tls&insecure=1&sni=apple.com#%F0%9F%87%B7%F0%9F%87%BA%20%40NTGreen%20%F0%9F%91%BD
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=QtTjVrWp29.nExOpOiNt.oRg&fp=chrome&type=ws&sni=QtTjVrWp29.nExOpOiNt.oRg#NTGreen%20%F0%9F%91%BD
-hysteria2://d0f35ada-c39c-11ef-8a98-f23c91cfbbc9@6ce8fc7b-surog0-t2cl3c-14ubl.hy2.gotochinatown.net:8443?security=tls&insecure=0&sni=6ce8fc7b-surog0-t2cl3c-14ubl.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8%20NTGreen%20%F0%9F%91%BD
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ByRhHePn28.bLuEvIa.oRg&fp=chrome&type=ws&sni=ByRhHePn28.bLuEvIa.oRg#NTGreen%20%F0%9F%91%BD
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=AuJoWnHq28.gLoBeNtA.OrG&fp=chrome&type=ws&sni=AuJoWnHq28.gLoBeNtA.OrG#%40NTGreenمناسب
+hysteria2://dongtaiwang.com@46.17.41.5:12904?security=tls&insecure=1&sni=apple.com#%F0%9F%87%B7%F0%9F%87%BA%20%40NTGreen%20%F0%9F%91%BD
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ByRhHePn28.bLuEvIa.oRg&fp=chrome&type=ws&sni=ByRhHePn28.bLuEvIa.oRg#NTGreen%20%F0%9F%91%BD
 hysteria2://nfsn666@192.9.129.48:8888?security=tls&insecure=1&sni=sj-arm.nfsn666.gq#%F0%9F%87%BA%F0%9F%87%B8%40NTGreen
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.111:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%20NTGreen%20%F0%9F%91%BD
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=QtTjVrWp29.nExOpOiNt.oRg&fp=chrome&type=ws&sni=QtTjVrWp29.nExOpOiNt.oRg#NTGreen%20%F0%9F%91%BD
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=QtTjVrWp21.nExOpOiNt.oRg&fp=chrome&type=ws&sni=QtTjVrWp21.nExOpOiNt.oRg#NTGreen%20%F0%9F%91%BD
+hysteria2://dongtaiwang.com@195.154.33.70:4489?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%40NTGreen
+hysteria2://d0f35ada-c39c-11ef-8a98-f23c91cfbbc9@6ce8fc7b-surog0-t2cl3c-14ubl.hy2.gotochinatown.net:8443?security=tls&insecure=0&sni=6ce8fc7b-surog0-t2cl3c-14ubl.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8%20NTGreen%20%F0%9F%91%BD

@@ -1,10 +1,10 @@
-vless://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1Config
-vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#Next_Serverpanel
-vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86آیدی
 vless://3581187d-45af-46e0-acb1-18d70140b271@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%40Next_Serverpanel
-vless://3581187d-45af-46e0-acb1-18d70140b271@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%40Next_Serverpanel@Next_Serverpanelبرای
+vless://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1Config
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1@NextServer_panel
-vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#Next_Serverpanelخرید
+vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#Next_Serverpanel
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1
+vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#Next_Serverpanelخرید
+vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://3581187d-45af-46e0-acb1-18d70140b271@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%40Next_Serverpanel@Next_Serverpanelبرای
 vless://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1
+vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D9%86%DA%A9%D8%B3%D8%AA+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86آیدی

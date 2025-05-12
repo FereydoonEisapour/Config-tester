@@ -1,5 +1,5 @@
-vless://81696d6a-1331-45b7-8fe7-edea4332a704@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86‼️نکته
 vless://69acd701-c96b-49f8-8dda-c4f199e31f77@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86‼️نکته
-vless://2eefadf3-b3af-4a59-8add-8140066ec61c@91.107.166.72:1893?mode=gun&security=reality&encryption=none&pbk=C7Yz5zclRKx0qmZhgiadI2FW7nEeAa34ElJtquGpvx8&fp=chrome&type=g…
-vless://69acd701-c96b-49f8-8dda-c4f199e31f77@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://81696d6a-1331-45b7-8fe7-edea4332a704@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://81696d6a-1331-45b7-8fe7-edea4332a704@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86‼️نکته
+vless://69acd701-c96b-49f8-8dda-c4f199e31f77@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://2eefadf3-b3af-4a59-8add-8140066ec61c@91.107.166.72:1893?mode=gun&security=reality&encryption=none&pbk=C7Yz5zclRKx0qmZhgiadI2FW7nEeAa34ElJtquGpvx8&fp=chrome&type=g…

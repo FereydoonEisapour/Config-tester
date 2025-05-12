@@ -1,6 +1,6 @@
-vless://af512043-6352-445e-ae8b-a453ca821703@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfa
-vless://3ca425b4-32c8-4359-bf8e-8403d99f5a0c@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش
-vless://1364149f-1479-491c-830f-8bec3df43199@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش
-vless://3ca425b4-32c8-4359-bf8e-8403d99f5a0c@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfa
-vless://af512043-6352-445e-ae8b-a453ca821703@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش
 vless://1364149f-1479-491c-830f-8bec3df43199@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfa
+vless://1364149f-1479-491c-830f-8bec3df43199@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش
+vless://af512043-6352-445e-ae8b-a453ca821703@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfa
+vless://af512043-6352-445e-ae8b-a453ca821703@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش
+vless://3ca425b4-32c8-4359-bf8e-8403d99f5a0c@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfa
+vless://3ca425b4-32c8-4359-bf8e-8403d99f5a0c@tls1.yoxba.sbs:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=reza.yoxba.sbs#Telegram%3A-+%402ray_vpnalfaروش

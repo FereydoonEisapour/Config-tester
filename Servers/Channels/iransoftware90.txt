@@ -1,8 +1,8 @@
-warp://p1@162.159.192.2:8886?ifp=1-3&ifps=10-20&ifpd=5-10&ifpm=m4#m4&&detour=warp://p2@162.159.192.2:8886#WoW
-vless://e4c9099d-e995-4f8e-9b33-2342323e1d23@46.202.130.208:22879?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%A8%F0%9F%87%B5🌵
-vless://ee432fc9-d94c-4b83-8334-935d9d539e34@62.72.5.93:40667?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%BA%F0%9F%87%B2🌵
-vless://cfcf33e1-e6e6-40f3-a05d-50bb423a2096@WWw.ZuLa.ir:2096?path=%2F%3FxPI1IApwNgSP5Kbx3USlEhAoK89gFZqdl6etr8XU7p9F7YZan6fr7O87Xf5QX7v&security=tls&encryption=none&alpn=h2,http/1.1&host=rq52zvwxUyWf3Hue0bTOhqhK9NEx7SukaYuTvyXLaZ9YILFgeRPm7nZ9Cn8QWtO.paGeS-dEV.SitE&fp=chrome&type=ws&sni=siiv3WXk4sVi4MgRs7A5PvJ1SBkLwvub0OXFhDZcD53bjQE2dpeCtUfzNnKGqjC.PagEs-deV.sitE#%23%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C-2096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MzVkZWQzYi00MGViLTQzZDEtODc4Ni0xM2MxNDEwMzZkZGQ=@outline-tr.connectix-d1.info:1935?type=tcp#همگانی
+warp://p1@162.159.192.2:8886?ifp=1-3&ifps=10-20&ifpd=5-10&ifpm=m4#m4&&detour=warp://p2@162.159.192.2:8886#WoW
 vless://76a39525-c67c-4bd9-b181-0e5d084786fc@speedtest.net:443?path=%2F&security=tls&encryption=none&host=manageit.ir&fp=firefox&type=ws&sni=speedtest.net#🇩🇪
+vless://e4c9099d-e995-4f8e-9b33-2342323e1d23@46.202.130.208:22879?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%A8%F0%9F%87%B5🌵
 vless://9e3d07c0-4103-4bd6-80f3-457fa6160184@185.77.96.75:39411?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%B3%F0%9F%87%B1🌵
 vless://81ea9859-804d-4307-9fd5-c5648375dc26@46.202.152.9:53723?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%A9%F0%9F%87%AA
+vless://ee432fc9-d94c-4b83-8334-935d9d539e34@62.72.5.93:40667?type=tcp&security=none#Team%E2%84%A2Error404%F0%9F%87%BA%F0%9F%87%B2🌵
+vless://cfcf33e1-e6e6-40f3-a05d-50bb423a2096@WWw.ZuLa.ir:2096?path=%2F%3FxPI1IApwNgSP5Kbx3USlEhAoK89gFZqdl6etr8XU7p9F7YZan6fr7O87Xf5QX7v&security=tls&encryption=none&alpn=h2,http/1.1&host=rq52zvwxUyWf3Hue0bTOhqhK9NEx7SukaYuTvyXLaZ9YILFgeRPm7nZ9Cn8QWtO.paGeS-dEV.SitE&fp=chrome&type=ws&sni=siiv3WXk4sVi4MgRs7A5PvJ1SBkLwvub0OXFhDZcD53bjQE2dpeCtUfzNnKGqjC.PagEs-deV.sitE#%23%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C-2096
