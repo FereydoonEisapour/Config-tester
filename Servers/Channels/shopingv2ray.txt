@@ -1,2 +1,0 @@
-vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(@V2fetch)&security=reality&fp=chrom…
-vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(@V2fetch)&security=reality&fp=chrome&sni=newochean.teslasolhtjet.ir&pbk=x-ky4bWtxq3NliFLkTnZu3HjWXRWmuD5fJZPq8ciAwM&sid=d06bd2aa&spx=/#V2fetch%F0%9F%87%A9%F0%9F%87%AA👑جهت

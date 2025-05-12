@@ -1,6 +1,0 @@
-vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram%20id%3A-%40iranmedicalvpn🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰آیدی
-vless://e09661a5-c3ef-450c-9238-0c8f99d4ef43@49.13.221.131:29735?security=none&encryption=none&headerType=none&type=tcp#%40iranmedicalvpn
-vless://25e0aec7-1edb-4eb4-a8cf-f2e380107334@62.60.147.117:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#iranmedicalVPN☯
-vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram%20id%3A-%40iranmedicalvpn
-vless://e09661a5-c3ef-450c-9238-0c8f99d4ef43@49.13.221.131:29735?security=none&encryption=none&headerType=none&type=tcp#%40iranmedicalvpn☯
-vless://25e0aec7-1edb-4eb4-a8cf-f2e380107334@62.60.147.117:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#iranmedicalVPN

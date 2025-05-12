@@ -1,4 +1,0 @@
-trojan://telegram-id-privatevpns@13.49.252.114:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AAt.me%2Fproxy_emperor@proxy_emperor
-trojan://telegram-id-privatevpns@13.61.61.236:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AAt.me%2Fproxy_emperor@proxy_emperor
-trojan://telegram-id-privatevpns@35.158.78.205:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AAt.me%2Fproxy_emperor@proxy_emperor
-trojan://telegram-id-privatevpns@13.61.65.104:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AAt.me%2Fproxy_emperor@proxy_emperor

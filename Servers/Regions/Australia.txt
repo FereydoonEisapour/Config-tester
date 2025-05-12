@@ -1,1 +1,0 @@
-vless://3b29dfdf-1bbe-4c14-beaa-932b650d6c0b@82.115.16.170:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#v2ray✔کانالمون

@@ -1,7 +1,0 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://22ebc3ad-2e41-4fb3-acdd-c6269ac9bf81@95.85.95.85:443?encryption=none&security=tls&sni=promo.worldofwarships.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mamadgamenetcsgoskin2.ir&path=%2F#@v2rayngninjaمتصل
-vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?encryption=none&security=tls&sni=promo.worldofwarships.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imarketshop.ir&path=%2F#V2rayngninjaمتصل
-vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?encryption=none&security=tls&sni=promo.worldofwarships.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imarketshop.ir&path=%2F#V2rayngninja
-vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?encryption=none&security=tls&sni=promo.worldofwarships.eu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=mythstore.ir&path=%2Fws%2F%3Fed%3D2048#%F0%9F%87%AB%F0%9F%87%B7%20V2rayngninja
-vless://22ebc3ad-2e41-4fb3-acdd-c6269ac9bf81@95.85.95.85:443?encryption=none&security=tls&sni=promo.worldofwarships.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mamadgamenetcsgoskin2.ir&path=%2F#@v2rayngninja
-vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?encryption=none&security=tls&sni=promo.worldofwarships.eu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=mythstore.ir&path=%2Fws%2F%3Fed%3D2048#%F0%9F%87%AB%F0%9F%87%B7%20V2rayngninjaمتصل

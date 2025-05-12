@@ -1,2 +1,0 @@
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.162.231.186:2087?type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=/&security=tls&fp=chrome&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2,http/1.1#@vipoutline%F0%9F%87%B3%F0%9F%87%B1
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@185.162.229.111:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#%F0%9F%87%BA%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88

@@ -1,2 +1,0 @@
-vless://AmiroNetwork@AmiroNetwork:443?security=reality&encryption=none&pbk=X7pZ4n48BWFEDtYjqmG3KooWr6eqtNfLDgSgSACroUE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=AmiroNetwork&sid=84b3956c#%E2%80%8CAmiroNetwork💠
-vless://AmiroNetwork@Amiro:443?security=reality&encryption=none&pbk=X7pZ4n48BWFEDtYjqmG3KooWr6eqtNfLDgSgSACroUE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=AmiroNetwork&sid=84b3956c#%E2%80%8CAmiroNetwork💠
