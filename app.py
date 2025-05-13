@@ -61,7 +61,12 @@ ENABLED_PROTOCOLS = {
     'vless': True,
     'vmess': False,
     'trojan': False,
-    'ss': False
+    'ss': False,
+    'hysteria':False, 
+    'hysteria2': False,
+    'tuic': False,
+    'wireguard': False,
+    'warp': False,
 }
 
 # Global dictionary for channel-specific test statistics
