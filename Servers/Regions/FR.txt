@@ -1,2 +1,0 @@
-vless://9aed32d7-3556-48a4-95f8-e82dcc2e1b54@57.128.178.253:443?security=tls&sni=en.linceedab.com&type=tcp&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.50.197:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#@Hope_Net-join-us-on-Telegram
