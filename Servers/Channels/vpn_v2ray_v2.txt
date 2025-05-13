@@ -1,0 +1,10 @@
+trojan://telegram-id-privatevpns@13.49.48.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S518)
+trojan://telegram-id-directvpn@99.81.253.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
+trojan://telegram-id-directvpn@18.203.41.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
+trojan://telegram-id-directvpn@34.252.209.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
+trojan://telegram-id-privatevpns@13.39.52.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S127)
+trojan://telegram-id-privatevpns@13.42.185.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S129)
+trojan://telegram-id-directvpn@54.73.47.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our
+trojan://telegram-id-privatevpns@35.177.98.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S128)
+trojan://telegram-id-privatevpns@3.77.126.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S519)
+trojan://telegram-id-privatevpns@52.211.21.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S130)

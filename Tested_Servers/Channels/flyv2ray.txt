@@ -1,0 +1,2 @@
+vless://17d7913a-da39-4e09-8634-8734679a19ae@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
+vless://17d7913a-da39-4e09-8634-8734679a19ae@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray

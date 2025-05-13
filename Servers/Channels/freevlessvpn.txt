@@ -1,0 +1,3 @@
+vless://fa8197ce-de3f-4586-bbc5-2861999a8002@page.fra-shop.ir:22920?type=tcp&security=reality&pbk=OXa0L67wfgOBoGi7xQdrRR_mWU3PHkifxsIMDzC1IVc&fp=chrome&sni=www.fra-shop.ir&sid=e462a3aff28c32c2&spx=%2F#test3
+vless://e12c6b99-f242-4c43-8411-edb7b333c79a@page.fra-shop.ir:28495?type=tcp&security=reality&pbk=wIoY1J6RAbUkFMLu9mENmgOSerWCd7oucJ-_kfCfbHw&fp=chrome&sni=www.fra-shop.ir&sid=4365d0c5ae1b&spx=%2F#test1
+vless://9bd1a2d7-9b0b-490a-8699-532fe6f32a81@page.fra-shop.ir:47128?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=-AftWFD_53qwSnhzJi7K6hTFmoodpEZsIOetAMUMmDs&fp=chrome&sni=www.fra-shop.ir&sid=e2b84b&spx=%2F#test2

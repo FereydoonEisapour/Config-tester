@@ -1,0 +1,4 @@
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?encryption=none&security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&allowInsecure=1&type=ws&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&path=%2F#TG%3A%40v2ray_sub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&alpn=h3h2&type=ws&host=ScKzAhYz14.qUiCkOrA.OrG&path=%2F#TG%3A%40v2ray_sub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?encryption=none&security=tls&sni=NuWoLcZn12.qUiCkOrA.OrG&alpn=h3h2&type=ws&host=NuWoLcZn12.qUiCkOrA.OrG&path=%2F#TG%3A%40v2ray_sub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub

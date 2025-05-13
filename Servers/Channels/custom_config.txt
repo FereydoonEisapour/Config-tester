@@ -1,0 +1,14 @@
+vless://c3914ef7-1337-4d3e-a9ec-d8908314e724@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=test0216.dgclix.ir&type=xhttp#%40custom_config
+vless://5739a359-6539-42f0-8569-0ee7d1dcf480@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=kala.dgclix.ir&type=xhttp#%40custom_config
+vless://eb965440-671d-4903-8909-fa8d0cbdba4e@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=actions.dgclix.ir&type=xhttp#%40custom_config
+vless://5c43f10d-1824-4f3b-accb-d13116929a69@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=camel.dgclix.ir&type=xhttp#%40custom_config
+vless://ace02497-cfd2-4cac-8617-2037fc2020b3@www.speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=mother27.dgclix.ir&type=xhttp#%40custom_config
+vless://9b224b07-98c9-4f4c-8360-301ada31dea4@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=cats.dgclix.ir&type=xhttp#%40custom_config
+vless://0e45096c-26cf-454f-b0c5-50ef0afd62c8@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=world.dgclix.ir&type=xhttp#%40custom_config
+vless://2118755b-d056-46aa-9349-b0a220dee1ed@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=test2025.dgclix.ir&type=xhttp#%40custom_config
+vless://acdf5214-327f-41df-980b-5989f8ef47ed@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40custom_config
+vless://4c6bf10e-128b-46bd-83cd-0674c0c71d91@www.speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=mother26.dgclix.ir&type=xhttp#%40custom_config
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40custom_config
+vless://f3e2ba7a-9523-4687-82ba-77f775ff0d0e@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=actors.dgclix.ir&type=xhttp#%40custom_config
+vless://3befa0ef-6582-4bf0-a9c4-31d5d6e5e08f@www.speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=mother25.dgclix.ir&type=xhttp#%40custom_config
+vless://5739a359-6539-42f0-8569-0ee7d1dcf480@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none&host=pro.dgclix.ir&type=xhttp#%40custom_config

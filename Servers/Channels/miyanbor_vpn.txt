@@ -1,0 +1,1 @@
+vless://d0f30d61-4a72-4640-8267-24f4afeb1b37@p.boardbear.ir:2053/?type=tcp&path=%2F&host=www.speedtest.com&headerType=http&security=none#%40Miyanbor_VPN%20%F0%9F%8C%B9

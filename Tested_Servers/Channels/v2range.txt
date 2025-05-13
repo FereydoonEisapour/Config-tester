@@ -1,0 +1,1 @@
+vless://733cb17a-b671-42b1-85b1-8b16cdf38a1f@146.190.228.67:14285?security=none&encryption=none&type=tcp&headerType=none#سرور

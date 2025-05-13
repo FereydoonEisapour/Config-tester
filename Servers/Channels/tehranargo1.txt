@@ -1,0 +1,1 @@
+vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=

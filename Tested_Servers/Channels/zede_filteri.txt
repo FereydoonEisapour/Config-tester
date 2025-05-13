@@ -1,0 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#Telegram:@zede_filteri
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#Telegram:@zede_filteri
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#Telegram:@zede_filteri

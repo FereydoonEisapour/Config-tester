@@ -1,0 +1,1 @@
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@95.217.22.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=freeiranweb.pages.dev.pot2.floorshoping22.com#All-%40FreeIranWeb%F0%9F%87%AB%F0%9F%87%AE

@@ -1,0 +1,1 @@
+vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#tunnel-Test+3

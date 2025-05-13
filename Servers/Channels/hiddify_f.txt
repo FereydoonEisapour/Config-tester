@@ -1,0 +1,2 @@
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=%2F&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A
+vless://698e1d97-0594-481d-8d97-f5f6f46aa32d@199.232.193.57:80?path=ViraV2ray%2F%3Fed%3D2560&security=none&encryption=none&host=virav2ray-alsjddhkasdasdkaslj.com&type=ws#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE

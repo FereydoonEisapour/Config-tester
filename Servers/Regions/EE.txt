@@ -1,0 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#%F0%9F%87%AA%F0%9F%87%AA+%D8%A7%D8%B3%D8%AA%D9%88%D9%86%DB%8C%D8%A7+%F0%9F%95%8A%EF%B8%8F%40Gozargah_Azadi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#Telegram%20%40V_2rayng0
+vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?security=reality&encryption=none&pbk=xAACwVeGPMm3pUceuZR5r7KIx1tSHzoFrXS08DhfKAw&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=d325de61#%40ProxyFn+%2F+%40nimPRO+%F0%9F%87%AA%F0%9F%87%AA
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#%F0%9F%87%AA%F0%9F%87%AA+%D8%A7%D8%B3%D8%AA%D9%88%D9%86%DB%8C%D8%A7+%F0%9F%95%8A%EF%B8%8F%40Gozargah_Azadi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%40@v2ryorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356?type=tcp#%F0%9F%92%9C%20@V2rayNG_account_free
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#%F0%9F%87%AA%F0%9F%87%AAEE-188.214.36.155-0651
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AAEE-147.45.60.33-5748
