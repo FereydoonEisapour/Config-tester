@@ -1,11 +1,9 @@
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=test.gamebestir0.ir#%40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#%40
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#%40
-vless://733cb17a-b671-42b1-85b1-8b16cdf38a1f@146.190.228.67:14285?security=none&encryption=none&headerType=none&type=tcp#%40
-vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.191.43:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?mode=gun&security=none&encryption=none&type=grpc#%40
+vless://733cb17a-b671-42b1-85b1-8b16cdf38a1f@146.190.228.67:14285?security=none&encryption=none&headerType=none&type=tcp#%40
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc#%40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#%40
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%40
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=test.gamebestir0.ir#%40
+vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.191.43:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#%40

@@ -1,1 +1,0 @@
-vless://7ff6dea6-c9b9-459c-a1c3-cffe48d86114@135.181.195.139:56062?encryption=none&security=none&type=tcp&headerType=http#test-finland-iPhonebax

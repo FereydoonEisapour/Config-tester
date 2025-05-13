@@ -1,9 +1,0 @@
-vless://5c19621d-dff1-40f1-bd94-a36aebe5749d@87.248.145.151:15540?security=none&encryption=none&headerType=none&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88%F0%9F%87%BA%F0%9F%87%B8
-vless://62266422-7031-4cc4-8a22-f93b7d5699c1@62.60.178.251:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%E2%80%8C%DA%A9%D9%86
-vless://e0aa2c1f-d69c-4079-8b20-5fdb940f0357@87.107.54.71:15538?security=none&encryption=none&headerType=none&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88%F0%9F%87%B3%F0%9F%87%B1
-vless://bc3dc81f-5f08-4aef-ddcd-2b6e1bff6071@62.60.179.156:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%E2%80%8C%DA%A9%D9%86
-vless://e5fcfdc2-2628-4ba4-de5d-801a1aca3de4@62.60.178.195:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%E2%80%8C%DA%A9%D9%86
-vless://68859286-fcca-48a6-f664-8dbafd20cbfc@62.60.177.136:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot
-vless://9fbe3f8c-34b4-429d-bb0d-05e1a1232250@87.248.156.48:15539?security=none&encryption=none&headerType=none&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88%F0%9F%87%A9%F0%9F%87%AA
-vless://636e9836-486f-45ec-f598-ee63785c3837@62.60.177.136:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot
-vless://e0aa2c1f-d69c-4079-8b20-5fdb940f0357@87.107.54.71:15538?security=none&en…

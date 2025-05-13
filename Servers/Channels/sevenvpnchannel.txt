@@ -1,2 +1,0 @@
-vless://993456ee-9b12-4a4c-b621-fede8e9417c0@151.101.38.133:443?type=ws&host=Unique98.com&security=tls&fp=chrome&sni=mio.splashthat.com&alpn=h2,http/1.1#@SevenVpnChannel
-vless://d9dfc503-500d-4d71-ac1d-5afd4abd87f4@150.241.71.198:443?security=reality&encryption=none&pbk=5ixKMW6efyAhIfIaj170dIqUrhav1MlsNbXBQEMg9n8&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google.com&sid=fade9734#%40SevenVpnChannel

@@ -1,2 +1,1 @@
-vless://fa578054-33d1-40f4-94ef-45df1b867420@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#@summertimeus
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#%40summertimeus

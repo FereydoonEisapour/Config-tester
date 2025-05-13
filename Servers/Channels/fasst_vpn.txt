@@ -1,2 +1,0 @@
-vless://bf86e56d-869e-4967-f675-d832cf5ec63e@bwiz.mediafilm.media:1003?type=tcp#%D9%87%D8%AF%DB%8C%D9%87%201%20%D8%B1%D9%88%D8%B2%D9%87-%40fasst_vpn
-vless://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?type=tcp#%D9%87%D8%AF%DB%8C%D9%87%203%20%D8%B1%D9%88%D8%B2%D9%87-%40fasst_vpn

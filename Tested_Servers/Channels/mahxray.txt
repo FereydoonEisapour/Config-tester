@@ -1,2 +1,0 @@
-vless://701a7842-79a2-4a48-882b-c563daad99c1@de.sashabike.ir:2096?path=%2F%3Fed%3D1024&security=tls&alpn=http%2F1.1&encryption=none&host=behesht.mhxpd.ir&fp=chrome&type=ws&sni=behesht.mhxpd.ir#%40Mahxray%20%F0%9F%87%A9%F0%9F%87%AA
-vless://701a7842-79a2-4a48-882b-c563daad99c1@www.speedtest.net:2096?path=%2F%3Fed%3D1024&security=tls&alpn=http%2F1.1&encryption=none&host=behesht.mhxpd.ir&fp=chrome&type=ws&sni=behesht.mhxpd.ir#%40Mahxray%20%F0%9F%87%A9%F0%9F%87%AA

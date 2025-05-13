@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%40@v2ryorg
-vless://4e32b5e3-92a6-4187-a211-6b9894b659ce@146.75.69.57:443?security=tls&sni=fastly.com&type=ws&path=/vless&host=killmewithyourhand.com&encryption=none#Javid_Iran(cdn)%F0%9F%94%A5tell:@Javid_Iran_vpn

@@ -1,7 +1,7 @@
-vless://b1966903-2fe2-4bce-9de7-64232ed435ce@62.60.148.14:25756/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&sid=61#Free+Config+%7C+Payam_Nsi
+vless://628a3541-1b2d-43ab-ad4f-82b6406480fe@141.193.213.20:80/?type=ws&encryption=none&host=lk.sahanwickramasinghe.shop&path=%2F#Free+Config+%7C+Payam_Nsi
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80/?type=ws&encryption=none&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560#Free+Config+%7C+Payam_Nsi
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#Free+Config+%7C+Payam_Nsi
+vless://b1966903-2fe2-4bce-9de7-64232ed435ce@62.60.148.14:25756/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&sid=61#Free+Config+%7C+Payam_Nsi
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Free+Config+%7C+Payam_Nsi
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443/?type=ws&encryption=none&host=mypHOtoGRAPICpIctUre.iR&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&fp=chrome#Free+Config+%7C+Payam_Nsi
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443/?type=ws&encryption=none&host=lx.ylks0033.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=lx.ylks0033.dpdns.org#Free+Config+%7C+Payam_Nsi
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#Free+Config+%7C+Payam_Nsi
-vless://628a3541-1b2d-43ab-ad4f-82b6406480fe@141.193.213.20:80/?type=ws&encryption=none&host=lk.sahanwickramasinghe.shop&path=%2F#Free+Config+%7C+Payam_Nsi
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#Free+Config+%7C+Payam_Nsi

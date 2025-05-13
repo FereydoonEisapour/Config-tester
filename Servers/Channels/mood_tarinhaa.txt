@@ -1,1 +1,0 @@
-vless://f9b40a79-93df-4d64-aa2f-d1059396efe4@192.248.189.127:50726?security=reality&encryption=none&pbk=xT9U2IY2DZA_0kPIvxlXFU_C7mggHo0d_4rbvunXRF0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=cd7eb9af#-7upubrv5

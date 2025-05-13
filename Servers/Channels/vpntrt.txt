@@ -1,1 +1,0 @@
-vless://82b884ab-d297-4726-9596-67c6d49acf6a@ne5.iovpn.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=s7QOHQWLwCBIM1KhDFjWDCyL7q-xednuttjl24HsV0U&security=reality&sid=fa8a035bcf&sni=www.deepl.com&type=tcp#takpar96tell_android_74800

@@ -1,1 +1,0 @@
-vless://3f94ff87-a2eb-450d-902c-06c73cd8966e@h2.iranman.shop:42082?type=tcp&path=%2F&host=bwm.com&headerType=http&security=none#V2ray-zij6zkso
