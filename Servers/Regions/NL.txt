@@ -1,2 +1,6 @@
-vless://6b6a5648-5a44-401d-987e-ca46482aeaa7@77.239.112.132:22991?security=reality&sni=www.microsoft.com&type=xhttp&path=/v2raybluecrystal&fp=chrome&pbk=v5ICW4Fk4-xZXA3KoDRk47V2LCPWY_rh8TvYf4ZUAGU&sid=87ab7c8324bbcd#@Hope_Net-join-us-on-Telegram
-vless://9b24cb3f-5f60-4881-9c35-ac46ea158b92@64.227.77.203:443?type=tcp#@Hope_Net-join-us-on-Telegram
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@194.127.173.200:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#@Hope_Net-join-us-on-Telegram
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@158.101.199.249:8443?security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=%2F#@Hope_Net-join-us-on-Telegram
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@185.193.158.9:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#@Hope_Net-join-us-on-Telegram
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@185.193.158.8:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#@Hope_Net-join-us-on-Telegram
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@194.49.53.185:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#@Hope_Net-join-us-on-Telegram
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.210.109:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=/&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram

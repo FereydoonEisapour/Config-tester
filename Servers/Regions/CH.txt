@@ -1,1 +1,0 @@
-vless://3f9185b3-c35c-4b22-8675-cbd67bd03afc@141.227.138.11:1210?security=tls&sni=ubuntu.com&type=grpc#@Hope_Net-join-us-on-Telegram

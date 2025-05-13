@@ -1,1 +1,0 @@
-vless://df1659a4-1b4c-4ece-a9f5-d0e6d07dd169@212.80.10.34:5254?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#@Hope_Net-join-us-on-Telegram

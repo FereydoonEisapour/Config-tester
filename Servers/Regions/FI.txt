@@ -1,0 +1,2 @@
+vless://7b0f240f-db1f-4660-b7f5-65612612769f@157.180.75.119:8080?security=reality&sni=tgju.org&type=xhttp&host=tgju.org&path=/cephalon&fp=chrome&pbk=6evIKHcL0ZpiQwQcmajz1PlIaS1DdLKFn-mEQGBbFU8&sid=5586#@Hope_Net-join-us-on-Telegram
+vless://e8eb34f9-0379-4122-9fc9-2e9eb4417470@65.109.192.110:10915?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
