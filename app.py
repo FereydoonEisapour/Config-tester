@@ -131,22 +131,46 @@ PATTERNS = {
 
 
 def normalize_telegram_url(url):
+    """Normalize various Telegram URL formats to https://t.me/s/ format.
+    
+    Args:
+        url: Input URL string to normalize
+        
+    Returns:
+        Normalized URL in https://t.me/s/ format or empty string for invalid URLs
+    """
+    if not url:
+        return ""
+    
     url = url.strip()
-    if url.startswith("https://t.me/ "):
+    
+    # Handle bare username cases (e.g., "Free_HTTPCustom")
+    if not any(url.startswith(prefix) for prefix in ["http://", "https://", "t.me/", "@"]):
+        if "/" not in url:  # Confirm it's just a channel name without paths
+            return f"https://t.me/s/{url}"
+    
+    # Convert t.me/ links to https://t.me/s/
+    if url.startswith("t.me/"):
+        url = f"https://{url}"
+    
+    # Convert @username format to https://t.me/s/username
+    if url.startswith("@"):
+        return f"https://t.me/s/{url[1:]}"
+    
+    # Process full https://t.me/ URLs
+    if url.startswith("https://t.me/"):
         parts = url.split('/')
         if len(parts) >= 4:
             channel_candidate = parts[3]
             if channel_candidate == 's':
-                if len(parts) > 4 and parts[4]:
+                if len(parts) > 4 and parts[4]:  # Valid /s/ link
                     return url
-                return ""
-            else:
-                return f"https://t.me/s/ {'/'.join(parts[3:])}"
-        return ""
-    elif url and not url.startswith("http://") and not url.startswith("https://"):
-        return f"https://t.me/s/ {url}"
-    return url
-
+                return ""  # Invalid /s/ link like https://t.me/s/
+            else:  # Convert to /s/ format
+                return f"https://t.me/s/{'/'.join(parts[3:])}"
+        return ""  # Invalid URL structure
+    
+    return url  # Return as-is if already in /s/ format or other valid format 
 
 def extract_channel_name(url):
     try:
