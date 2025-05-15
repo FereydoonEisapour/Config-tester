@@ -1,2 +1,1 @@
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#%40NETMelliAnti
 vless://a6e0280d-5df8-4de7-811a-db42402867a2@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.Spdnet.ir&type=ws#%40NETMelliAnti
