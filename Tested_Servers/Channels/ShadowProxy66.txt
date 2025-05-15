@@ -1,0 +1,12 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://dd1e77b6-5131-5854-8232-d3f7bcbe0e95@85.209.194.2:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.ca.vless.sitespeedtest.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+vless://dd1e77b6-5131-5854-8232-d3f7bcbe0e95@85.209.194.2:2052?path=%2Fvless&security=&encryption=none&host=sPeedtest2.sbs.ca.vless.sitespeedtest.net&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=s.sarzamiiinahang.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.107.86:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pos1.floorshoping22.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v3.economy36top.shop#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=gbr01.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
