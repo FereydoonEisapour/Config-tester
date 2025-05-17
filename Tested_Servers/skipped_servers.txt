@@ -1,1 +1,0 @@
-vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerT… | Reason: Config gen error: REALITY config missing 'pbk' (publicKey) or 'fp' (fingerprint)
