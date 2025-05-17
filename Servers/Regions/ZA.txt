@@ -1,5 +1,2 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443/?type=ws&encryption=none&host=lx.ylks0033.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=lx.ylks0033.dpdns.org#Free+Config+%7C+Payam_Nsi
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#%40V2ry_Proxy%C2%A0+%E2%9C%85+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.65:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=sl.ylka.dpdns.org#%F0%9F%87%BF%F0%9F%87%A6%7CZA%7C%40wxgqlfx%7C88
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D160.123.255.243%3A443#@Hope_Net-join-us-on-Telegram
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D160.123.255.199%3A443#@Hope_Net-join-us-on-Telegram
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#%40V2ry_Proxy%C2%A0+%E2%9C%85+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF
