@@ -1,2 +1,2 @@
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.61:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#@Hope_Net-join-us-on-Telegram
-vless://ef34e9b4-c368-4ecc-9b3b-5c3cf4756056@139.84.194.249:8080?type=ws&security=none&path=%2F#telegram
+vless://55520747-311e-4015-83ce-be46e2060ce3@168.138.13.201:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cl.bgm2024.dpdns.org#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C176
+vless://55520747-311e-4015-83ce-be46e2060ce3@192.9.180.162:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cl.bgm2024.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C147

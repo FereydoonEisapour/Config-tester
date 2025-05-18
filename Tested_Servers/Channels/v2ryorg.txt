@@ -1,4 +1,4 @@
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@51.81.37.20:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40@v2ryorg | 0.60s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.63s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 1.15s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 1.76s
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@51.81.37.20:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40@v2ryorg | 0.39s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.48s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.67s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 1.93s

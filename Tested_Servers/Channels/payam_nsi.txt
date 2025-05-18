@@ -1,4 +1,5 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.85.118.141:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 1.00s
-vless://d9e674f2-b1ab-470d-937c-5e2eb0d74751@de.uzilol.cn:35097/?type=ws&encryption=none&path=%2Frangws&security=tls&sni=de.uzilol.cn#Telegram+%7C+Payam_Nsi | 2.58s
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 4.24s
-vless://401374e6-df77-41fb-f638-dad8184f175b@170.114.46.190:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 8.43s
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 0.13s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880/?type=grpc&encryption=none#Telegram+%7C+Payam_Nsi | 0.55s
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.85.118.141:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 0.71s
+vless://a0bf4979-b135-4396-c2b3-e492911dbda4@speedtest.net:80/?type=ws&encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#Telegram+%7C+Payam_Nsi | 1.64s
+vless://401374e6-df77-41fb-f638-dad8184f175b@170.114.46.190:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 8.13s
