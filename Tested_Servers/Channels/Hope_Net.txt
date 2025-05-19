@@ -1,8 +1,6 @@
-vless://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.64.1:443?security=tls&sni=7ui.191262.xyz&type=ws&host=7ui.191262.xyz&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram | 0.17s
-vless://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.48.1:443?security=tls&sni=7ui.191262.xyz&type=ws&host=7ui.191262.xyz&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram | 0.22s
-vless://e74c23fa-44c0-425e-812d-5e2df4487ced@104.17.147.22:8880?security=none&type=ws&host=de-snapp23.academigroup.ir.&path=%2Ftelegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn%3Fed%3D2048#@Hope_Net-join-us-on-Telegram | 1.01s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#@Hope_Net-join-us-on-Telegram | 1.04s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.networkpro.net#@Hope_Net-join-us-on-Telegram | 1.07s
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.11:443?security=tls&sni=147135001178.sec22org.com&type=tcp#@Hope_Net-join-us-on-Telegram | 1.13s
-vless://346c4519-a921-4757-a661-bd0f1ca7808a@178.128.92.89:443?security=tls&sni=fbcdn.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram | 1.17s
-vless://4484a8e0-8cd7-4db3-9098-99819d346dc3@104.25.253.197:8443?security=tls&sni=oracle-sg.777999.lol&type=ws&host=oracle-sg.777999.lol&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram | 1.76s
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.190.149:443?security=tls&sni=sssdeCVBnh.999156.XYz&type=ws&host=sssdecvbnh.999156.xyz&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram | 0.32s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&path=/?ed=2048#@Hope_Net-join-us-on-Telegram | 0.55s
+vless://052ac018-69f4-4e0c-880f-22715132d5b9@82.115.16.123:54022?security=tls&sni=www.speedtest.net&type=tcp#@Hope_Net-join-us-on-Telegram | 0.59s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram | 0.61s
+vless://438f9559-1671-45cf-9d2c-338fe6766acf@support.zoom.us:80?allowInsecure=1&sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/#@Hope_Net-join-us-on-Telegram | 1.42s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.140.186:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#@Hope_Net-join-us-on-Telegram | 1.87s

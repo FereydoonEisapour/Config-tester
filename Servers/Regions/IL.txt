@@ -1,2 +1,1 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@129.159.129.107:2053?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cl.bgm2024.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg%3D@89.221.225.88:443#telegram%20%40V_2rayng0
