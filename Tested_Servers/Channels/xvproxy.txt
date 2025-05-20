@@ -1,1 +1,0 @@
-vless://ac2bfdf2-7c88-449f-b353-0ff9d026bb6a@www.speedtest.net:80?type=ws&path=%2F@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet----@SavageNet%3Fed%3D2048&host=www.speedtest.net1.svgspeedtest.net.&security=none#%40SavageNet-bj2zh5yd | 0.60s

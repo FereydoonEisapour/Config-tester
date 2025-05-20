@@ -1,2 +1,1 @@
-vless://733cb17a-b671-42b1-85b1-8b16cdf38a1f@146.190.228.67:14285?security=none&encryption=none&type=tcp&headerType=none#سرور | 0.44s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=none&encryption=none&type=grpc#@V2range | 1.77s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=none&encryption=none&type=grpc#@V2range | 2.51s

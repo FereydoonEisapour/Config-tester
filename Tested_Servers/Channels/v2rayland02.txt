@@ -1,7 +1,6 @@
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.62s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.67s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.74s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 1.19s
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.84:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 1.37s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 1.49s
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 1.57s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.55s
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.56s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.65s
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 0.76s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 1.50s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2rayland02%F0%9F%8C%90 | 4.09s

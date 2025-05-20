@@ -1,1 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880?path=%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C212
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.153:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#@Hope_Net-join-us-on-Telegram
