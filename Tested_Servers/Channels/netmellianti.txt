@@ -1,4 +1,2 @@
-vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#%40NETMelliAnti | 0.78s
-vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?mode=gun&security=none&encryption=none&type=grpc#%40NETMelliAnti | 0.88s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#%40NETMelliAnti%20%F0%9F%87%A8%F0%9F%87%B5 | 0.90s
-vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.45.73:8880?mode=gun&security=none&encryption=none&authority=%2Fxx&type=grpc#%40NETMelliAnti | 1.02s
+vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?mode=gun&security=none&encryption=none&type=grpc#%40NETMelliAnti | 0.57s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#%40NETMelliAnti%20%F0%9F%87%A8%F0%9F%87%B5 | 0.84s

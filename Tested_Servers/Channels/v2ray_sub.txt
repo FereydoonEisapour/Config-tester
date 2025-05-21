@@ -1,4 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.49s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.55s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638817026935097685.amsterdam-shledrc-accc.info:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.57s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.66s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.47s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.81s
