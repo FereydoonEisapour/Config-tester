@@ -1,10 +1,7 @@
-vless://076e6490-466e-4fef-9fab-4bc257be7a11@mmdwzn.s8573.ir:443?security=reality&encryption=none&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=67dcdbd6ed95f729#%40v2ray96
-vless://23e69c6d-1a7f-459a-95b2-7411d0e23bcd@wWw.SpEeDTeSt.net:8443?path=%2F%40viper.chargerdodge%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=viper.chargerdodge.ir&fp=chrome&type=httpupgrade&s…
 vless://08bc9f09-8928-45d4-8a0f-aab604d76cad@sx.mohammad8563.site:8081?security=none&encryption=none&headerType=none&type=tcp#%40v2ray96
-vless://e4824193-4f54-453b-d037-88368e85ef0e@mmdwxnz.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray96
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@mmdwzn.s8573.ir:8880?path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048&security=none&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&type=httpupgrade#%40v2ray96
+vless://076e6490-466e-4fef-9fab-4bc257be7a11@mmdwzn.s8573.ir:443?security=reality&encryption=none&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=67dcdbd6ed95f729#%40v2ray96
 vless://b4892a82-b76b-4aa2-bbff-461e838336f0@mmdwz.s8573.ir:5541?security=reality&encryption=none&pbk=Q4FlYQIDbIQT_xPDDwcbOU6RAqHdgdwyntwrkNdTu0c&headerType=none&fp=chrome&type=tcp&sni=prosegur.com&sid=61c9c609ba0058ab#%40v2ray96
+vless://e4824193-4f54-453b-d037-88368e85ef0e@mmdwxnz.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray96
 vless://02ef4013-6985-4124-9055-0ecf71491267@mmdwzn.s8573.ir:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Usa.vipmehspd.ir.&type=httpupgrade#%40v2ray96
-vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@wk.s8573.ir:8443?mode=auto&path=%2Fed%3F%2FooAjjjjjAAdyujh7%3D8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#%40v2ray96
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@mmdwzn.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray96
-vless://23e69c6d-1a7f-459a-95b2-7411d0e23bcd@wWw.SpEeDTeSt.net:8443?path=%2F%40viper.chargerdodge%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=viper.chargerdodge.ir&fp=chrome&type=httpupgrade&sni=viper.chargerdodge.ir#tst
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@mmdwzn.s8573.ir:8880?path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048&security=none&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&type=httpupgrade#%40v2ray96

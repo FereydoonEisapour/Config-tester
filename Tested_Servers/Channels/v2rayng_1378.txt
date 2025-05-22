@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc%D9%80 | 1.04s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 1.62s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 2.22s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#%40Selinc | 2.66s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#%40Selinc | 0.74s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc%D9%80 | 1.07s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 2.17s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 2.97s

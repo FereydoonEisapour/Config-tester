@@ -1,4 +1,0 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 0.08s
-vless://401374e6-df77-41fb-f638-dad8184f175b@170.114.46.190:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 0.09s
-vless://d9e674f2-b1ab-470d-937c-5e2eb0d74751@de.uzilol.cn:35097/?type=ws&encryption=none&path=%2Frangws&security=tls&sni=de.uzilol.cn#Telegram+%7C+Payam_Nsi | 1.65s
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.85.118.141:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#Telegram+%7C+Payam_Nsi | 4.07s

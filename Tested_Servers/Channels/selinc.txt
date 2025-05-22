@@ -1,10 +1,7 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.45s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#%40Selinc | 0.48s
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40Selinc&type=grpc#%40Selinc | 0.49s
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.50s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#%40Selinc | 0.57s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.58s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.59s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&type=ws#%40Selinc | 1.05s
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 1.40s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%40Selinc | 8.06s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%40Selinc | 0.23s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.74s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.88s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#%40Selinc | 1.06s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&type=ws#%40Selinc | 1.13s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 1.18s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#%40Selinc | 1.66s
