@@ -1,9 +1,5 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 0.23s
-vless://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.81.192:443?path=%2FprUFeqTNsRZbl4sVHqtMKS&security=tls&alpn=http%2F1.1&encryption=none&host=sssdecvbnh.999156.xyz&fp=chrome&type=ws&sni=sssdeCVBnh.999156.XYz#[ | 0.62s
-vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?mode=gun&security=none&encryption=none&type=grpc#[ | 0.76s
-vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&type=grpc#[ | 0.77s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#[ | 0.80s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 0.80s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir#[ | 1.14s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#[ | 1.22s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 4.24s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#[ | 0.75s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 1.16s
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#[ | 1.58s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 4.25s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[ | 8.16s

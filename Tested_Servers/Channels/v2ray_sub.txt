@@ -1,3 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.67s
-vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?encryption=none&security=tls&sni=Tico.floorshoping22.com&alpn=h2&type=grpc#TG%3A%40v2ray_sub | 0.74s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.81s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.50s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#TG%3A%40v2ray_sub | 0.64s
+vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?encryption=none&security=tls&sni=Tico.floorshoping22.com&alpn=h2&type=grpc#TG%3A%40v2ray_sub | 1.01s
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?encryption=none&security=none&type=ws&path=%2F6603a779#TG%3A%40v2ray_sub | 1.22s

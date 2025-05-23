@@ -1,1 +1,1 @@
-vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=freeiranweb.pages.dev.Tico.floorshoping22.com#ALL-%40FreeIranWeb%20%F0%9F%87%AC%F0%9F%87%A7 | 0.75s
+vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=freeiranweb.pages.dev.Tico.floorshoping22.com#ALL-%40FreeIranWeb%20%F0%9F%87%AC%F0%9F%87%A7 | 0.66s

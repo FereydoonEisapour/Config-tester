@@ -1,2 +1,3 @@
 vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=id.lanexa.my.id#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%40wxgqlfx%7C105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%40@v2ryorg
+vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=id.lanexa.my.id#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%40wxgqlfx%7C232

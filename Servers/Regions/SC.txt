@@ -1,2 +1,2 @@
-trojan://Aimer@154.197.64.189:2087?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&security=reality&sni=speed.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%A8%40AZARBAYJAB1
 vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
