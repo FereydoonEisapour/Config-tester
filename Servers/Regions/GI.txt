@@ -1,1 +1,1 @@
-vless://f13cc556-cfe2-437f-a6aa-7107d4ddb1e7@95.164.68.37:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra5.vpntype.dev#%F0%9F%87%BA%F0%9F%87%A6%7CUA%7C%40wxgqlfx%7C145
+vless://eb20b90d-3d48-47ec-8430-83193852c7f2@95.164.68.37:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra5.vpntype.dev#%F0%9F%87%BA%F0%9F%87%A6%7CUA%7C%40wxgqlfx%7C160

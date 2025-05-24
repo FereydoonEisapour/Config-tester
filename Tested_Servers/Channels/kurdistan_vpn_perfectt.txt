@@ -1,8 +1,6 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.17s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.70s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.71s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638826619453662634.hamedan-drc-dcraae.info:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.86s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.92s
-vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.92s
-vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?type=grpc&mode=gun&authority=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&security=none#Kurdistan_Vpn | 1.30s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&security=none#Kurdistan_Vpn | 4.16s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.05s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.56s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638826619453662634.hamedan-drc-dcraae.info:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.81s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.81s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 1.32s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&security=none#Kurdistan_Vpn | 6.07s

@@ -1,3 +1,4 @@
-vless://e8904c41-e39a-47a4-bf5a-a389318568c8@15.204.76.221:41884?security=tls&sni=syntax7417.ignorelist.com&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram | 0.53s
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?security=none&type=ws&path=%2F6603a779#@Hope_Net-join-us-on-Telegram | 1.46s
-vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@151.101.2.228:80?type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#@Hope_Net-join-us-on-Telegram | 1.67s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#@Hope_Net-join-us-on-Telegram | 0.47s
+vless://585acd30-52bf-4b70-a537-e13649fafefc@162.159.140.167:443?security=tls&sni=XszAW34.7282728.xYZ&type=ws&host=xszaw34.7282728.xyz&path=%2FrU9rSjDSOd4yY2fOe%3Fed%3D2048%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram | 0.91s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh35v5.gym35fit.shop#@Hope_Net-join-us-on-Telegram | 4.60s
+vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.22.79.227:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&path=%2Fws#@Hope_Net-join-us-on-Telegram | 7.92s

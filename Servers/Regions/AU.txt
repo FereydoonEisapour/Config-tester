@@ -1,4 +1,6 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C151
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C163
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C67
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443/?type=ws&encryption=none&host=sdfee4.azurewebsites.net&path=%2F&security=tls&sni=sdfee4.azurewebsites.net#Telegram+%7C+Payam_Nsi
-vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
+vless://3e40ab5e-064a-451d-9af5-a8e44532af07@51.161.164.74:443?security=tls&flow=xtls-rprx-vision&sni=syd5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.180.162:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=zl.ylks0033.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C279
+vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir

@@ -1,1 +1,1 @@
-vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?encryption=none&type=grpc#Channel%20id%3A%20%40AZARBAYJAB1%F0%9F%87%AB%F0%9F%87%AE | 0.64s
+vless://c8fd4413-ea9b-450d-aa59-69838d473144@syntax7417.ignorelist.com:51314?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=syntax7417.ignorelist.com#%40AZARBAYJAB1 | 0.48s
