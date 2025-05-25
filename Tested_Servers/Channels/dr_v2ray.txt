@@ -1,2 +1,2 @@
-vless://acc6369e-7efc-4654-a094-4673a33c603e@128.199.75.180:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#Free%20By%20Tharuwa | 1.16s
-vless://4c550907-93b2-4dd1-81d6-6826bb0d3735@139.59.96.179:19544?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#Free%20Paid%20Server%20By%20Tharuwa | 1.59s
+vless://4c550907-93b2-4dd1-81d6-6826bb0d3735@139.59.96.179:19544?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#Free%20Paid%20Server%20By%20Tharuwa | 1.10s
+vless://acc6369e-7efc-4654-a094-4673a33c603e@128.199.75.180:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#Free%20By%20Tharuwa | 1.17s

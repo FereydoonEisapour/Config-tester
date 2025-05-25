@@ -1,8 +1,8 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.165:8880?mode=gun&security=&encryption=none&authority=%2FBIA_TELEGRAM%40zede_filteri_zede_filteri&type=grpc#Telegram:@zede_filteri | 0.05s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh34v7.bloger34art.shop#Telegram:@zede_filteri | 0.06s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.42s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.43s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.49s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.66s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.83s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.93s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.165:8880?mode=gun&security=&encryption=none&authority=%2FBIA_TELEGRAM%40zede_filteri_zede_filteri&type=grpc#Telegram:@zede_filteri | 0.09s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.46s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.48s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.52s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.60s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.84s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.97s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh34v7.bloger34art.shop#Telegram:@zede_filteri | 8.35s

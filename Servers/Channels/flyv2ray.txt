@@ -1,8 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7
-vless://a7f573cf-f042-4133-8fa5-b24088621d83@Tabriz-Website.thorav.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&fp=qq&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=b1417d#Reality
-vless://a7f573cf-f042-4133-8fa5-b24088621d83@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#Reality
-vless://TELEGRAM-NUFiLTER@theatlantic.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=Amricashortemast.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ws3
+vless://df0a7c22-83e7-4580-a123-ce4e1010ba4a@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#Reality
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7%40Flyv2ray
+vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Flyv2ray
 vless://a7f573cf-f042-4133-8fa5-b24088621d83@www.speedtest.net:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.thorav.ir&type=httpupgrade#HTTP
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40flyv2ray%F0%9F%87%A9%F0%9F%87%AA
+vless://TELEGRAM-NUFiLTER@theatlantic.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=Amricashortemast.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ws3
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40flyv2ray%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7%40Flyv2ray
+vless://a7f573cf-f042-4133-8fa5-b24088621d83@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#Reality
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7
+vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Flyv2ray

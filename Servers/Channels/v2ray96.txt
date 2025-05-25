@@ -1,2 +1,1 @@
 vless://abc13300-efa7-48d5-a3a3-0609999a2056@s.mohammad8563.site:2052?path=%2F&security=none&encryption=none&host=mostaghim-chap.ok-exor.ir&type=httpupgrade#%40v2ray96
-vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@mmdwzn.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray96

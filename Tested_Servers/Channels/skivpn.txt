@@ -1,1 +1,1 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#Persian%20Gulf%204%28%40SkiVpn%29%F0%9F%8F%82%E2%9C%85 | 0.45s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#Persian%20Gulf%204%28%40SkiVpn%29%F0%9F%8F%82%E2%9C%85 | 0.61s

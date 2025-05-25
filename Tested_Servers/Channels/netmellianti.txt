@@ -1,1 +1,2 @@
-vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#%40NETMelliAnti | 0.46s
+vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#%40NETMelliAnti | 1.32s
+vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@de28.spaceify.eu:25720?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 2.54s

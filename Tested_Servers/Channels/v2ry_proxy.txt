@@ -1,5 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 0.52s
-vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 0.53s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 0.92s
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 1.44s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 4.05s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 0.51s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 0.82s
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 1.88s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 4.09s
