@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphdmo5aTQxMnBBb2tCR0F2M0pkU2dE@158.255.212.94:30109#@meli_proxyy
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%B8%F0%9F%87%A6_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40QS00008
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%E2%87%9D%20%40v2mystery%20%E2%80%A2%20%F0%9F%92%A0%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%94%B0%40fast_2ray%20%F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#%E2%87%9D%20%40v2mystery%20%E2%80%A2%20%F0%9F%92%A0%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MVhxcTZUTlJOeE1Ickw3MGprVDly@212.113.106.76:29149#%40@v2ryorg
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%B8%F0%9F%87%A6_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40Alin006Bot
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2ray1_Ng
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94%40vmesskhodam
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#ugfsxcv
-vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#%E2%87%9D%20%40v2mystery%20%E2%80%A2%20%F0%9F%92%A0%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%94%B0%40fast_2ray%20%F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%B9%7CAT%7C%40wxgqlfx%7C62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MVhxcTZUTlJOeE1Ickw3MGprVDly@212.113.106.76:29149#%40@v2ryorg
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=%2F%3Fed%3D2560fp%3Dchrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%E2%87%9D%20%40v2mystery%20%E2%80%A2%20%F0%9F%92%A0%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7

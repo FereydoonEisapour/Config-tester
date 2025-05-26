@@ -1,3 +1,9 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%40V2ray1_Ng | 0.10s
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40V2ray1_Ng | 0.86s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.02s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%40V2ray1_Ng | 0.09s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40ShadowProxy66&type=grpc#%40V2ray1_Ng | 0.50s
+vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#%40V2ray1_Ng | 0.51s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.52s
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40G0Dv2ray | 0.75s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.83s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.91s
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40V2ray1_Ng | 1.02s
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%40V2ray1_Ng | 1.16s

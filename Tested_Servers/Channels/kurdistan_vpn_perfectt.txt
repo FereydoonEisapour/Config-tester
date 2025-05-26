@@ -1,9 +1,8 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.09s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.11s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&security=none#Kurdistan_Vpn | 0.21s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.47s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.50s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&path=/&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn | 0.70s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638826619453662634.hamedan-drc-dcraae.info:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.86s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 1.10s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 2.32s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.10s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&security=none#Kurdistan_Vpn | 0.10s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.52s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.64s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&path=/&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn | 1.03s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 2.46s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 4.14s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 8.66s
