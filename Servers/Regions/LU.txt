@@ -1,3 +1,2 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C%40wxgqlfx%7C380
-trojan://gIRrGnuuNm@188.42.88.144:2096?security=tls&sni=aa.v2jey.fun&type=ws&host=aa.v2jey.fun&path=/#@Hope_Net-join-us-on-Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C%40wxgqlfx%7C308
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C%40wxgqlfx%7C380

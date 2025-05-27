@@ -1,2 +1,1 @@
-vless://c8fd4413-ea9b-450d-aa59-69838d473144@syntax7417.ignorelist.com:51314?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=syntax7417.ignorelist.com#%40AZARBAYJAB1 | 1.64s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40AZARBAYJAB1 | 5.05s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40AZARBAYJAB1 | 4.25s

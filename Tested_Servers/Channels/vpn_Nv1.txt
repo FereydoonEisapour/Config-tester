@@ -1,7 +1,7 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#uggfccn | 0.09s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#htcddcc | 0.09s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#sdtesaa | 0.45s
-vless://438f9559-1671-45cf-9d2c-338fe6766acf@170.114.46.6:80?path=%2F&security=none&encryption=none&host=14.sahanwickramasinghe.shop&type=ws&sni=14.sahanwickramasinghe.shop#%hgdsqa | 0.94s
-vless://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?path=%2FBt93qlsreYHzV5Ii9WW&security=tls&alpn=http%2F1.1&encryption=none&host=m3sdf.777259.xyz&fp=chrome&type=ws&sni=M3SDf.777259.xyz#uayataf | 0.97s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#oauahg | 4.09s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#gdxsxv | 4.53s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#oauahg | 0.24s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#iayagg | 0.24s
+vless://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?path=%2FBt93qlsreYHzV5Ii9WW&security=tls&alpn=http%2F1.1&encryption=none&host=m3sdf.777259.xyz&fp=chrome&type=ws&sni=M3SDf.777259.xyz#uayataf | 0.51s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#uggfccn | 0.69s
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#utesddedg | 1.62s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#gdxsxv | 4.43s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#htcddcc | 8.24s
