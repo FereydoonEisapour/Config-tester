@@ -1,1 +1,1 @@
-vless://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.48.1:443?security=tls&sni=CCCVVVB.999161.xYz&type=ws&host=cccvvvb.999161.xyz&path=/F7H3XudlllLXkT65VUAi1psm38Tz&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram | 0.50s
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.46.90:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram | 0.38s

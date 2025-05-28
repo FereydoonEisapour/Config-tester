@@ -1,6 +1,7 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.20s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.24s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.63s
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.11:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.79s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.89s
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 3.91s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.49s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.70s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.75s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.82s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 0.84s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.11:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 1.25s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support | 4.22s
