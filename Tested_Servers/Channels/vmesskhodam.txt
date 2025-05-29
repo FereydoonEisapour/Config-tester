@@ -1,8 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%F0%9F%86%94%40vmesskhodam | 0.43s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 0.63s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 0.83s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 0.85s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 0.99s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 1.01s
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%F0%9F%86%94%40vmesskhodam | 1.31s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 1.39s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40vmesskhodam | 0.70s
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%F0%9F%86%94%40vmesskhodam | 1.21s

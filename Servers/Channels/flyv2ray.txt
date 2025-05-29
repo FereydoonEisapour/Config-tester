@@ -1,9 +1,10 @@
-vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%40flyv2ray
-vless://e71099b1-f54b-4cd3-80b0-20c2ba854a5e@89.34.230.186:3567?mode=gun&security=reality&encryption=none&pbk=OUFykWUCiUsuGV3oGsKRAAPmyev5dpnP3TvoJO9sECQ&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com&sid=0cc6d3a98d5c#%F0%9F%87%B3%F0%9F%87%B1%20reality
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%40flyv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40flyv2ray
 vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
-vless://a071aeaf-02b2-4f79-8dd9-001b2c15c00b@95.164.16.166:3567?mode=gun&security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#%40flyv2ray
-ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA%3D%3D@185.186.79.135:20028#%40flyv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#%40flyv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40flyv2ray
+ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA%3D%3D@185.186.79.135:20028#%40flyv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%40flyv2ray
+vless://a071aeaf-02b2-4f79-8dd9-001b2c15c00b@95.164.16.166:3567?mode=gun&security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#%40flyv2ray
+vless://e71099b1-f54b-4cd3-80b0-20c2ba854a5e@89.34.230.186:3567?mode=gun&security=reality&encryption=none&pbk=OUFykWUCiUsuGV3oGsKRAAPmyev5dpnP3TvoJO9sECQ&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com&sid=0cc6d3a98d5c#%F0%9F%87%B3%F0%9F%87%B1%20reality
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=nufilterasli.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20ws4
+vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray

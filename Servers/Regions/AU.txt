@@ -1,4 +1,2 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C314
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#Telegram+%7C+Payam_Nsi

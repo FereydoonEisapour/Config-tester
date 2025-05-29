@@ -1,2 +1,2 @@
-vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray | 0.69s
-vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray | 0.70s
+vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray | 0.66s
+vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray | 4.17s
