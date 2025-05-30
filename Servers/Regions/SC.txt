@@ -1,1 +1,1 @@
-vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&security=reality&sni=speed.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%A8%40AZARBAYJAB1
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C318

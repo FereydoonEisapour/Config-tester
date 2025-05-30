@@ -1,2 +1,5 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2rayNGVPN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.60.74.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2068%20%28%40Filterservice%29
+trojan://Aimer@92.53.190.161:2087?path=%2F&security=tls&host=epme.ambercc.filegear-sg.me&type=ws&sni=epme.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AE%7CSI%7C%40wxgqlfx%7C50
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%F0%9F%87%B8%F0%9F%87%AE%7CSI%7C%40wxgqlfx%7C172
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
