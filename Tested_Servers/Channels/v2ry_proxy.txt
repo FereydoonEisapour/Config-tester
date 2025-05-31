@@ -1,1 +1,1 @@
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 6.74s
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 2.07s

@@ -1,7 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#Telegram+%7C+Payam_Nsi
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#Telegram+%7C+Payam_Nsi
-vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:2226?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=2226vless#Telegram+%7C+Payam_Nsi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@166.88.131.195:52952#Telegram+%7C+Payam_Nsi
-vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#Telegram+%7C+Payam_Nsi
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#Telegram+%7C+Payam_Nsi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#Telegram+%7C+Payam_Nsi

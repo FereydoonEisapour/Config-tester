@@ -1,2 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40AZARBAYJAB1 | 0.17s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#AZARBAYJAB1 | 0.53s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#AZARBAYJAB1 | 0.74s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40AZARBAYJAB1 | 8.16s

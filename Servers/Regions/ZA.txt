@@ -1,1 +1,2 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%BF%F0%9F%87%A6%7CZA%7C%40wxgqlfx%7C141
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%BF%F0%9F%87%A6%7CZA%7C%40wxgqlfx%7C161
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%BF%F0%9F%87%A6%7CZA%7C%40wxgqlfx%7C35
