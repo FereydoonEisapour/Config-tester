@@ -1,5 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40proxy_v2box | 0.08s
-vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 0.40s
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 0.95s
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 1.12s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 4.07s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 0.19s
+vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 0.46s
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 3.61s

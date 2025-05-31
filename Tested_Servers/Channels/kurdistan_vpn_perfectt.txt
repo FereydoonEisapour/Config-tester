@@ -1,8 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.12s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.56s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 0.66s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 0.74s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.pronetwork.com&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&security=none#Kurdistan_Vpn | 0.80s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.pronetwork.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 1.25s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&path=/&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn | 1.57s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn | 1.59s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?type=tcp&headerType=none&host=/TELEGRAM@MARAMBASHI_MARAMBASHI&security=tls&sni=147135001178.sec22org.com#Kurdistan_Vpn | 5.11s

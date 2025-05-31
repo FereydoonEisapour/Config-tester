@@ -1,1 +1,2 @@
+hysteria://208.87.243.151:17549/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ARGO_VPN1%F0%9F%87%BA%F0%9F%87%B8
 hysteria://208.87.243.151:17549/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
