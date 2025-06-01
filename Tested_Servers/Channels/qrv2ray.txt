@@ -1,6 +1,6 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=&encryption=none&type=grpc#@QrV2ray|Allnet | 0.17s
-vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@QrV2ray|Allnet | 0.56s
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#@QrV2ray|Allnet | 0.62s
-vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@QrV2ray|Allnet5 | 1.61s
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws# | 1.65s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=&encryption=none&type=grpc#@QrV2ray|Allnet6 | 4.16s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=&encryption=none&type=grpc#@QrV2ray|Allnet | 0.53s
+vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws# | 0.69s
+vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#@QrV2ray|Allnet | 0.70s
+vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@QrV2ray|Allnet5 | 2.22s
+vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@QrV2ray|Allnet | 2.34s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=&encryption=none&type=grpc#@QrV2ray|Allnet6 | 4.93s

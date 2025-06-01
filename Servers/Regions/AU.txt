@@ -1,6 +1,4 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C78
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C58
+vless://4d54fc83-3d4f-409f-a255-a3f3bfeec95c@170.64.156.152:3114?security=reality&encryption=none&pbk=HmhJeIza6ZLRu38PWEI00aKv-Nqp4SglYXvDZj9rbhM&headerType=none&fp=random&type=tcp&sni=www.sunucun.com.tr&sid=c03adf0e43c6bb75#@meli_proxyy
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C148
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C34
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C99
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C175
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C79
