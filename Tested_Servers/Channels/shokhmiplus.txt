@@ -1,3 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40VPNTV20 | 1.11s
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#%40shokhmiplus | 2.39s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#%40shokhmiplus | 5.29s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#%40shokhmiplus | 0.09s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40VPNTV20 | 1.34s
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#%40shokhmiplus | 3.17s

@@ -1,1 +1,0 @@
-vless://abc13300-efa7-48d5-a3a3-0609999a2056@s.mohammad8563.site:2052?path=%2F&security=none&encryption=none&host=mostaghim-chap.ok-exor.ir&type=httpupgrade#%40v2ray96

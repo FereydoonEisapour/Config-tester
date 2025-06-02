@@ -1,2 +1,2 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?type=tcp&headerType=none&host=/TELEGRAM@MARAMBASHI_MARAMBASHI&security=tls&sni=147135001178.sec22org.com#Kurdistan_Vpn | 0.22s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 1.49s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?type=tcp&headerType=none&host=/TELEGRAM@MARAMBASHI_MARAMBASHI&security=tls&sni=147135001178.sec22org.com#Kurdistan_Vpn | 0.64s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com#Kurdistan_Vpn | 0.87s
