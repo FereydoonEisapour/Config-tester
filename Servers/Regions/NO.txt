@@ -1,1 +1,0 @@
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B4

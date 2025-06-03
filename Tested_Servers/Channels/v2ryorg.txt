@@ -1,5 +1,3 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 0.22s
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.185:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#%40@v2ryorg | 0.26s
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.62s
-vless://3c1ebdca-b974-466f-b983-01243363c8e6@157.230.17.102:39940?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.74s
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@65.108.214.95:59483?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.93s
+vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.55s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.120:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 1.33s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 9.28s

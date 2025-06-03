@@ -1,7 +1,3 @@
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=ws#%40flyv2ray
 vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#HTTP
 vless://e486066b-3308-4114-a9a6-5648750b071f@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
-vless://e7b2d457-40e2-4f6e-d2d2-5de7f7ac180e@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40flyv2ray%F0%9F%87%A9%F0%9F%87%AA
 vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
-vless://dc008584-5304-40c9-a3d5-9977c76fce43@95.164.16.166:2087?mode=gun&security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#Reality%20%7C%20%40flyv2ray
-vless://0adc4f77-e316-4f51-8e31-fc0b1d809ecb@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#HTTP
