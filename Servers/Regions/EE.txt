@@ -1,2 +1,2 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.110.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#Telegram%20%40V_2rayng0
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.110.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C42

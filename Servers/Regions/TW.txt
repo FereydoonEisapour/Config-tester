@@ -1,1 +1,2 @@
+trojan://Aimer@210.61.97.241:81?path=%2F&security=tls&host=epmd.ambercc.filegear-sg.me&type=ws&sni=epmd.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3%7CCN%7C%40wxgqlfx%7C24
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#@awlix_ir

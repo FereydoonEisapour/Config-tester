@@ -1,2 +1,2 @@
-vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#• | 0.55s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#WedBaZ | 0.63s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#WedBaZ | 0.62s
+vless://15face3d-979a-40e5-fcbe-62b82a46aed4@151.101.64.155:80?path=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=&encryption=none&host=Aparatay.com&type=ws#WedBaZ | 0.85s

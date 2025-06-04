@@ -1,4 +1,1 @@
-vless://5f244ece-1072-413d-bf81-6d3ba2060618@104.16.32.86:80/?type=ws&encryption=none&host=us3.xyxy.dpdns.org&path=%2F5f244ece#Telegram+%7C+Payam_Nsi | 0.29s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880/?type=grpc&encryption=none#Telegram+%7C+Payam_Nsi | 0.45s
-vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443/?type=ws&encryption=none&host=ru05.abvpn.ru&path=%2Fwebsocket&security=tls&sni=ru05.abvpn.ru#Telegram+%7C+Payam_Nsi | 1.24s
-vless://3f4b57a0-f57c-4a8b-8c00-fa255eec1c79@104.17.252.50:80/?type=ws&encryption=none&host=us.xyxy.dpdns.org&path=%2F3f4b57a0#Telegram+%7C+Payam_Nsi | 2.47s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880/?type=grpc&encryption=none#Telegram+%7C+Payam_Nsi | 0.21s

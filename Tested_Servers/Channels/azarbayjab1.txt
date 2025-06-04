@@ -1,5 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#AZARBAYJAB1 | 0.75s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=TM-@AZARBAYJAB1(GPRS) | 0.81s
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#%40AZARBAYJAB1 | 0.99s
-vless://585acd30-52bf-4b70-a537-e13649fafefc@172.67.138.187:443?path=%2FrU9rSjDSOd4yY2fOe%3Fed%3D2048%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&encryption=none&alpn=http/1.1&host=xszaw34.7282728.xyz&type=ws&sni=XszAW34.7282728.xYZ#%40AZARBAYJAB1 | 1.40s
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#%40AZARBAYJAB1 | 6.55s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#AZARBAYJAB1 | 0.58s
+vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#%40AZARBAYJAB1 | 0.85s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=TM-@AZARBAYJAB1(GPRS) | 1.77s
+vless://585acd30-52bf-4b70-a537-e13649fafefc@172.67.138.187:443?path=%2FrU9rSjDSOd4yY2fOe%3Fed%3D2048%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&encryption=none&alpn=http/1.1&host=xszaw34.7282728.xyz&type=ws&sni=XszAW34.7282728.xYZ#%40AZARBAYJAB1 | 1.91s
