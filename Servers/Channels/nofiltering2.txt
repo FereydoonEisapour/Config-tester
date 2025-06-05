@@ -1,2 +1,2 @@
-vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#tm%E2%9A%A1%7C%40nofiltering2
 vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encry…
+vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#tm%E2%9A%A1%7C%40nofiltering2

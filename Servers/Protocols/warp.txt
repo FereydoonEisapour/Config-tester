@@ -1,3 +1,4 @@
 warp://188.114.97.26:4198/?ifp=5-10#Telegram:@zede_filteri
 warp://188.114.97.56:500/?ifp=5-10#Telegram:@zede_filteri
+warp://188.114.99.0:934/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40ShadowProxy66&&detour=warp://[[0:0:0:0:0:ffff:bc72:6300]:934]/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%40ShadowProxy66
 warp://188.114.96.88:1070/?ifp=5-10#@shokhmiplus

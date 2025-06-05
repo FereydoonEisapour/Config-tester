@@ -1,11 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_ir
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.175.16.6:10023?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=edms.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C151
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
-vless://55520747-311e-4015-83ce-be46e2060ce3@211.229.177.55:11007?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#@Hope_Net
-vless://a74c0814-cd23-4e43-86cd-a32011786d92@211.177.191.120:10020?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=ennyfe.zipgd3vx91o.ddns-ip.net#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C249
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@183.96.245.165:30060?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C287
+vless://55520747-311e-4015-83ce-be46e2060ce3@211.229.177.55:11007?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awlix_ir
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@183.96.245.165:30060?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C152
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@119.195.173.74:30109?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C130
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@175.214.121.119:30022?path=%2Ftelegram%40pgkj666%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C324
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.154.68.40:16040?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C248
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_ir

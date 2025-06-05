@@ -1,2 +1,2 @@
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.232.170.240:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed&security=tls&encryption=none&type=ws&sni=0926.qiang2000.link#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C%40wxgqlfx%7C136
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.85:80?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%A7%F0%9F%87%AC%7CBG%7C%40wxgqlfx%7C42

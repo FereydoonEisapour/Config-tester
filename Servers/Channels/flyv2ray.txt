@@ -1,5 +1,7 @@
-vless://44eb5324-0706-4b60-9dba-31988a9071a8@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
 vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
+vless://44eb5324-0706-4b60-9dba-31988a9071a8@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
+vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#HTTP
 vless://44eb5324-0706-4b60-9dba-31988a9071a8@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
 vless://e486066b-3308-4114-a9a6-5648750b071f@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
-vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=api.speedtest-divar.ir&type=httpupgrade#HTTP
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray

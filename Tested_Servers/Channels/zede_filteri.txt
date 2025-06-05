@@ -1,7 +1,7 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.21s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh34v7.bloger34art.shop#Telegram:@zede_filteri | 0.22s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.57s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.70s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.80s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 1.07s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 1.64s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.05s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh34v7.bloger34art.shop#Telegram:@zede_filteri | 0.06s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.51s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.59s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.76s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 0.86s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri | 2.55s

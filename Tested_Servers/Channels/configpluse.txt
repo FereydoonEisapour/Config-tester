@@ -1,2 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN | 0.21s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNGVPN | 0.34s
+vless://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA | 0.45s

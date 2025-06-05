@@ -1,7 +1,9 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40V2ray1_Ng | 0.55s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.57s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.60s
-vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#%40V2ray1_Ng | 0.62s
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40G0Dv2ray | 1.11s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.27s
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40G0Dv2ray | 1.90s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40V2ray1_Ng | 0.04s
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40G0Dv2ray | 0.19s
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#%40V2ray1_Ng | 0.22s
+vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#%40V2ray1_Ng | 0.55s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.62s
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?path=58834%2Fmail-template&security=none&encryption=none&host=my-mail-management-pr0-git-land-manager.clients-github.com&type=ws#%40V2ray1_Ng | 0.66s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.66s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.93s
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 5.80s

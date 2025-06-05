@@ -1,0 +1,1 @@
+vless://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA | 0.57s

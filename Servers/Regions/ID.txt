@@ -1,0 +1,1 @@
+vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?path=%2Fvless&security=tls&encryption=none&host=id.lanexa.my.id&type=ws&sni=id.lanexa.my.id#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir

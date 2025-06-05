@@ -1,3 +1,4 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.151.17:443?type=tcp&headerType=none&host=/TELEGRAM@MARAMBASHI_MARAMBASHI&security=tls&sni=147135001178.sec22org.com#Kurdistan_Vpn | 0.21s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com#Kurdistan_Vpn | 1.24s
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com#Kurdistan_Vpn | 3.47s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.pronetwork07.com&path=/?ed%3D2048&security=none#Kurdistan_Vpn | 0.46s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s04.drlimit2.com#Kurdistan_Vpn | 0.67s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&headerType=none&security=none#Kurdistan_Vpn | 0.96s
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com#Kurdistan_Vpn | 1.00s

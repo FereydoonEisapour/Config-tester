@@ -1,1 +1,2 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.80:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%8F%B3%EF%B8%8F%7CunKnow%7C%40wxgqlfx%7C179
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir

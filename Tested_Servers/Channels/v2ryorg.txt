@@ -1,5 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.20s
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 0.55s
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.77s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.85s
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.120:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 1.29s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.12s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40@v2ryorg | 0.13s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.120:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40@v2ryorg | 0.25s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.94s

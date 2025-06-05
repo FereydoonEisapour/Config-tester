@@ -1,1 +1,1 @@
-vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#Free%20By%20Tharuwa | 1.04s
+vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#Free%20By%20Tharuwa | 1.22s
