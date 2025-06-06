@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880/?type=grpc&encryption=none#Telegram+%7C+Payam_Nsi | 0.06s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880/?type=grpc&encryption=none#Telegram+%7C+Payam_Nsi | 1.38s

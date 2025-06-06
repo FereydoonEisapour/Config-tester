@@ -1,2 +1,1 @@
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws# | 0.49s
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#@QrV2ray|Allnet | 0.49s
+vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@QrV2ray|Allnet5 | 0.75s
