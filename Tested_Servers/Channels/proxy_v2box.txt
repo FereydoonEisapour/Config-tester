@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 1.78s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80 | 1.16s

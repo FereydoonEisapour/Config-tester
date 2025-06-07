@@ -1,2 +1,2 @@
-vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray | 2.68s
-vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray | 3.71s
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray | 1.18s
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray | 1.71s
