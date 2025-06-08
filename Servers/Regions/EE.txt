@@ -1,3 +1,2 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C54
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C95
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%40wxgqlfx%7C106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#Telegram%20%40V_2rayng0
