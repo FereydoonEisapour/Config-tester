@@ -1,6 +1,6 @@
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-SkiVpn%C2%B2
+vless://SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#-%F0%9F%94%B4%20%40SkiVpn%20%F0%9F%87%B9%F0%9F%87%B7
 vless://64b48f35-d81e-4227-8075-6337e6ef0b85@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&host=s1.api.ir-sub.fun&type=ws&sni=jmu.ac.ir#%40skiVpn%20-%20Telegram
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:11e::1]:23515?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-SkiVpn
-vless://SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#-%F0%9F%94%B4%20%40SkiVpn%20%F0%9F%87%B9%F0%9F%87%B7
-vless://SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#-%F0%9F%94%B4%20%40skiVpn%20%7C%20GERMAN%20PP%20%F0%9F%87%B9%F0%9F%87%B7
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-SkiVpn%C2%B2
 vless://SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#-%F0%9F%94%B4%20%40skiVpn%20%7C%20GERMAN%20PP%20%F0…
+vless://SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#-%F0%9F%94%B4%20%40skiVpn%20%7C%20GERMAN%20PP%20%F0%9F%87%B9%F0%9F%87%B7

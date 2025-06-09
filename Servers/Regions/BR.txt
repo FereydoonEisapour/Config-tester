@@ -1,4 +1,4 @@
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.213:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cx.bgm2024.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C170
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@awlix_ir
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@awlix_ir
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cx.bgm2024.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C170

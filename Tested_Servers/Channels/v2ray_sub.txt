@@ -1,2 +1,2 @@
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.14.85:8080?encryption=none&security=none&sni=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=%2F#TG%3A%40v2ray_sub | 0.60s
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.164:443?encryption=none&security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#TG%3A%40v2ray_sub | 0.65s
+vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.14.85:8080?encryption=none&security=none&sni=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=%2F#TG%3A%40v2ray_sub | 0.50s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.164:443?encryption=none&security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#TG%3A%40v2ray_sub | 0.73s

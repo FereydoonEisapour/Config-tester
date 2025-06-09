@@ -1,2 +1,1 @@
-vless://5f64020c-87d6-4784-bc48-63a55499d173@84.234.31.224:55?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87 | 0.48s
-vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.72s
+vless://41ccc2f6-e4ed-48b6-bb9f-bce8cbfc4f0d@asanaf.ir:48624?encryption=none&security=tls&type=tcp&headerType=none#@meli_proxyy | 0.52s
