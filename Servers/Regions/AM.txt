@@ -1,3 +1,1 @@
-trojan://Aimer@188.164.159.55:2096?sni=epcco.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#@Hope_Net-join-us-on-Telegram

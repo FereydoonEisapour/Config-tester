@@ -1,12 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%AE%F0%9F%87%B9
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40Freakconfig%20%F0%9F%87%B1%F0%9F%87%BB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
+vless://8c8873fb-6e68-4359-8d67-092d399612c9@185.82.126.141:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#%40kingofilter
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40gh_v2rayng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40kingofilter
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40V2ry_Proxy%C2%A0+%E2%9C%85+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF
 vless://f807d70f-d5bd-45b7-aa1e-abcd0a79cfe7@213.21.245.83:443?security=reality&encryption=none&type=tcp&sni=www.cdn77.com&sid=7e39db0c&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&spx=/JOKERRVPNCopy-az-chahnnel-JOKERRVPN&headerType=none#F
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@193.0.239.232:443?path=Telegram%40WangCai2%2F%3Fed&security=tls&encryption=none&type=ws&sni=0926.qiang2000.link#%F0%9F%87%B1%F0%9F%87%BB%7CLV%7C%40wxgqlfx%7C7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40V2ray1_Ng
-vless://8c8873fb-6e68-4359-8d67-092d399612c9@185.82.126.141:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#%40kingofilter
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1elJpQktBWWJLcERRdVc0bktHRUR4MTNINGg5R2VEeGFxMk9NdUppcUJ2UTVSc3M%3D@185.135.86.86:31348#%40@v2ryorg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40@v2ryorg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#%40gh_v2rayng
+vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40Freakconfig%20%F0%9F%87%B1%F0%9F%87%BB

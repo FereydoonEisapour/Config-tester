@@ -1,2 +1,1 @@
-vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&encryption=none&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=e1f576c5#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5#Kurdistan_Vpn
