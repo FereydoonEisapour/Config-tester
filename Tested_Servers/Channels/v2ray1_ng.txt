@@ -1,7 +1,8 @@
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40V2ray1_Ng | 0.04s
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40G0Dv2ray | 0.51s
-vless://269c963f-6021-4547-8303-cc764085603b@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=Apple-SIB.ir&type=ws#%40V2ray1_Ng%20ALL%20NET | 0.89s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.44s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.90s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 4.06s
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#%40V2ray1_Ng | 9.40s
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40V2ray1_Ng | 0.43s
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40G0Dv2ray | 0.47s
+vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&security=none&encryption=none&host=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws#%40V2ray1_Ng | 0.67s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.70s
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#%40V2ray1_Ng | 1.34s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?path=%2F%3Fed%3D2048-%40ShaowProxy66&security=tls&encryption=none&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome&type=ws&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#%40V2ray1_Ng | 1.36s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 2.00s
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40V2ray1_Ng | 4.22s

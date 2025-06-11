@@ -1,2 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#jayagaf | 0.09s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#iayagg | 0.68s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#iayagg | 4.23s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#jayagaf | 4.23s

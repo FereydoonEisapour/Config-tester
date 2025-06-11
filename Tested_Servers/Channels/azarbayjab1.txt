@@ -1,4 +1,4 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.05s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=TABRIZ.NET# | 0.50s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 1.56s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 4.34s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.57s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.63s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=TABRIZ.NET# | 0.66s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.69s
