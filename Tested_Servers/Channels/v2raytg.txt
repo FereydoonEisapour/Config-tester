@@ -1,2 +1,0 @@
-vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@v2rayTG | 0.68s
-vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@v2rayTG | 1.16s
