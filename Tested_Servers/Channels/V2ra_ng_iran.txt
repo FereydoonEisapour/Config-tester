@@ -1,3 +1,3 @@
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001178.sec22org.com#Telegram%20%40V_2rayng0 | 0.05s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#Telegram%20%40V_2rayng0 | 0.07s
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#telegram%20%40V_2rayng0 | 2.22s
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001178.sec22org.com#Telegram%20%40V_2rayng0 | 0.33s
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#telegram%20%40V_2rayng0 | 1.20s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#Telegram%20%40V_2rayng0 | 8.05s

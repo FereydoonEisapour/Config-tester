@@ -1,1 +1,1 @@
-vless://401ed4ae-68c0-4471-8a2f-6a1657aeb92c@167.172.77.142:38643?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#Free-By-Tharuwa%20%28%40z_z_z_zz_z%29 | 1.51s
+vless://401ed4ae-68c0-4471-8a2f-6a1657aeb92c@167.172.77.142:38643?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#Free-By-Tharuwa%20%28%40z_z_z_zz_z%29 | 1.69s
