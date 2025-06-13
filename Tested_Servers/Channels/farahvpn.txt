@@ -1,0 +1,2 @@
+vless://819664e1-26f2-49db-8025-b18adee8fd2c@107.172.157.148:30944?security=&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN | 0.33s
+vless://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:2087?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN | 0.65s

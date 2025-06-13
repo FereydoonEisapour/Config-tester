@@ -1,1 +1,1 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.104.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 0.61s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.138.8:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 19.48s

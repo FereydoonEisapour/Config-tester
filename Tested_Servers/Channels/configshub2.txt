@@ -1,1 +1,0 @@
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#[ | 0.82s

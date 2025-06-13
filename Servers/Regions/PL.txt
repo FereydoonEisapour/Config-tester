@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%40
-vmess://eyJhZGQiOiIyLjU2LjEyNS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzODA4OCIsInBzIjoi2qnYp9mG2KfZhCDZhdinINiv2LEg2KrZhNqv2LHYp9mFIEBBc2FrX1ZwbiDwn5KbIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RnVQeDJlSVdzd0RFOXNMdXdsMFVG@77.83.246.74:443#%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40
-vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#%F0%9F%8C%9FTelegram%3A%40Asak_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456?type=tcp#Kurdistan_Vpn
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#%F0%9F%8C%9FTelegram%3A%40Asak_Vpn
+vmess://eyJhZGQiOiIyLjU2LjEyNS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzODA4OCIsInBzIjoi2qnYp9mG2KfZhCDZhdinINiv2LEg2KrZhNqv2LHYp9mFIEBBc2FrX1ZwbiDwn5KbIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%40
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#@awlix_ir

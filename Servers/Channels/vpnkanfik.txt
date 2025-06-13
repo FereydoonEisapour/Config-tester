@@ -1,2 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@mmdwxnz.s8573.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray96
 vless://08bc9f09-8928-45d4-8a0f-aab604d76cad@sx.mohammad8563.site:8081?security=none&encryption=none&headerType=none&type=tcp#%40v2ray96
