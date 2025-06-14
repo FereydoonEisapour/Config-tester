@@ -1,4 +1,2 @@
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@92.53.190.149:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=tls&encryption=none&host=steep.skyfigure.top&type=ws&sni=steep.skyfigure.top#%F0%9F%87%B8%F0%9F%87%AE%7CSI%7C%40wxgqlfx%7C122
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2ry_Proxy%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF

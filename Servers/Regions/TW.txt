@@ -1,0 +1,2 @@
+vless://bdbfd26c-725b-4922-b970-e7dfb46afb7b@220.128.110.108:995/?type=ws&encryption=none&flow=&host=edge.ekt.me&path=%2Fsocks5%3A%2F%2F12345678%3A12345678%4047.76.254.12%3A1080&security=tls&sni=edge.ekt.me#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C40
+trojan://0d312b64dd9e5f7adf0d9ba9fc66d3dd@61.216.76.114:443/?type=tcp&security=tls&sni=hezijiasuqi.com&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C24

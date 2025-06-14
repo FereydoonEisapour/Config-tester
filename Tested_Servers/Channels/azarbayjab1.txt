@@ -1,5 +1,5 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.48s
-vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#http%3A%2F%2Ft.me%2FAzarbayjab1 | 1.91s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=TABRIZ.NET# | 2.61s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 4.68s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 8.05s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.04s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.17s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=TABRIZ.NET# | 0.42s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=# | 0.42s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#TM-@AZARBAYJAB1 | 1.14s

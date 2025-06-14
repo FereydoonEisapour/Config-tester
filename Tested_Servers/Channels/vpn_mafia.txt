@@ -1,1 +1,1 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#T.me%2FVpn_Mafia%20%F0%9F%87%AB%F0%9F%87%B7 | 2.81s
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#T.me%2FVpn_Mafia%20%F0%9F%87%AB%F0%9F%87%B7 | 0.73s

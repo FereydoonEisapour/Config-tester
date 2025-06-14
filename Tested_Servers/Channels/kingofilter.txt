@@ -1,2 +1,0 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#@kingofilter | 0.84s
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?type=tcp&headerType=none&security=tls&sni=147135010072.sec21org.com#@kingofilter | 0.86s

@@ -1,2 +1,2 @@
-vless://60b2e9a5-c346-4de1-be36-563214baae49@www.speedtest.net:443?mode=auto&path=%2Fws&security=tls&alpn=h3&encryption=none&host=test5.mohammad8563.site&fp=chrome&type=xhttp&sni=test5.mohammad8563.site#%40v2ray96
+hysteria2://48c1e014-28d6-11ec-a0fc-f23c913c8d2b@3e8cbc42-svwf40-sw0dp4-3z3v.hy2.gotochinatown.net:8443?security=tls&insecure=0&sni=3e8cbc42-svwf40-sw0dp4-3z3v.hy2.gotochinatown.net#tst
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@mmadvwz.mmadvip8563.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray96

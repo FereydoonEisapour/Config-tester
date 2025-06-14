@@ -1,6 +1,0 @@
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?type=tcp&headerType=none&security=tls&sni=147135010072.sec21org.com#@kingofilter
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#@kingofilter
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?type=ws&host=vle.amclubsvip.dpdns.org&path=/?ed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&sni=vle.amclubsvip.dpdns.org#@kingofilter
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?type=ws&host=redfree8.redorg1.ir&path=/?ed%3D2560&security=none#@kingofilter
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@1…
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/Vb2kRpQSrEqsUKCX?ed%3D2560/?BIA_CHANEL@JOKERRVPN&security=none#@kingofilter
