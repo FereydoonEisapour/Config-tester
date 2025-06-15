@@ -1,2 +1,3 @@
-vless://4b80cba5-db10-461b-ac3c-4cd3e3ab29b6@85.9.99.198:28534?security=none&encryption=none&headerType=none&type=tcp#%40v2raying
-vless://7dc6ccde-c471-420e-d83b-e83c289b5bd8@85.9.100.233:19120?security=none&encryption=none&headerType=none&type=tcp#%40v2raying
+vless://4b80cba5-db10-461b-ac3c-4cd3e3ab29b6@85.9.99.198:28534?security=none&encryption=none&headerType=none&type=tcp#%DB%B0%DB%B2
+vless://fadebdad-95ba-4f69-a16a-b0f0b7845483@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#%40v2raying
+vless://7dc6ccde-c471-420e-d83b-e83c289b5bd8@85.9.100.233:19120?security=none&encryption=none&headerType=none&type=tcp#%DB%B0%DB%B1

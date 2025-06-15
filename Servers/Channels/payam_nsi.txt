@@ -1,4 +1,5 @@
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&security=none&encryption=none&host=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws#Telegram+%7C+Payam_Nsi
-vless://57413029-5035-4de8-8681-e74d00d7ee72@astram.abletodothingsorg.com:80?path=%2F&security=none&encryption=none&host=uioijsjvuabcujwecwe.abletodothingsorg.com&type=ws#Telegram+%7C+Payam_Nsi
-vless://eb899be2-f306-468e-bb4d-1c43f7d49c00@104.16.102.112:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=mci.mtn.ir.com.org.net.om.org.net.javadv2.ir.&type=httpupgrade#Telegram+%7C+Payam_Nsi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Telegram+%7C+Payam_Nsi
+trojan://telegram-id-directvpn@18.156.116.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram+%7C+Payam_Nsi
+trojan://telegram-id-directvpn@13.39.68.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram+%7C+Payam_Nsi
+vless://0e74189c-283b-7ef3-4a08-63e997da636b@ir.baziir.ir:1011?security=none&type=tcp&headerType=http&path=%2F%3Fed%3D1011#Telegram+%7C+Payam_Nsi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Telegram+%7C+Payam_Nsi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#Telegram+%7C+Payam_Nsi

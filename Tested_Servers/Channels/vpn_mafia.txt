@@ -1,1 +1,6 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#T.me%2FVpn_Mafia%20%F0%9F%87%AB%F0%9F%87%B7 | 0.73s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440313796363.rasht-drc-tusaba.info:8880/?type=grpc&encryption=none#T.me%2FVpn_Mafia%20%F0%9F%87%BA%F0%9F%87%B8 | 0.39s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440304530894.qazvin-drc-tusaba.info:8880/?type=grpc&encryption=none#T.me%2FVpn_Mafia%20%F0%9F%87%BA%F0%9F%87%B8 | 0.55s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440313811037.rasht-drc-tusaba.info:8880/?type=grpc&encryption=none#T.me%2FVpn_Mafia%20%F0%9F%87%BA%F0%9F%87%B8 | 0.67s
+vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn80asdasldkjaskldjsfffffasdasd.asiatech-server.com:80/?type=tcp&encryption=none#T.me%2FVpn_Mafia%20 | 3.08s
+vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn1017sdfkjfhsdkjfhsdjkfhdsjhfsdkfh.asiatech-server.com:1017/?type=tcp&encryption=none#T.me%2FVpn_Mafia%20 | 3.58s
+vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn8088asdjaksdhasbvgddsaaaaaa.asiatech-server.com:8088/?type=tcp&encryption=none#T.me%2FVpn_Mafia%20 | 6.21s

@@ -1,1 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&encryption=none&type=grpc#‎سرور | 0.05s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&encryption=none&type=grpc#‎سرور | 1.32s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&encryption=none&type=grpc#‎سرور | 2.71s

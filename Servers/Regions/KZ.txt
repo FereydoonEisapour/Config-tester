@@ -1,3 +1,1 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%F0%9F%87%BF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ckdoZHdXSXJmNE45S1NZTnRhcmJM@91.217.10.60:1090#%F0%9F%87%B0%F0%9F%87%BF%7CKZ%7C%40wxgqlfx%7C35
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880?path=%2FChannel+id%3A+%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2ry_Proxy%C2%A0+%E2%9C%85+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram

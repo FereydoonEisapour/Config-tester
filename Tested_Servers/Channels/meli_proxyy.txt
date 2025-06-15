@@ -1,7 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy | 0.41s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy | 0.42s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy | 0.43s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy | 0.43s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy | 0.44s
-vless://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:2087?mode=gun&security=none&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40Daily_Configs | 0.55s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy | 0.70s
+vless://3e53f3cb-bb35-c6be-d955-c53f5bd7c709@178.239.144.99:13000?encryption=none&security=none&type=ws&path=%2F#@meli_proxyy | 6.15s
+vless://fadebdad-95ba-4f69-a16a-b0f0b7845483@151.101.64.155:80?path=%2F-LiV2ry%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36%3Fed%3D2048&security=none&encryption=none&host=%4C%49%47%48%54%4E%49%4E%47%36.ir&type=ws#@meli_proxyy | 10.00s

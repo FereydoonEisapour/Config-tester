@@ -1,3 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 0.43s
-vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@cddfrt678.852224.dpdns.org:80?type=ws&host=cddfrt678.852224.dpdns.org&path=/l3y4CZ9KUctFw6Ri5y2&security=none#Kurdistan_Vpn | 1.38s
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=/&security=none#Kurdistan_Vpn | 6.35s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=/&security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#Kurdistan_Vpn | 0.61s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.151:8880?type=grpc&mode=gun&security=none#Kurdistan_Vpn | 3.31s

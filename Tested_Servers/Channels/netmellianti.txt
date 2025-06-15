@@ -1,1 +1,1 @@
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#%40NETMelliAnti | 0.25s
+vless://787349d6-6ab5-402e-bf45-b9d57843beeb@85.9.120.32:26948?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 2.84s

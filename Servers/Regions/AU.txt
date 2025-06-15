@@ -1,2 +1,2 @@
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@152.67.125.174:443/?type=ws&encryption=none&flow=&host=piqie.justin-lifeistooshort.info&path=%2Ftiger&security=tls&sni=piqie.justin-lifeistooshort.info#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C126
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@152.67.125.174:443/?type=ws&encryption=none&flow=&host=piqie.justin-lifeistooshort.info&path=%2Ftiger&security=tls&sni=piqie.justin-lifeistooshort.info#%F0%9F%87%A6%F0%9F%87%BA%7CAU%7C%40wxgqlfx%7C126

@@ -1,0 +1,2 @@
+vless://b00f395d-417b-4af0-f2e0-3141c72f8ac4@ipjd.motorphrotan.ir:443?mode=gun&security=reality&encryption=none&pbk=hUz6…
+vless://b00f395d-417b-4af0-f2e0-3141c72f8ac4@ipjd.motorphrotan.ir:443?mode=gun&security=reality&encryption=none&pbk=hUz6-2DRR2JQr6lHq7Jx5BSmV3Z3LQGwTIXpWA63xVs&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20reality2
