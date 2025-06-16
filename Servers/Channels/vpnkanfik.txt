@@ -1,1 +1,2 @@
 vless://08bc9f09-8928-45d4-8a0f-aab604d76cad@sx.mohammad8563.site:8081?security=none&encryption=none&headerType=none&type=tcp#%40v2ray96
+vless://326028db-39d9-4796-8ad6-0e2fa2a11dc5@tn35.adamlinux.ir:8087?type=tcp&path=%2F&headerType=http&security=none#vip35

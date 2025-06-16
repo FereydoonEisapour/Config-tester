@@ -1,7 +1,3 @@
-vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#%40V2ray1_Ng | 0.47s
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?path=%2F%3Fed%3D2048-%40ShaowProxy66&security=tls&encryption=none&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome&type=ws&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#%40V2ray1_Ng | 0.61s
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40V2ray1_Ng | 0.62s
-vless://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:2087?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.72s
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#%40V2ray1_Ng | 0.73s
-vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn8088asdjaksdhasbvgddsaaaaaa.asiatech-server.com:8088?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 3.40s
-vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn80asdasldkjaskldjsfffffasdasd.asiatech-server.com:80?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 6.28s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40Free1_Vpn | 0.07s
+vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#%40V2ray1_Ng | 1.53s
+vless://b30a6c95-554d-4635-b6ed-7cc429d19ee2@shab.archerreal.ir:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=random&type=grpc&sni=shab.archerreal.ir#%40V2ray1_Ng | 1.82s
