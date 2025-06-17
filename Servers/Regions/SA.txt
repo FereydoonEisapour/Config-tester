@@ -1,1 +1,1 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.209.253.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#%F0%9F%87%B8%F0%9F%87%A6%7CSA%7C%40wxgqlfx%7C255
+vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#Telegram%3A%20%40V2RAYNG_IP

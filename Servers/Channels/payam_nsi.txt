@@ -1,0 +1,2 @@
+vless://e10a6d1d-0bcf-4ccd-8f95-e20d1fbc0fbf@sr26.darkskys.sbs:2082?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+Payam_Nsi
+vless://5a79e1f3-c772-469e-99c8-0a7036c53cbd@sr35.boodel.sbs:2086?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+Payam_Nsi

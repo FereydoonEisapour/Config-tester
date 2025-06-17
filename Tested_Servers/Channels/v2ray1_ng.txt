@@ -1,3 +1,4 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40Free1_Vpn | 0.07s
-vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#%40V2ray1_Ng | 0.84s
-vless://b30a6c95-554d-4635-b6ed-7cc429d19ee2@shab.archerreal.ir:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=random&type=grpc&sni=shab.archerreal.ir#%40V2ray1_Ng | 1.48s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.04s
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.69.179:59483?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.41s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&security=tls&encryption=none&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#%40V2ray1_Ng | 0.66s
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.131.46:59483?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.79s

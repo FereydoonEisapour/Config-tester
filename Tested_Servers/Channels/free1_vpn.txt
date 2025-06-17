@@ -1,3 +1,4 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40Free1_Vpn | 0.07s
-vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#%40V2ray1_Ng | 1.53s
-vless://b30a6c95-554d-4635-b6ed-7cc429d19ee2@shab.archerreal.ir:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=random&type=grpc&sni=shab.archerreal.ir#%40V2ray1_Ng | 1.82s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40Free1_Vpn | 0.03s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.05s
+vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#%40V2ray1_Ng | 0.88s
+vless://b30a6c95-554d-4635-b6ed-7cc429d19ee2@shab.archerreal.ir:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=random&type=grpc&sni=shab.archerreal.ir#%40V2ray1_Ng | 0.91s
