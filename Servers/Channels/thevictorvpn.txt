@@ -1,2 +1,1 @@
-vless://2a7b6666-d93f-4015-aa29-60cfe0a2d724@victor3.safeunity.shop:24341?type=ws&path=%2F&host=&security=none#FD3-Rep
 vless://e05e8b96-212d-48e6-b12c-852a37f217bb@victor4.safeunity.shop:54210?type=ws&path=%2F&host=&security=none#50GB_Victor_Gift

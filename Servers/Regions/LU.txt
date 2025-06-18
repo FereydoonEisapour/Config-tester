@@ -1,4 +1,2 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C%40wxgqlfx%7C182
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.42.88.45:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@188.42.89.53:2086?path=%2F%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40V2ry_Proxy%C2%A0+%E2%9C%85+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C%40wxgqlfx%7C182

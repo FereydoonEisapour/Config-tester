@@ -1,6 +1,8 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.83.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C184
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C133
 vless://780161d1-a345-45d4-96fb-c2c4b88bf151@185.238.228.33:443?path=%2F&security=tls&encryption=none&host=dd.gevom47953.workers.dev&type=ws&sni=dd.gevom47953.workers.dev#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C238
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C133
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hf5a6a5Yi25LiT57q/77yaQFFTMDAwMDgiLCJhZGQiOiI0NS4xMi4xNDQuNzkiLCJwb3J0Ijo0NzEyNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.83.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C184
+vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.126:37823/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C33
+vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?flow=&fp=chrome&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&security=reality&sid=a932&sni=canva.com&type=tcp#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN

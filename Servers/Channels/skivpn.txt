@@ -1,0 +1,2 @@
+vless://b55d615a-104d-48bb-acd6-fe2a4666745a@ebook.streamingpower.sbs:7042?security=reality&encryption=none&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=5668ea398f7657ef#%F0%9F%8C%80%F0%9F%87%AB%F0%9F%87%AEDirect%20%3A%201075552_iran%40SkiVpn
+vless://34449490-aa91-4b0a-ab90-7d05b193071f@victor4.nepton5050.tech:54210?security=none&encryption=none&type=ws#SkiVpn
