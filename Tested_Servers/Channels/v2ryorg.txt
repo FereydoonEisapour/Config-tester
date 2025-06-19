@@ -1,1 +1,2 @@
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 0.82s
+vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@172.67.196.8:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=us.cishanjichang.me&fp=chrome&type=ws&sni=us.cishanjichang.me#%40@v2ryorg | 0.24s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40@v2ryorg | 1.24s

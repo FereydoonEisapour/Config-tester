@@ -1,1 +1,1 @@
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&security=&encryption=none&host=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws#vip | 0.70s
+vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&security=&encryption=none&host=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws#vip | 0.58s
