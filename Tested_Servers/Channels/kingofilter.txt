@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=&type=grpc&encryption=none#VIP%20343%20%F0%9F%87%BA%F0%9F%87%B8@asrnovin_ir | 0.18s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=&type=grpc&encryption=none#VIP%20343%20%F0%9F%87%BA%F0%9F%87%B8@asrnovin_ir | 0.64s
