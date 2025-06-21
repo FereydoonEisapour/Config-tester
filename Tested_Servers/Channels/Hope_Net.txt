@@ -1,1 +1,1 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram | 0.24s
+vless://d534d992-c689-41b1-a690-0ba0b3f5e87e@104.21.21.31:443?security=tls&sni=hk.cishanjichang.me&type=ws&host=hk.cishanjichang.me&path=/swordnewnewnew#@Hope_Net-join-us-on-Telegram | 1.15s

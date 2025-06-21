@@ -1,3 +1,3 @@
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.45:443/?type=ws&encryption=none&flow=&host=hs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=hs.bgm2024.dpdns.org#%F0%9F%87%A7%F0%9F%87%B7%7CBR%7C%40wxgqlfx%7C31
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443/?type=ws&encryption=none&flow=&host=fs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=fs.bgm2024.dpdns.org#%F0%9F%87%A7%F0%9F%87%B7%7CBR%7C%40wxgqlfx%7C37
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@awlix_ir
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.45:443/?type=ws&encryption=none&flow=&host=hs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=hs.bgm2024.dpdns.org#%F0%9F%87%A7%F0%9F%87%B7%7CBR%7C%40wxgqlfx%7C31
