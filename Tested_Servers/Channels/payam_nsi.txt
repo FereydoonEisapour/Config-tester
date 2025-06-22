@@ -1,2 +1,0 @@
-vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@all1.hajhesam.biz.id:443?path=%2Fws%3Fed%3D2056&security=tls&alpn=http%2F1.1&encryption=none&host=de222.hajhesam.biz.id&fp=randomized&type=ws&sni=de222.hajhesam.biz.id#Telegram+%7C+Payam_Nsi | 13.28s
-vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+Payam_Nsi | 23.86s

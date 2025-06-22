@@ -1,6 +1,1 @@
-vless://d8cb6cad-c062-4951-87b6-97366d1665e7@m1.benjem.ir:2053?path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dash.benjem.ir&fp=chrome&type=ws&sni=dash.benjem.ir#%40aysal_coin
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&encryption=none&host=persiangames.online&headerType=http&type=tcp#%40ProxyNetMali%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF
-vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@server-farna1.anush.top:2087?type=tcp&headerType=http&host=speedtest.net&security=none#@unlimiteddev
-vless://4a903309-440b-4f0b-80b2-55baa730db2f@vexo.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%40ProxyNetMali%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=&encryption=none&host=persiangames.online&headerType=http&type=tcp#%40F_FutureAnalysis%20S8
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#%40ProxyNetMali%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF
+vmess://eyJhZGQiOiJ3bnIucmF2YTIwMjMudGVjaCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMWExMzVjZi0xMTgxLTRhYjktYTdiYy01OTk0Y2RjNmY0N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMwMjg2IiwicHMiOiJXb2xmblJvc2UtVlBOLU1TLVZQTi1JIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
