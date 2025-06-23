@@ -1,0 +1,2 @@
+vless://1465a37a-348d-c75d-2a89-eae2665c2862@l77.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Telegram%3A%20%40v2ray225%F0%9F%9A%80
+vless://ed6fb549-d962-4e32-bb16-544c58b7b31f@7ul9o6broc.the-hot-and-dry-desert-of-my-body.top:5118?security=none&encryption=none&headerType=http&type=tcp#Telegram%3A%20%40v2ray225%F0%9F%9A%80%20%20%F0%9F%8F%B3%F0%9F%8F%B3

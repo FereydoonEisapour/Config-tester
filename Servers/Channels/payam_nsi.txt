@@ -1,0 +1,9 @@
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6687?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.3.8:80?type=tcp&headerType=none&security=none#Telegram+%7C+Payam_Nsi
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6787?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+ss://YWVzLTI1Ni1nY206ZmFjMTQwZmMtOTk4NS00NDE4LTA4ZDEtN2I0NzNjM2UwNDM1@38557654738726634736956357123082.international-ixp.com:11309?type=tcp#Telegram+%7C+Payam_Nsi
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6888?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051?type=tcp#Telegram+%7C+Payam_Nsi
+vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6985?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi

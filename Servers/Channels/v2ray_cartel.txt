@@ -1,2 +1,4 @@
-vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?path=%2F&security=none&encryption=none&type=ws#v2ray_cartel
-vless://f53c9c18-fcd7-0e98-a932-8bc7a1adcf52@dns19.nichoster.com:21503?security=&encryption=none&host=fast.com&headerType=http&type=tcp#joinbede@v2ray_cartel
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%v2ray_cartel-2
+vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@api2.gamingserverstream.ir:8443?security=reality&encryption=none&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&headerType=none&fp=firefox&spx=%2FiXKaMIrwpAuFlnD&type=tcp&flow=xtls-rprx-vision&sni=api.gamingserverstream.ir&sid=711bc39b#@v2ray_cartel
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@151.101.128.155:80?path=%2Fdownload&security=none&encryption=none&host=melovy.ir&type=ws#[
+vless://a6cd3631-4457-48da-bace-76c5e0bfa331@Lightning6.12speedtest.store:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed&security=none&encryption=none&host=Lightning6.ir&type=ws#tm%E2%9A%A1%7C%v2ray_cartel

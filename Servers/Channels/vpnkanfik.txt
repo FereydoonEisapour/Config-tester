@@ -1,6 +1,6 @@
-vless://6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6…
-vless://326028db-39d9-4796-8ad6-0e2fa2a11dc5@tn35.adamlinux.ir:8087?type=tcp&path=%2F&headerType=http&security=none#vip35
-vless://6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#%40v2proxyy12
-vless://6e12f6e8-d15a-410a-f064-e69033d857e2@ins.aminhajiloo.xyz:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#
+trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?type=grpc&mode=gun&serviceName=gr1.grtj.sulindac.top&security=tls&sni=gr1.grtj.sulindac.top#
 vless://1c1da91c-d07d-431e-9c6d-bcde096d342b@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#%40v2proxyy12
+trojan://AOmMqv1BPu@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#
+vless://6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#meli
+vless://6e12f6e8-d15a-410a-f064-e69033d857e2@ins.aminhajiloo.xyz:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#

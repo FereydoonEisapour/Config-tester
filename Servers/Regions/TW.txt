@@ -1,0 +1,1 @@
+trojan://ttfang@220.135.202.250:81?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C113

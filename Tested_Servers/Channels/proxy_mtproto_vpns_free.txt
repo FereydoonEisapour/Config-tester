@@ -1,0 +1,2 @@
+vless://d80186bd-2fa4-4908-95a0-95d56516f038@warden.microsof.click:33508?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy | 8.83s
+vless://a6cd3631-4457-48da-bace-76c5e0bfa331@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#Tel%20%3E%20@penguin_v2ray | 17.21s
