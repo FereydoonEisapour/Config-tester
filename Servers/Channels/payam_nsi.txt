@@ -1,9 +1,5 @@
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6687?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
-vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.3.8:80?type=tcp&headerType=none&security=none#Telegram+%7C+Payam_Nsi
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6787?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
-ss://YWVzLTI1Ni1nY206ZmFjMTQwZmMtOTk4NS00NDE4LTA4ZDEtN2I0NzNjM2UwNDM1@38557654738726634736956357123082.international-ixp.com:11309?type=tcp#Telegram+%7C+Payam_Nsi
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6888?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051?type=tcp#Telegram+%7C+Payam_Nsi
-vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
-vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6985?security=none&encryption=none&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+vless://ef6a1a95-f082-44e3-ac10-7f7a5f56d0b6@104.21.77.239:2083?path=%2FjZH9LgTYdget55Sa%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=b2govrrsduy5650fke1fzuytwiopwznk.smoohebii.workers.dev&fp=randomized&type=ws&sni=b2GovRrSDUy5650fkE1fzuytWIopWzNk.SMoOheBiI.WORkERS.deV#Telegram+%7C+Payam_Nsi
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Telegram+%7C+Payam_Nsi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowT1lQOGlVK3dRWDFaVU1XcExQWTF3WFk3N09uMjJaSmt5Wmk1YkZSNEx3PQ%3D%3D@157.180.127.73:23819#Telegram+%7C+Payam_Nsi
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Telegram+%7C+Payam_Nsi
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#Telegram+%7C+Payam_Nsi

@@ -1,5 +1,9 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
+trojan://Aimer@210.99.204.14:10044?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@14.41.85.118:12101?sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@118.45.241.209:50000?sni=agepq.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@14.32.9.120:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI%3D@141.164.63.32:30936#%40
-vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@210.179.71.53:10990?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mot.majusti.dpdns.org&type=ws&sni=mot.majusti.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C203
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@210.179.71.53:10990?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mot.majusti.dpdns.org&fp=random&type=ws&sni=mot.majusti.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C241
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
+vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_ir

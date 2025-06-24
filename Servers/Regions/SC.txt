@@ -1,5 +1,2 @@
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-trojan://Aimer@154.197.64.228:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmo.ambercc.filegear-sg.me&type=ws&sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%7CSC%7C%40wxgqlfx%7C182
-trojan://Aimer@154.219.5.242:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmo.ambercc.filegear-sg.me&type=ws&sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%B5%F0%9F%87%AA%7CPE%7C%40wxgqlfx%7C153
-trojan://Aimer@154.197.64.164:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmo.ambercc.filegear-sg.me&type=ws&sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%7CSC%7C%40wxgqlfx%7C212
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.219.5.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#%F0%9F%87%B5%F0%9F%87%AA%7CPE%7C%40wxgqlfx%7C18
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8

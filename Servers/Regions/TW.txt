@@ -1,1 +1,1 @@
-trojan://ttfang@220.135.202.250:81?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C113
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40ShadowProxy66%294fa101a%3A48723#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%B3

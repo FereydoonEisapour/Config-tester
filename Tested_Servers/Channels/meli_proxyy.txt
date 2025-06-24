@@ -1,2 +1,1 @@
-vless://f8b4da4f-e95a-47cc-a67f-a15228296c82@iranm.nimhub.ir:8880?path=%2F&security=none&encryption=none&host=s5.napsternet.party&type=ws#@meli_proxyy | 1.16s
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy | 12.89s
+vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#@meli_proxyy | 5.94s
