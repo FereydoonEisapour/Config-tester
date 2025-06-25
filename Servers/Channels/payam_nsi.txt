@@ -1,5 +1,4 @@
-vless://ef6a1a95-f082-44e3-ac10-7f7a5f56d0b6@104.21.77.239:2083?path=%2FjZH9LgTYdget55Sa%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=b2govrrsduy5650fke1fzuytwiopwznk.smoohebii.workers.dev&fp=randomized&type=ws&sni=b2GovRrSDUy5650fkE1fzuytWIopWzNk.SMoOheBiI.WORkERS.deV#Telegram+%7C+Payam_Nsi
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Telegram+%7C+Payam_Nsi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowT1lQOGlVK3dRWDFaVU1XcExQWTF3WFk3N09uMjJaSmt5Wmk1YkZSNEx3PQ%3D%3D@157.180.127.73:23819#Telegram+%7C+Payam_Nsi
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Telegram+%7C+Payam_Nsi
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#Telegram+%7C+Payam_Nsi
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.4.50:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#Telegram+%7C+Payam_Nsi
+vless://040bdd46-7388-4c9e-ad19-ac69313232bd@nim4.therevenant.shop:2053?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi
+vless://b3d43db6-c4b2-41b8-9954-5b93318d02b0@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#Telegram+%7C+Payam_Nsi
+vless://040bdd46-7388-4c9e-ad19-ac69313232bd@nim6.therevenant.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram+%7C+Payam_Nsi

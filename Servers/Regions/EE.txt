@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#Telegram%20%40V_2rayng0
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.159.247.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%AA%F0%9F%87%AA%7CEE%7C%40wxgqlfx%7C228
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.80.110.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%AA%F0%9F%87%AA%7CEE%7C%40wxgqlfx%7C138

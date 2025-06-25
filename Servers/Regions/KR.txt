@@ -1,9 +1,10 @@
-trojan://Aimer@210.99.204.14:10044?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@14.41.85.118:12101?sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@118.45.241.209:50000?sni=agepq.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@14.32.9.120:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI%3D@141.164.63.32:30936#%40
+trojan://Aimer@175.215.205.40:20107?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmf.ambercc.filegear-sg.me&type=ws&sni=epmf.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C65
 vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@210.179.71.53:10990?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mot.majusti.dpdns.org&fp=random&type=ws&sni=mot.majusti.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C241
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
-vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_ir
+vless://54af7d89-3ac6-426b-82c2-993984064066@113.29.230.65:8880/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=afyGbyVtSnU4-TVYh_UG3eAOwjrH2MNgxcxKeD_aOEM&sid=93c21ebdd1f7349e#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
+vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?security=tls&encryption=none&host=mihu.sorry.ip-ddns.com&type=ws&sni=mihu.sorry.ip-ddns.com#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C149
+vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@120.143.180.126:28030?security=tls&encryption=none&host=mot.gike.dpdns.org&type=ws&sni=mot.gike.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI%3D@141.164.63.32:30936#%40
+trojan://Aimer@175.192.27.197:16992?sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@210.179.71.53:10990?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mot.majusti.dpdns.org&fp=random&type=ws&sni=mot.majusti.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C109

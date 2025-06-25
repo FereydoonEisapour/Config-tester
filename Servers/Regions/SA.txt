@@ -1,1 +1,0 @@
-vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#Telegram%3A%20%40V2RAYNG_IP

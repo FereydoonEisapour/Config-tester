@@ -1,8 +1,10 @@
-vless://9da21010-6025-430a-9ce9-6096673d86d1@X3.snaapppfree.com:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%3A%20%40vpnkanfik
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#meli
-vless://5415bf81-0e5c-4237-8a43-01f5fb79d762@dl.mfssss11.com:8880?type=ws&path=/&security=none#
-vless://6e12f6e8-d15a-410a-f064-e69033d857e2@ins.aminhajiloo.xyz:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#
+vless://5f935144-b86d-4021-b6ac-4302e424ba02@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#
+vless://ec2c4dfe-7df7-4200-a330-c48b4b9e3b3b@speedtest.net:80?type=xhttp&mode=auto&host=youranonsafeyour-name.global.ssl.fastly.net&path=/2ee0d60f?ed%3D8880&security=none#
+vless://ec2c4dfe-7df7-4200-a330-c48b4b9e3b3b@speedtest.net:80?typ…
 vless://93f82618-6073-e428-2ea3-89df45aed1de@speedtest.net:80?security=none&type=xhttp&path=%2F&host=iranonlineshopemehran.com#
-trojan://AOmMqv1BPu@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#
+vless://6406bd60-ec87-4ae4-bb95-938bf4e9486c@xpnteam-change-addrees.sedanor.ir:80?path=%2FFastlyxpn%3Fed%3D2048&security=&encryption=none&host=Kwisjs.org&type=ws#vpnkanfik
+vless://5415bf81-0e5c-4237-8a43-01f5fb79d762@dl.mfssss11.com:8880?type=ws&path=/&security=none#
+vless://725f9a17-5acd-4933-aaea-12554b8265e9@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Turkey.ss.ss&type=ws#vpnkanfik
 vless://93f82618-6073-e428-2ea3-89df45aed1de@nwarne.fast.hosting-ip.com:80?security=none&type=xhttp&path=%2F&host=iranmobileonlineshopemehran.com#
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?type=grpc&mode=gun&serviceName=gr1.grtj.sulindac.top&security=tls&sni=gr1.grtj.sulindac.top#
+vless://9da21010-6025-430a-9ce9-6096673d86d1@X3.snaapppfree.com:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%3A%20%40vpnkanfik
+vless://5e823885-ff4c-4f22-940a-2763bece7e93@151.101.3.8:80?type=xhttp&mode=auto&host=seramik.ir&path=/&security=none#
