@@ -1,4 +1,0 @@
-vless://6a2cd2c2-06e2-4849-b1ea-dc3b869d0c57@main.zdshop.ir:2086?path=%2FShhProxy%3Fed%3D1024&security=none&encryption=none&host=grns.speedgo.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish | 1.45s
-vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.org&type=ws#Telegram%20%3A%20%40V2rayEnglish | 5.33s
-vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@151.101.3.8:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish | 8.64s
-vless://6a2cd2c2-06e2-4849-b1ea-dc3b869d0c57@main.zdshop.ir:2086?path=%2FShhProxy%3Fed%3D1024&security=none&encryption=none&host=enns.kiwijuice.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish | 8.78s

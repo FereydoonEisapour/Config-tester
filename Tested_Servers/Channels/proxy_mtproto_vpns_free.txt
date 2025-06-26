@@ -1,2 +1,0 @@
-vless://6a2cd2c2-06e2-4849-b1ea-dc3b869d0c57@main.zdshop.ir:2086?path=%2FShhProxy%3Fed%3D1024&security=none&encryption=none&host=enns.kiwijuice.ir&type=ws# | 9.50s
-vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws# | 17.33s

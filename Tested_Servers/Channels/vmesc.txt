@@ -1,0 +1,1 @@
+vless://ced20efa-802d-4589-a91f-26947496c81f@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=q3.19kala.co&type=ws#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc | 8.57s

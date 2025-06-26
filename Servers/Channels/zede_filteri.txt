@@ -1,5 +1,5 @@
-vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@zone.fi.f2hub.ir:28643?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Telegram:@zede_filteri
 vless://1db6e734-7383-4fb9-a24e-e95a52c46ae3@h.speedtest2028.com:887?security=&encryption=none&headerType=http&type=tcp#Telegram:@zede_filteri
-vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#Telegram:@zede_filteri
-vless://b1f402e6-79fc-4e68-ae50-2a405fd96013@all8.toolsetbar.ir:80?mode=auto&path=%2F&security=&encryption=none&host=rvn1.com&type=xhttp#Telegram:@zede_filteri
 vless://bad6c0db-094c-42f7-9cc7-68b738bc0e2e@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#Telegram:@zede_filteri
+vless://b1f402e6-79fc-4e68-ae50-2a405fd96013@all8.toolsetbar.ir:80?mode=auto&path=%2F&security=&encryption=none&host=rvn1.com&type=xhttp#Telegram:@zede_filteri
+vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#Telegram:@zede_filteri
+vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@zone.fi.f2hub.ir:28643?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Telegram:@zede_filteri

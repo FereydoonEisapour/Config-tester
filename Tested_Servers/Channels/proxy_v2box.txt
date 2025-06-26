@@ -1,1 +1,1 @@
-vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#Telegram%20%3A%20%40v2ray225%F0%9F%9A%80 | 10.03s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray225%F0%9F%9A%80 | 0.50s

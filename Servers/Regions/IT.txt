@@ -1,2 +1,2 @@
-vless://725f9a17-5acd-4933-aaea-12554b8265e9@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Turkey.ss.ss&type=ws#vpnkanfik
-vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germany.ss.ss&type=ws#%40flyv2ray
+vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#Telegram+%7C+Payam_Nsi

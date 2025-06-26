@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#WedBaZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#%40flyv2ray
 vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40QS00008
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#WedBaZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%40Asak_Vpn+%F0%9F%8F%86
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
-vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40Alin006Bot
 vless://342e2067-f08c-438a-8ab3-ac1142a2a57c@93.127.180.140:443?security=reality&encryption=none&pbk=dImou9rUd7je5NZZ8ND5ULgPC0Ppxym_p7eJvpnS0Rk&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=4e#%F0%9F%87%A6%F0%9F%87%AA%40VPNTV20VPNTV20VPNTV20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#%40summertimeus
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@193.124.224.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%A6%F0%9F%87%AA%7CAE%7C%40wxgqlfx%7C230
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40Alin006Bot
