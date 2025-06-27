@@ -1,2 +1,1 @@
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germany.ss.ss&type=ws#%40flyv2ray
-vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#Telegram+%7C+Payam_Nsi
+vless://fba210d7-09e4-41b0-a6b2-947eec8f6e41@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#@meli_proxyy

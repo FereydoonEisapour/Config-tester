@@ -1,2 +1,0 @@
-vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@217.60.198.158:40665?security=none&encryption=none&type=ws# | 1.53s
-vless://90bf4f10-aee6-416a-ba27-031101538867@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram%20%3A%20% | 3.26s
