@@ -1,2 +1,0 @@
-vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88 | 0.48s
-vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#8 | 0.85s

@@ -1,3 +1,0 @@
-vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%92%9A%40flyv2ray | 0.43s
-vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%40flyv2ray | 0.88s
-vless://1da6a214-30b0-4a95-9b75-5028bb3a23ce@pishgam.sdcards.ir:80?path=%2F%3Fed%3D2087&security=none&encryption=none&host=speed.apkclubmovie.ir&type=ws#%F0%9F%92%9A%40flyv2ray | 0.96s
