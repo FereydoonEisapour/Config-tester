@@ -1,5 +1,6 @@
 vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJhaWQiOiAwLCAiaG9zdCI6ICI2Ny4yMjAuNjYuMTk0IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRmZTNcdWQ4M2RcdWRkMjUrXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjI3XHUwNjQ0K1x1MDYzM1x1MDYzMVx1MDY0OFx1MDYzMStcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYrQEZhcmFoVlBOIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C53
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hf5a6a5Yi25LiT57q/77yaQFFTMDAwMDgiLCJhZGQiOiI0NS4xMi4xNDQuNzkiLCJwb3J0Ijo0NzEyNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
+trojan://Aimer@45.86.229.28:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%40wxgqlfx%7C168

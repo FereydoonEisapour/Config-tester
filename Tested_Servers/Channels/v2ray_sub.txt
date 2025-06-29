@@ -1,4 +1,4 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#TG%3A%40v2ray_sub | 0.21s
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.14.85:8080?encryption=none&security=none&sni=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=%2F#TG%3A%40v2ray_sub | 0.69s
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#TG%3A%40v2ray_sub | 1.22s
-vless://ea286109-d20f-415e-849e-4af20ab04b65@8.210.29.68:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#TG%3A%40v2ray_sub | 1.70s
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc#TG%3A%40v2ray_sub | 0.20s
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#TG%3A%40v2ray_sub | 0.27s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#TG%3A%40v2ray_sub | 0.35s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@8.210.29.68:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#TG%3A%40v2ray_sub | 1.85s

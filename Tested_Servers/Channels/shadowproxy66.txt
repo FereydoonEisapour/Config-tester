@@ -1,5 +1,0 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135001195.sec22org.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8 | 0.24s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC | 1.21s
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7 | 2.23s
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&security=none&encryption=none&host=q5.19KAla.co&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8 | 3.83s
-vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B7 | 6.95s
