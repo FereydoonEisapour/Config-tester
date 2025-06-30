@@ -58,8 +58,8 @@ REALTIME_UPDATE_INTERVAL = 25
 ENABLED_PROTOCOLS = {
     'vless': True,
     'vmess': True,
-    'trojan': False,
-    'ss': False,
+    'trojan': True,
+    'ss': True,
     'hysteria': False,
     'hysteria2': False,
     'tuic': False,
