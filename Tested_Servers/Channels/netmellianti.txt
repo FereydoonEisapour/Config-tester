@@ -1,0 +1,2 @@
+vless://c8aea861-7ce9-47b1-bdbd-7b1ac98f86dd@139.144.219.15:2321?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 0.20s
+vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=&encryption=none&host=Zilor.ir&type=ws#%40NETMelliAnti | 0.84s

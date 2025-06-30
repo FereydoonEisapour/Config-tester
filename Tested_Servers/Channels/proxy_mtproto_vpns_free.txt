@@ -1,1 +1,1 @@
-vless://0f307e5d-f3ef-4c16-b63f-0588f5ccb2a0@37.152.190.244:80?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7 | 0.96s
+vless://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?encryption=none&security=tls&sni=oo098.89060004.xyZ&alpn=http%2F1.1&fp=chrome&type=ws&host=oo098.89060004.xyz&path=%2FVlJKGXt3aXBStn7#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 1.62s
