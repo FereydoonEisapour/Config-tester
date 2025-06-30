@@ -1403,6 +1403,43 @@ def logger_thread(log_q):
         logging.info(f"Failed servers saved to: {dead_file}")
         logging.info("--- Logger thread finished ---")
 
+def clean_vmess_links(directory):
+
+    for root, _, files in os.walk(directory):
+        for filename in files:
+            if filename.endswith('.txt'):
+                filepath = os.path.join(root, filename)
+                clean_single_file(filepath)
+
+def clean_single_file(filepath):
+
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+        
+        cleaned_lines = []
+        modified = False
+        
+        for line in lines:
+            original_line = line.strip()
+            if 'vmess://' in original_line:
+               
+                cleaned_line = original_line.split('|')[0].strip()
+                if cleaned_line != original_line:
+                    modified = True
+                cleaned_lines.append(cleaned_line + '\n')
+            else:
+                cleaned_lines.append(line)
+        
+        if modified:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.writelines(cleaned_lines)
+            print(f'file {filepath} vmess cleaned')
+        else:
+            print(f'فایل {filepath} .')
+    
+    except Exception as e:
+        print(f' error in {filepath}: {str(e)}')
 
 if __name__ == "__main__":
     logging.info("--- Starting Part 1: Telegram Channel Scraping ---")
@@ -1574,7 +1611,10 @@ if __name__ == "__main__":
                  # This error would be from the test_server function *itself* failing, not the proxy test
                  logging.error(f"A testing task future (idx {fut_idx}) failed unexpectedly: {fe_task}", exc_info=False)
 
-
+    tested_servers_dir = 'Tested_Servers'  
+    clean_vmess_links(tested_servers_dir)
+    
+    print('all vmess time cleaned')
     logging.info("All testing tasks submitted and completed by executor. Signaling logger thread to finalize.")
     test_log_queue.put(None) # Signal logger thread to stop
     logger_t.join(timeout=30) # Wait for logger to finish (increased timeout)
