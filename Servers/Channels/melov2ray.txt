@@ -1,9 +1,9 @@
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdav…
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucd…
-vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdav…
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucd…
+vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
