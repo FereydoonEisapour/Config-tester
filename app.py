@@ -16,7 +16,7 @@ import shutil
 import base64
 import binascii
 from urllib.parse import urlparse, parse_qs, unquote
-from base64 import urlsafe_b64decode
+from base64 import urlsafe_b64decode, urlsafe_b64encode
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from pathlib import Path
@@ -669,18 +669,69 @@ def parse_vmess_link(link):
         data = json.loads(json_str)
     except Exception as e:
         raise ValueError(f"VMess JSON decode error for {link}: {e}")
-    host = data.get('add')
+
+    # Prioritize 'host' over 'add' if 'add' looks invalid, then fall back.
+    # This handles cases where 'add' is obfuscated.
+    address = data.get('add', '')
+    if not re.match(r"^[a-zA-Z0-9.-]+$", address): # Simple check for valid hostname chars
+        address = data.get('host', '') # Fallback to 'host' field
+        if not address: # If host is also empty/invalid, this link is unusable
+            raise ValueError(f"VMess 'add' field is invalid and no fallback 'host' found: {data.get('add')}")
+    
     port = int(data.get('port', 0))
     uuid = data.get('id')
-    if not (host and port and uuid):
-        raise ValueError(f"VMess missing host/port/id in {link}")
-    net = data.get('net', 'tcp') or 'tcp'
-    tls = data.get('tls', 'none') or 'none'
-    return {'original_link': link, 'protocol': 'vmess', 'uuid': uuid, 'host': host, 'port': port, 'network': net,
-            'security': tls, 'ws_path': data.get('path', '/') if net == 'ws' else '/',
-            'ws_host': data.get('host', host) if net == 'ws' else host,
-            'sni': data.get('sni', data.get('host', host) if tls == 'tls' else ''),
-            'alter_id': int(data.get('aid', 0)), 'encryption': data.get('scy', 'auto') or 'auto'}
+    if not (address and port and uuid):
+        raise ValueError(f"VMess missing address/port/id in {link}")
+
+    # --- FINAL FIX: Rebuild and Sanitize the VMess link completely ---
+    
+    # 1. Create a clean dictionary with only standard, necessary fields.
+    clean_data = {
+        "v": "2",
+        # 2. Sanitize the 'ps' field to avoid client import issues.
+        "ps": f"vmess-{address}-{port}",
+        "add": address,
+        "port": str(port), # Port must be a string in the JSON
+        "id": uuid,
+        "aid": str(data.get("aid", 0)),
+        "net": data.get("net", "tcp") or "tcp",
+        "type": data.get("type", "none") or "none", # Often "none" for tcp, "" for ws/grpc
+        "host": data.get("host", ""),
+        "path": data.get("path", ""),
+        "tls": data.get("tls", "") or "", # "tls" or ""
+        "sni": data.get("sni", ""),
+        "alpn": data.get("alpn", ""),
+        "fp": data.get("fp", ""),
+        "scy": data.get("scy", "auto") or "auto" # Add security method
+    }
+    
+    # Remove empty keys that are not essential, for a cleaner link
+    keys_to_remove = [k for k, v in clean_data.items() if v == "" and k not in ["ps", "add", "port", "id", "net", "tls"]]
+    for k in keys_to_remove:
+        del clean_data[k]
+        
+    # 3. Re-encode the clean dictionary into a standard Base64 string.
+    clean_json_str = json.dumps(clean_data, separators=(',', ':'), sort_keys=True)
+    rebuilt_b64 = urlsafe_b64encode(clean_json_str.encode('utf-8')).decode('utf-8').rstrip("=")
+    rebuilt_link = f"vmess://{rebuilt_b64}"
+    # --- END OF FIX ---
+
+    # Return the rebuilt_link as the 'original_link' to be used in all output files.
+    # The other fields are for the internal tester.
+    return {
+        'original_link': rebuilt_link, 
+        'protocol': 'vmess', 
+        'uuid': uuid, 
+        'host': address, # Use the validated address for testing
+        'port': port, 
+        'network': clean_data["net"],
+        'security': clean_data["tls"], 
+        'ws_path': clean_data.get('path', '/') if clean_data["net"] == 'ws' else '/',
+        'ws_host': clean_data.get('host', address) if clean_data["net"] == 'ws' else address,
+        'sni': clean_data.get('sni', clean_data.get('host', address) if clean_data["tls"] == 'tls' else ''),
+        'alter_id': int(clean_data["aid"]), 
+        'encryption': clean_data.get("scy", "auto")
+    }
 
 
 def parse_trojan_link(link):
