@@ -1,2 +1,2 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443/?type=tcp&encryption=none&security=tls&sni=147135004002.sec20org.com#@vmesskhodam | 0.14s
-vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80/?type=ws&encryption=none&host=q3.19kala.co&path=%2F#@vmesskhodam | 1.65s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443/?type=tcp&encryption=none&security=tls&sni=147135004002.sec20org.com#@vmesskhodam | 0.36s
+vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80/?type=ws&encryption=none&host=q3.19kala.co&path=%2F#@vmesskhodam | 4.11s

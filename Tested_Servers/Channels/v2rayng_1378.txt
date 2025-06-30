@@ -1,6 +1,2 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%40Selinc | 0.11s
-vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?path=%2F&security=none&encryption=none&host=q3.19kala.co&type=ws#%40Selinc | 0.67s
-vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=kz2bsFTSqPeMEJ1Z.de&type=ws#%40V2RAYNG_1378 | 0.90s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40Selinc | 0.95s
-vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%40Selinc | 2.12s
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%40V2RAYNG_1378 | 3.56s
+vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?path=%2F&security=none&encryption=none&host=q3.19kala.co&type=ws#%40Selinc | 1.83s
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%40V2RAYNG_1378 | 5.17s
