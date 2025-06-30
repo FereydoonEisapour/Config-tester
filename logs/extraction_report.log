@@ -1,43 +1,44 @@
 === Country Statistics ===
-Total Servers (Merged): 2497
-Successful Geo-IP Resolutions: 2497
+Total Servers (Merged): 2496
+Successful Geo-IP Resolutions: 2496
 Failed Geo-IP Resolutions: 0
-Domain               : 780
-Unknown              : 591
-DE                   : 294
-US                   : 196
-IR                   : 117
-NL                   : 52
+Domain               : 781
+Unknown              : 587
+DE                   : 290
+US                   : 193
+IR                   : 119
+NL                   : 55
 GB                   : 50
 LT                   : 46
 FR                   : 44
 SG                   : 32
 SE                   : 29
 RU                   : 27
-FI                   : 24
+FI                   : 23
+CN                   : 21
 HK                   : 20
-CN                   : 20
-CA                   : 19
-CY                   : 17
+CY                   : 19
+CA                   : 18
 TR                   : 15
+JP                   : 13
 KR                   : 13
 AT                   : 11
-JP                   : 11
-SI                   : 9
+SI                   : 8
+RO                   : 7
 AE                   : 7
 KZ                   : 6
-RO                   : 6
 VN                   : 6
 MD                   : 4
 AM                   : 4
 ID                   : 4
 PL                   : 4
 AU                   : 3
-IN                   : 3
+IT                   : 3
 LV                   : 3
 CH                   : 3
 ES                   : 3
-IT                   : 2
+IE                   : 2
+IN                   : 2
 EE                   : 2
 IL                   : 2
 CZ                   : 2
@@ -45,7 +46,6 @@ UA                   : 2
 CO                   : 2
 BR                   : 1
 SC                   : 1
-IE                   : 1
 JO                   : 1
 SA                   : 1
 ZA                   : 1
@@ -57,10 +57,10 @@ PH                   : 1
 NZ                   : 1
 
 === Server Type Summary ===
-VLESS                : 1841
-SS                   : 371
-VMESS                : 161
-TROJAN               : 109
+VLESS                : 1833
+SS                   : 369
+VMESS                : 179
+TROJAN               : 100
 WIREGUARD            : 11
 HYSTERIA2            : 4
 HYSTERIA             : 0
@@ -69,7 +69,7 @@ WARP                 : 0
 
 === Channel Statistics (Extraction) ===
 wxgmrjdcc                     : 259
-meli_proxyy                   : 117
+meli_proxyy                   : 112
 fast_2ray                     : 94
 Huiguo62                      : 86
 Awlix_ir                      : 84
@@ -77,7 +77,7 @@ outline_vpn                   : 83
 asak_vpn                      : 82
 satellitenewspersian          : 80
 jiedianssr                    : 78
-Hope_Net                      : 78
+Hope_Net                      : 75
 wedbazvpn                     : 73
 v2rayng_1378                  : 68
 vpn_mafia                     : 68
@@ -86,28 +86,28 @@ gh_v2rayng                    : 65
 selinc                        : 64
 V2ra_ng_iran                  : 60
 prrofile_purple               : 57
-free1_vpn                     : 56
 v2rayprotocol                 : 55
+free1_vpn                     : 52
 jiedianF                      : 50
 v2ray_sub                     : 48
 appsooner                     : 48
 jiujied                       : 44
 shadowproxy66                 : 40
 azarbayjab1                   : 38
-v2ry_proxy                    : 36
+v2ry_proxy                    : 38
+v2ray1_ng                     : 38
 ohvpn                         : 35
+qrv2ray                       : 32
 uvpn_org                      : 31
 DailyV2RY                     : 31
-v2ray1_ng                     : 31
 kingoclubs                    : 29
 vpncostumer                   : 27
 v2raying                      : 27
 vmesskhodam                   : 27
 savagev2ray                   : 26
-qrv2ray                       : 26
-spikevpn                      : 22
 summertimeus                  : 22
 v2raytg                       : 21
+spikevpn                      : 20
 vlessconfig                   : 20
 farahvpn                      : 20
 skivpn                        : 20
@@ -120,13 +120,13 @@ argooo_vpn                    : 17
 dr_v2ray                      : 17
 vpnkanfik                     : 17
 kingofilter                   : 15
+proxy_mtproto_vpns_free       : 14
 freakconfig2                  : 14
 v2range                       : 14
-proxy_mtproto_vpns_free       : 13
 proxy_v2box                   : 13
+orange_vpns                   : 13
 zede_filteri                  : 12
 gozargah_azadi                : 12
-orange_vpns                   : 11
 flyv2ray                      : 10
 v2ray_cartel                  : 10
 vpn_ocean                     : 10
@@ -137,9 +137,9 @@ v2rayland02                   : 8
 configpluse                   : 6
 v2rayng_ip                    : 6
 v2rayvpn2                     : 6
+BegzarVPN                     : 3
 nofiltering2                  : 2
 msv2raynp                     : 2
-BegzarVPN                     : 2
 v2mystery                     : 2
 mahxray                       : 1
 vmessprotocol                 : 1
