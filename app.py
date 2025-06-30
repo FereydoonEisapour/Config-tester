@@ -57,7 +57,7 @@ PROCESS_START_WAIT = 15
 REALTIME_UPDATE_INTERVAL = 25
 ENABLED_PROTOCOLS = {
     'vless': True,
-    'vmess': False,
+    'vmess': True,
     'trojan': False,
     'ss': False,
     'hysteria': False,
