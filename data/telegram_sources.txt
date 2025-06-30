@@ -3,6 +3,7 @@ argooo_vpn
 asak_vpn
 azarbayjab1
 Awlix_ir
+BegzarVPN
 configpluse
 configshub2
 DailyV2RY
@@ -15,7 +16,6 @@ free1_vpn
 Freeiranweb
 gh_v2rayng
 gozargah_azadi
-huiguo62
 Hope_Net
 Huiguo62
 jiedianF
