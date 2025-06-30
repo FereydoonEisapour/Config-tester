@@ -1,4 +1,4 @@
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=&encryption=none&headerType=none&type=tcp#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%A9
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%A9%7CID%7C%40wxgqlfx%7C41
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%A9%7CID%7C%40wxgqlfx%7C256
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321/?type=tcp&encryption=none&flow=#%F0%9F%87%AE%F0%9F%87%A9%7CID%7C%40wxgqlfx%7C41
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
