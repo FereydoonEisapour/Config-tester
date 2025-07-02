@@ -1,14 +1,4 @@
-vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@104.21.44.248:443/?type=ws&encryption=none&host=edfrt.freevpnatm2025.dpdns.org&path=%2FO9jlBCbIm3xr1D40NK&security=tls&sni=EDfrT.frEEvPNatm2025.DPdNS.oRG&alpn=http%2F1.1&fp=chrome#T.me%2FVpn_Mafia_bot%F0%9F%87%BA%F0%9F%87%B8 | 0.23s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789#T.me%2FVpn_Mafia%F0%9F%87%BA%F0%9F%87%B8 | 0.41s
-trojan://6gZh2JbfhQ@104.248.18.1:1935/?type=tcp&security=tls&sni=x1-germany-digitalocean-v2.devefun.org#T.me%2FVpn_Mafia%F0%9F%87%A9%F0%9F%87%AA | 0.52s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80/?type=ws&encryption=none&flow=&host=q6.19kalA.co#T.me%2FVpn_Mafia | 0.58s
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com#T.me%2FVpn_Mafia%F0%9F%87%BA%F0%9F%87%B8 | 0.58s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880/?type=grpc&encryption=none#T.me%2FVpn_Mafia_bot%F0%9F%87%AB%F0%9F%87%B7 | 0.75s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU@144.126.146.38:30100#T.me%2FVpn_Mafia%F0%9F%87%BA%F0%9F%87%B8 | 0.77s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283/?type=tcp&encryption=none#T.me%2FVpn_Mafia_bot%F0%9F%87%B8%F0%9F%87%AC | 0.91s
-vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#T.me%2FVpn_Mafia%F0%9F%87%B8%F0%9F%87%AC | 1.42s
-vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@172.67.75.172:8080/?type=ws&encryption=none&host=0613.heweiyi.dpdns.org&path=%2F#T.me%2FVpn_Mafia_bot%F0%9F%87%B8%F0%9F%87%AC | 1.70s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096/?type=ws&encryption=none&flow=&host=HkPk6Cd2Kj.9PeSc.CoM&path=%2F&security=tls&sni=HkPk6Cd2Kj.9PeSc.CoM#T.me%2FVpn_Mafia%F0%9F%87%B3%F0%9F%87%B1 | 2.37s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283/?type=tcp&encryption=none&flow=#T.me%2FVpn_Mafia%F0%9F%87%B8%F0%9F%87%AC | 6.87s
-vmess://eyJhZGQiOiI4NC4yNDcuMTQ3LjY3IiwiYWlkIjoiMCIsImlkIjoiZDE0M2ViYmMtNzgyNS00YjQzLWE1NWUtZjExY2IxNTNiZDViIiwibmV0IjoidGNwIiwicG9ydCI6IjU0MTc5IiwicHMiOiJ2bWVzcy04NC4yNDcuMTQ3LjY3LTU0MTc5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTIyNjIiLCJwcyI6InZtZXNzLTg1LjE5OC4yMy42My01MjI2MiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@104.21.44.248:443/?type=ws&encryption=none&host=edfrt.freevpnatm2025.dpdns.org&path=%2FO9jlBCbIm3xr1D40NK&security=tls&sni=EDfrT.frEEvPNatm2025.DPdNS.oRG&alpn=http%2F1.1&fp=chrome#T.me%2FVpn_Mafia_bot%F0%9F%87%BA%F0%9F%87%B8 | 0.68s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880/?type=grpc&encryption=none#T.me%2FVpn_Mafia_bot%F0%9F%87%AB%F0%9F%87%B7 | 1.11s
+vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@172.67.75.172:8080/?type=ws&encryption=none&host=0613.heweiyi.dpdns.org&path=%2F#T.me%2FVpn_Mafia_bot%F0%9F%87%B8%F0%9F%87%AC | 1.81s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283/?type=tcp&encryption=none#T.me%2FVpn_Mafia_bot%F0%9F%87%B8%F0%9F%87%AC | 2.03s

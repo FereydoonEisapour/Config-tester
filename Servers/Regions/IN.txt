@@ -1,5 +1,1 @@
-vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#@meli_proxyy
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.228.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%AE%F0%9F%87%B3%7CIN%7C%40wxgqlfx%7C31
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#@Hope_Net-join-us-on-Telegram
-vless://f4a5b6c7-d8e9-4567-0123-3456789abcde@172.69.178.43:2053?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=firefox#@meli_proxyy
 trojan://3828095943467868160@185.67.125.203:443?allowInsecure=1&sni=modest-firefly.dolphin109.quest#%F0%9F%87%B9%F0%9F%87%B7_TR_%E5%9C%9F%E8%80%B3%E5%85%B6-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
