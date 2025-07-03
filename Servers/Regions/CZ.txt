@@ -1,2 +1,4 @@
-vless://vmessprotocol@91.224.74.23:40132/?type=grpc&serviceName=&authority=&security=reality&pbk=GUJ5csU_INsTCiCMzcmDKA1c-GZgaYdgZmfSSXDxqEA&fp=chrome&sni=microsoft.com&sid=&spx=%2F#Vmessprotocol-Vmessprotocol
 vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&encryption=none#@awlix_ir
+vless://vmessprotocol@91.224.74.23:40132/?type=grpc&serviceName=&authority=&security=reality&pbk=GUJ5csU_INsTCiCMzcmDKA1c-GZgaYdgZmfSSXDxqEA&fp=chrome&sni=microsoft.com&sid=&spx=%2F#Vmessprotocol-Vmessprotocol
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%BF
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#%40v2raying

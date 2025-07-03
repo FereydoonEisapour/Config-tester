@@ -1,2 +1,1 @@
-vless://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&encryption=none&headerType=none&type=tcp#IRAN%20%F0%9F%87%AE%F0%9F%87%B7%40SkiVpn%F0%9F%8F%82%C2%B2 | 1.56s
-vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#IRAN%20%F0%9F%87%AE%F0%9F%87%B7%40SkiVpn%F0%9F%8F%82%E2%81%B5 | 3.73s
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#IRAN%20%F0%9F%87%AE%F0%9F%87%B7%40SkiVpn%F0%9F%8F%82%E2%81%B5 | 2.86s
