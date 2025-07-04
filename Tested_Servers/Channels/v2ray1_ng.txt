@@ -1,2 +1,2 @@
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 1.22s
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#%40V2ray1_Ng | 2.71s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray1_Ng | 0.64s
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 2.16s

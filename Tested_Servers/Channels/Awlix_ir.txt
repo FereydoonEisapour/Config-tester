@@ -1,3 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#@awlix_ir | 4.23s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir | 4.28s
-vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLTE3Mi42Ny4xNzAuMTMtNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#@awlix_ir | 0.05s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir | 0.06s

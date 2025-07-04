@@ -1,7 +1,5 @@
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy | 0.84s
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy | 0.88s
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=&type=tcp#@meli_proxyy | 1.09s
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.60s
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@meli_proxyy | 1.99s
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy | 3.10s
-vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=%2Fvless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#@meli_proxyy | 10.62s
+vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#@meli_proxyy | 0.48s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#@meli_proxyy | 0.63s
+vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=%2Fvless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#@meli_proxyy | 0.99s
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.49s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@meli_proxy | 3.78s

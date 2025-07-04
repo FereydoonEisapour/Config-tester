@@ -1,2 +1,2 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@210.61.97.241:81?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=zv.bgm2024.dpdns.org&type=ws&sni=zv.bgm2024.dpdns.org#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C191
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@188.253.6.210:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=/?ed#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@35.234.3.153:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://ttfang@220.135.202.250:81?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#%F0%9F%87%B9%F0%9F%87%BC%7CTW%7C%40wxgqlfx%7C32
