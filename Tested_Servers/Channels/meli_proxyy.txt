@@ -1,8 +1,9 @@
-vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=none&encryption=none&host=%2FJOKERRVPNBIA_CHANEL@JOKERRVPN&type=ws#@meli_proxyy | 1.87s
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.88s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@meli_proxy | 9.43s
-vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjUzIiwiYWlkIjoiMCIsImlkIjoiNWQxZWM2ZTctZmQ1OC00ZTg1LTkxYzUtNjMzNWE4NmQyNzc1IiwibmV0IjoidGNwIiwicG9ydCI6IjUwNjc4IiwicHMiOiJ2bWVzcy02Mi4xNDYuMjMzLjUzLTUwNjc4Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vmess://eyJhZGQiOiIxMDQuMTcuMjIzLjE3NSIsImFpZCI6IjAiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLTEwNC4xNy4yMjMuMTc1LTgwODAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjExNSIsImFpZCI6IjAiLCJpZCI6ImY4NjNlZjk5LTVlZjAtNDMyMS1hYWFjLWE0NzZhNWU4YzNmYiIsIm5ldCI6InRjcCIsInBvcnQiOiIzODMyNCIsInBzIjoidm1lc3MtNjIuMTQ2LjIzMy4xMTUtMzgzMjQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDUzNCIsInBzIjoidm1lc3MtOTQuMTM2LjE4NS4yMzAtMTA1MzQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6IjAiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLTEwNC4xNy4xNzYuMTcxLTgwODAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#@meli_proxyy | 0.79s
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy | 0.83s
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy | 0.98s
+vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=none&encryption=none&host=%2FJOKERRVPNBIA_CHANEL@JOKERRVPN&type=ws#@meli_proxyy | 1.20s
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.83s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 2.54s
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy | 2.91s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?encryption=none&security=none&type=grpc#@meli_proxyy | 4.17s
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@meli_proxyy | 4.84s

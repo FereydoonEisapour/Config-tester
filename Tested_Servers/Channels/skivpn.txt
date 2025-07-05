@@ -1,1 +1,1 @@
-vless://2bc38bf1-e880-5b6b-8795-590c7a67258e@194.147.35.250:443?path=%2Fvless&security=tls&encryption=none&host=194.147.35.250&fp=chrome&type=ws&sni=zula.ir#%40SkiVpn%F0%9F%8F%82telegram%E2%81%B4 | 0.80s
+vless://2bc38bf1-e880-5b6b-8795-590c7a67258e@194.147.35.250:443?path=%2Fvless&security=tls&encryption=none&host=194.147.35.250&fp=chrome&type=ws&sni=zula.ir#%40SkiVpn%F0%9F%8F%82telegram%E2%81%B4 | 1.32s

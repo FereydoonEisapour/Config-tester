@@ -1,5 +1,0 @@
-vless://9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e@info-4.nobifay.ir:60?security=none&encryption=‌none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%86%94%v2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%86%94%v2ray_cartel
-vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80?path=%2F&security=none&encryption=none&host=amir.pmme.top&type=ws#%F0%9F%86%94%v2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWHlHUlRkeU8wbjZ4Y0dt@admin.c2.havij.co:443#%F0%9F%86%94%v2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#%F0%9F%86%94%v2ray_cartel
