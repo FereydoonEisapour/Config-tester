@@ -1,1 +1,2 @@
-vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?type=tcp#@Hope_Net-join-us-on-Telegram
+vless://77434991-c0f1-503e-b5db-fea1e3e24585@95.164.46.39:80?security=none&type=ws&host=itvpnAndroid2.69.mu.&path=%2Fvless%23%40vpnAndroid2%2C%40vpnAndroid2%2C%40vpnAndroid2%2C%40vpnAndroid2#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
+vless://77434991-c0f1-503e-b5db-fea1e3e24585@95.164.46.39:2052?security=none&sni=itvpnAndroid2.69.mu&type=grpc&serviceName=vless-grpc#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN

@@ -1,1 +1,2 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%B5%F0%9F%87%AD%7CPH%7C%40wxgqlfx%7C129
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=vle.amclubdns.dpdns.org&fp=chrome&type=ws&sni=vle.amclubdns.dpdns.org#%F0%9F%87%B5%F0%9F%87%AD%7CPH%7C%40wxgqlfx%7C561
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%B5%F0%9F%87%AD%7CPH%7C%40wxgqlfx%7C366

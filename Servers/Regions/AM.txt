@@ -1,9 +1,6 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.230.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C168
-trojan://Aimer@188.164.159.98:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C218
-trojan://Aimer@188.164.159.185:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C209
+trojan://Aimer@188.164.159.174:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://df54e90b-a045-489e-8666-d77a73e4effe@194.156.103.21:8443?security=reality&encryption=none&pbk=BPyF7oyAzcqOB9KWvy0Xe6nkBQLtZkHVFXX4O2Y7Q18&headerType=none&fp=firefox&type=tcp&sni=armenia.extvay.ir&sid=94040bd2a7f2505c#@meli_proxyy
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.230.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C414
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.231.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C375
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-trojan://Aimer@188.164.159.214:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C211
-trojan://Aimer@188.164.159.234:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epml.ambercc.filegear-sg.me&type=ws&sni=epml.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C195
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.228.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C81
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.231.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C185
-trojan://Aimer@188.164.159.74:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C269
+trojan://Aimer@188.164.159.185:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram

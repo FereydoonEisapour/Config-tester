@@ -1,7 +1,10 @@
-vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40QS00008
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.229.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%AA%7CAE%7C%40wxgqlfx%7C157
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@94.140.0.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%AA%7CAE%7C%40wxgqlfx%7C59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#WedBaZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#https%3A%2F%2Ft.me%2FV2ry_Proxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40Alin006Bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%F0%9F%94%A5%40flyv2ray
+vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40QS00008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#T.me%2FVpn_Mafia%20%F0%9F%87%A6%F0%9F%87%AA
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#WedBaZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%40Selinc

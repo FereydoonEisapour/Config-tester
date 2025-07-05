@@ -1,1 +1,2 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&security=tls&headerType=none#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+@vmesskhodam | 0.46s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&security=tls&headerType=none#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+@vmesskhodam | 0.47s
+vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&fp=randomized&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#@vmesskhodam | 0.49s

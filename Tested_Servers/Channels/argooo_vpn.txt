@@ -1,1 +1,1 @@
-vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#Bya%20To%20%40 | 0.96s
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#Bya%20To%20%40 | 1.79s

@@ -1,5 +1,8 @@
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#@meli_proxyy | 0.48s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#@meli_proxyy | 0.63s
-vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=%2Fvless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#@meli_proxyy | 0.99s
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.49s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@meli_proxy | 3.78s
+vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=none&encryption=none&host=%2FJOKERRVPNBIA_CHANEL@JOKERRVPN&type=ws#@meli_proxyy | 1.87s
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy | 1.88s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@meli_proxy | 9.43s
+vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjUzIiwiYWlkIjoiMCIsImlkIjoiNWQxZWM2ZTctZmQ1OC00ZTg1LTkxYzUtNjMzNWE4NmQyNzc1IiwibmV0IjoidGNwIiwicG9ydCI6IjUwNjc4IiwicHMiOiJ2bWVzcy02Mi4xNDYuMjMzLjUzLTUwNjc4Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vmess://eyJhZGQiOiIxMDQuMTcuMjIzLjE3NSIsImFpZCI6IjAiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLTEwNC4xNy4yMjMuMTc1LTgwODAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjExNSIsImFpZCI6IjAiLCJpZCI6ImY4NjNlZjk5LTVlZjAtNDMyMS1hYWFjLWE0NzZhNWU4YzNmYiIsIm5ldCI6InRjcCIsInBvcnQiOiIzODMyNCIsInBzIjoidm1lc3MtNjIuMTQ2LjIzMy4xMTUtMzgzMjQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDUzNCIsInBzIjoidm1lc3MtOTQuMTM2LjE4NS4yMzAtMTA1MzQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6IjAiLCJob3N0Ijoia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCJpZCI6IjZjYmM5Yzc4LTFjYjEtNTdkNC1hOTk5LWUyZjRlMzRjMWUwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6InZtZXNzLTEwNC4xNy4xNzYuMTcxLTgwODAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
