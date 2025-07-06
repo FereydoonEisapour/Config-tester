@@ -1,0 +1,2 @@
+vless://aa188240-cf10-4df6-9543-5223800891be@srv3.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#%40EuServer+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88++%D8%A8%D8%B4%DB%8C%D8%AF
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40EuServer+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88++%D8%A8%D8%B4%DB%8C%D8%AF

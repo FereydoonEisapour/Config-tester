@@ -1,0 +1,2 @@
+vless://62266422-7031-4cc4-8a22-f93b7d5699c1@62.60.178.251:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%E2%80%8C%DA%A9%D9%86
+vless://e5fcfdc2-2628-4ba4-de5d-801a1aca3de4@62.60.178.195:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SanjabVPN2_Bot+%F0%9F%91%88+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%E2%80%8C%DA%A9%D9%86

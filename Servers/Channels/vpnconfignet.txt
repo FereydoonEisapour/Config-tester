@@ -1,0 +1,2 @@
+vless://4aa786c4-0df3-4c14-85f0-bc977b8e5a14@190.93.244.166:80?path=%2F%40VPNConfigNet%3Fed%3D2048&security=none&encryption=none&host=teMp.JAsEWEt998.WoRKErs.deV&type=ws#%40VPNConfigNet
+vless://d663fecc-1f02-4e9e-8157-c33cdb30da23@190.93.244.166:80?path=%2F%40VpnConfigNet%3Fed%3D2048&security=none&encryption=none&host=sUB.veBoBE2961.WoRKeRs.dev&type=ws#%40VpnConfigNet

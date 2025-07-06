@@ -1,6 +1,12 @@
-trojan://Aimer@188.164.159.214:2083?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C737
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
+trojan://Aimer@188.164.159.45:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.162.231.186:2087?type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=/&security=tls&fp=chrome&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2,http/1.1#
 trojan://Aimer@188.164.159.185:8443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C766
+trojan://Aimer@188.164.159.98:2083?sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.229.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C625
+vless://f8ff8435-f201-471b-b08b-602cef6ca180@45.83.143.71:443?security=reality&encryption=none&pbk=KuXbGeSIqhg5_bFaYN1ZW7F4m4LyjLio8Yh1YEE46xM&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=ftp.debian.org&sid=8a#Reality%20%7C%20%40ipV2Ray
+trojan://Aimer@188.164.159.248:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://1af8c451-eff1-40cb-a14e-e395a4bd6018@45.83.143.71:2087?security=reality&encryption=none&pbk=-hM5NALIIJNPWrREoyKCxYkqaHyEXaPkpD9wJbdbtRs&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=maps.google.com&sid=d026#Reality%20%7C%20%40ipV2Ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
 trojan://Aimer@188.164.159.18:443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C755
+trojan://Aimer@188.164.159.214:2083?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C737
 trojan://Aimer@188.164.159.74:8443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C742

@@ -1,0 +1,2 @@
+trojan://telegram-id-privatevpns@63.178.31.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102) | 0.61s
+trojan://telegram-id-privatevpns@18.157.144.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101) | 1.28s

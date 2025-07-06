@@ -1,0 +1,1 @@
+vless://847f3858-0dcf-4363-b49b-63b5337d75a7@t1.morgoon.com:80?type=tcp&security=tls&path=/&host=telewebion.com&fp=firefox&alpn=h2,http/1.1&allowInsecure=false&headerType=http#80

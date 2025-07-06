@@ -1,2 +1,2 @@
-vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=&encryption=none&host=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=ws#Uvpn_org | 0.67s
-vless://653ded5e-50bc-4fe4-807b-1230a017c304@www.speedtest.net:2096/?type=ws&encryption=none&flow=&host=638872445251931231.kish-prx-dnraaaf.info&path=%2Feccmnews&security=tls&sni=638872445251931231.kish-prx-dnraaaf.info&alpn=h3h2#%F0%9F%9A%8095%40Uvpn | 0.84s
+vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=&encryption=none&host=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=ws#Uvpn_org | 0.52s
+vless://653ded5e-50bc-4fe4-807b-1230a017c304@www.speedtest.net:2096/?type=ws&encryption=none&flow=&host=638872445251931231.kish-prx-dnraaaf.info&path=%2Feccmnews&security=tls&sni=638872445251931231.kish-prx-dnraaaf.info&alpn=h3h2#%F0%9F%9A%8095%40Uvpn | 0.64s

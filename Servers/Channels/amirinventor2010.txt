@@ -1,0 +1,2 @@
+vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#Normally-@Am20094
+vless://Amirinventor2010@217.196.107.14:8086?path=%2F%40Amirinventor2010-Youtube-Telegram&security=none&encryption=none&type=ws#Amirinventor2010-Amir.Invento.2010%40gmail.com

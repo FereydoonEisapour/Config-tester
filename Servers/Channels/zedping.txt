@@ -1,0 +1,1 @@
+vless://fbebc3cc-2d1a-4568-8d3c-3293d3ce4883@speedtest.net:80?mode=auto&path=%2Fzedping%3Fed%3D2650&security=none&encryption=none&host=Netherlands23.global.ssl.fastly.net&type=xhttp#zedping-vpn

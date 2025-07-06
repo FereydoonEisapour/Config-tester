@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiI5MS45OS4xNTguMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmNWEwZDBjLWM4OTgtNGE1MS1iYTZhLTQ3MTc5ZDQ4M2U0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTIyNjIiLCJwcyI6IkBWMlJBWV9WTUVTU19mcmVl2YbYqiDZhdmE24wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?path=%2F&security=tls&encryption=none&host=colf.ir&fp=chrome&type=ws&sni=colf.ir#%40V2RAY_VMESS_free%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C

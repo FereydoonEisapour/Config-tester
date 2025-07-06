@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#T.me%2FVpn_Mafia | 1.15s
-vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053/?type=ws&encryption=none&host=ah15.ai351.com&path=%2Fcontainers%2Fde&security=tls&sni=ah15.ai351.com#T.me%2FVpn_Mafia%20%F0%9F%87%BA%F0%9F%87%B8 | 1.35s
+vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053/?type=ws&encryption=none&host=ah15.ai351.com&path=%2Fcontainers%2Fde&security=tls&sni=ah15.ai351.com#T.me%2FVpn_Mafia%20%F0%9F%87%BA%F0%9F%87%B8 | 0.72s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#T.me%2FVpn_Mafia | 9.90s

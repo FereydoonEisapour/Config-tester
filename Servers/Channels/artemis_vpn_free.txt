@@ -1,0 +1,2 @@
+vless://6ae833da-e51f-48b4-a870-1f1aafe17378@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%A9%F0%9F%87%AA%20%40Artemis_Vpn%2802%29
+vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%A9%F0%9F%87%AA%20%40Artemis_Vpn%2802%29
