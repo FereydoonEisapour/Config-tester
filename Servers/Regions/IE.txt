@@ -1,2 +1,0 @@
-trojan://telegram-id-privatevpns@63.35.128.231:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0%3D@81.168.119.15:1443#@meli_proxyy

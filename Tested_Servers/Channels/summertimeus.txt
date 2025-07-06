@@ -1,1 +1,2 @@
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#vpn | 2.58s
+vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#vpn | 0.67s
+vless://7fc9bb4b-36de-48f9-896a-7f99593bd808@104.16.53.11:8080?path=%2FTelegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs%3Fed%3D1048&security=none&encryption=none&host=de-websocket.m1.www.speedtest.net.api.edge.net.avaaCAdo.iR.&type=ws#nana | 0.76s

@@ -1,3 +1,6 @@
+trojan://Aimer@188.164.159.214:2083?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C737
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40@v2ryorg
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.231.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C375
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.230.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C414
+trojan://Aimer@188.164.159.185:8443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C766
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.162.229.177:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ip.langmanshanxi.top&type=ws#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C625
+trojan://Aimer@188.164.159.18:443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C755
+trojan://Aimer@188.164.159.74:8443?path=%2F&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%7CAM%7C%40wxgqlfx%7C742
