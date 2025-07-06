@@ -1,1 +1,0 @@
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?security=none&fp=chrome&type=ws&path=/?ed%3D2560&host=di.dibdibini.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount

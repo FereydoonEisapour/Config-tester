@@ -1,8 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%40Network_442_%20irancell%20%F0%9F%87%A9%F0%9F%87%AA%203
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#Network_442_%20irancell%20%F0%9F%87%B9%F0%9F%87%BC%208
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.227.53:989#%40Network_442_%20irancell%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%40Network_442_%20irancell%20%F0%9F%87%B1%F0%9F%87%B9%202
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#%40Network_442_%20Trojan
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#%40Network_442_%20irancell%20%F0%9F%87%B2%F0%9F%87%B9%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%40Network_442_%20irancell%20%F0%9F%87%B1%F0%9F%87%B9%206
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#%40Network_442_%20irancell%20%F0%9F%87%AA%F0%9F%87%AA%204

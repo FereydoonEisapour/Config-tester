@@ -1,8 +1,8 @@
 vless://502006fa-a1b0-4a27-986b-1c74834f96da@fr1.netprivate-server.ir:9033?security=none&encryption=none&headerType=http&type=tcp#%40V2Graphy_2
+vless://9a02e5ad-f667-4a6f-a0d4-8b8abaab05e2@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#%40V2Graphy%20%E2%9A%A1
 vless://967df5fe-bca4-44e9-b268-d27e881e01ec@ir12.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir12.boilersforpellets.com&type=ws&sni=ir12.boilersforpellets.com#%40V2Graphy%20%E2%9A%A1
-vless://380c77d5-6172-43e0-93cf-fa2f69f4736a@panel28.sharpwp2.shop:9060?security=none&encryption=none&host=skype.com&headerType=http&type=tcp#%40V2Graphy_4
+vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&security=none&encryption=none&host=francse.global.ssl.fastly.net&type=xhttp#%40V2Graphy%20%E2%9A%A1
 vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@fr.emergency.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#%40V2Graphy_1
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#%40V2Graphy_3
-vless://9a02e5ad-f667-4a6f-a0d4-8b8abaab05e2@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#%40V2Graphy%20%E2%9A%A1
+vless://380c77d5-6172-43e0-93cf-fa2f69f4736a@panel28.sharpwp2.shop:9060?security=none&encryption=none&host=skype.com&headerType=http&type=tcp#%40V2Graphy_4
 vless://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%40V2Graphy%20%E2%9A%A1
-vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&security=none&encryption=none&host=francse.global.ssl.fastly.net&type=xhttp#%40V2Graphy%20%E2%9A%A1

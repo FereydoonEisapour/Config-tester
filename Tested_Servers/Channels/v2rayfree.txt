@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJkZG5zMS5yZ2hzdG9yZS5pciIsImFpZCI6IjAiLCJob3N0IjoiVGVsZXdlYmlvbi5jb20iLCJpZCI6ImQ2NDY2OWZiLTA3ZTUtNGQyNy05OTk1LTYzNTQ1ZmFlMTZjMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZ2giLCJwb3J0IjoiODA4MCIsInBzIjoidm1lc3MtZGRuczEucmdoc3RvcmUuaXItODA4MCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Channel%3A+%40alammzar | 10.43s

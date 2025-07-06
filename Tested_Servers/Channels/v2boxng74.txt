@@ -1,1 +1,1 @@
-vless://15d77b9d-b28b-4a30-9b0d-4683b87d415e@my.hamrahfox.icu:41147?path=%2F&security=&encryption=none&type=ws#WS-multi | 3.17s
+vless://15d77b9d-b28b-4a30-9b0d-4683b87d415e@my.hamrahfox.icu:41147?path=%2F&security=&encryption=none&type=ws#WS-multi | 1.25s

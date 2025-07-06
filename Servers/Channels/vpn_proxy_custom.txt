@@ -1,6 +1,6 @@
-vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m…
 vless://3eda9aee-5ea7-46d9-cdf1-0c6d5a7793aa@77.232.143.120:46178?type=tcp&path=%2Farvancloud.ir&headerType=http&security=none#%40vpn_proxy_custom
-vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%20%5D.%20%40vpn_proxy_custom
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40vpn_proxy_custom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#%40vpn_proxy_custom
 vless://196d7017-b91c-43dc-87ca-d88de911145b@a.de.maviks.ru:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20%40vpn_proxy_custom
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40vpn_proxy_custom
+vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m…
+vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%20%5D.%20%40vpn_proxy_custom

@@ -1,1 +1,2 @@
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?security=none&fp=chrome&type=ws&path=/?ed%3D2560&host=di.dibdibini.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&sni=havvas.shohreh.dpdns.org&fp=random&type=ws&path=/?ed%3D2560/?@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-&host=havvas.shohreh.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
+vless://d7225276-0190-48dc-a56d-aa5147d29ee8@g1.dynamicf14.top:3400?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
