@@ -1,3 +1,4 @@
-vless://d6be9908-2a34-4df9-96ff-c143e15e3c2f@37.202.233.164:15905?path=%2F&security=&encryption=none&host=telewebion.com&type=ws# | 1.23s
-vless://0dd06d00-4a27-4e64-9968-8e4ae28f7bea@mahtabhub.metishop.top:8080?path=%2F&security=none&encryption=none&type=ws# | 4.18s
-vless://a8f7da6e-e26b-4a57-fdfe-19aea862342a@85.133.253.219:443?security=none&encryption=none&headerType=none&type=tcp# | 6.76s
+trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&headerType=none&type=tcp# | 0.13s
+vless://b131cb41-4f46-4827-9ed8-b6c0572dffcf@pq-unitedstates1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws# | 0.36s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org# | 0.50s
+vless://a140fa19-b10c-4147-8909-6c61cc329b15@142.132.227.65:18181?security=&encryption=none&headerType=&type=tcp# | 24.69s

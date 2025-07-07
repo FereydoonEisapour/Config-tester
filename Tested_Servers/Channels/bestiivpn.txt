@@ -1,1 +1,2 @@
-vless://c4389c70-1e5a-4bd2-934f-44fb2e62ccf5@de6.razercompany.com:33200?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 1.30s
+vless://4ccd8137-fbdc-2d61-4d60-e9014c4261fd@ir.lightning2025.top:699?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 1.87s
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 1.98s

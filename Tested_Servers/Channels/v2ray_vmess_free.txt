@@ -1,2 +1,1 @@
-vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?path=%2F&security=tls&encryption=none&host=colf.ir&fp=chrome&type=ws&sni=colf.ir#%40V2RAY_VMESS_free%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C | 2.57s
 vmess://eyJhZGQiOiI5MS45OS4xNTguMTQ4IiwiYWlkIjoiMCIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicG9ydCI6IjUyMjYyIiwicHMiOiJ2bWVzcy05MS45OS4xNTguMTQ4LTUyMjYyIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

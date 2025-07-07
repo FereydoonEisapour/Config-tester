@@ -1,1 +1,1 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935/?type=tcp&security=tls&sni=x1-germany-digitalocean-v2.devefun.org#%40Network_442_%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA | 0.67s
+trojan://6gZh2JbfhQ@104.248.18.1:1935/?type=tcp&security=tls&sni=x1-germany-digitalocean-v2.devefun.org#%40Network_442_%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA | 1.00s

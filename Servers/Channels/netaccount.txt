@@ -1,2 +1,4 @@
-vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&sni=havvas.shohreh.dpdns.org&fp=random&type=ws&path=/?ed%3D2560/?@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-&host=havvas.shohreh.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
-vless://d7225276-0190-48dc-a56d-aa5147d29ee8@g1.dynamicf14.top:3400?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=ws&path=/?ed%3D2560/?JOKERRVPNBIA_CHANNEL@JOKERRVPN&host=sib.sibzamini.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
+vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?security=tls&sni=www.dns-shop.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=www.dns-shop.ir&packetEncoding=xudp&encryption=none#@NetAccount

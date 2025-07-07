@@ -1,1 +1,0 @@
-vless://2b379a8d-ad13-1788-fd1a-ea2b1d227830@all88-vip.f-sub.com:8249?type=tcp&host=testspeed-foreign.tci.ir&security=none&sni=all88-vip.f-sub.com&alpn=&path=/&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&headerType=http#Cisco_Acc

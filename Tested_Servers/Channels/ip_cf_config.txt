@@ -1,1 +1,6 @@
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&encryption=none&headerType=&type=tcp# | 1.11s
+trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InEcmjyiKVby2Lp&security=tls&alpn=http%2F1.1&host=dddddddddffff.iran2035.dpdns.org&fp=chrome&type=ws&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG# | 0.37s
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?type=ws&encryption=none&security=tls&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=/linkws?ed=2560&sni=MAxNETvipAp-cloUD252.nEtKh3.site# | 0.42s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org# | 0.46s
+vless://107088af-d5a1-4612-8641-a83e0e13c81e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451943398.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451943398.kish-prx-dnraaaf.info&path=/oiakdrws# | 0.55s
+vless://012bcb20-421c-434c-8fd0-2c4d564a103e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872445251926601.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872445251926601.kish-prx-dnraaaf.info&path=/cazskiws# | 0.59s
+trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org# | 0.76s

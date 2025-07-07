@@ -1,1 +1,1 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&fp=chrome# | 1.73s
+trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&headerType=none&type=tcp# | 0.13s

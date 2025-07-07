@@ -1,9 +1,11 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%5B%F0%9F%87%AC%F0%9F%87%A7%5D | 0.62s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%B0 | 0.62s
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#%F0%9F%8C%BD91 | 0.69s
-vless://1e5856d1-ccf2-4513-a176-cf9bd2b34616@angelina.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=6x1fujrd.testsnew.com&type=ws&sni=6x1fujrd.testsnew.com#11%F0%9F%92%8D | 0.84s
-vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%8D67 | 1.17s
-vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLTU3LjEyOS42NC4yMzgtNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%B0 | 0.40s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#%5B%F0%9F%87%AC%F0%9F%87%A7%5D | 0.42s
+vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#%F0%9F%8C%BD91 | 0.48s
+vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%8D67 | 0.51s
+vless://1e5856d1-ccf2-4513-a176-cf9bd2b34616@angelina.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=6x1fujrd.testsnew.com&type=ws&sni=6x1fujrd.testsnew.com#11%F0%9F%92%8D | 0.58s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC | 0.95s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#%F0%9F%87%A8%F0%9F%87%BF | 10.39s
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiaWQiOiJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDI2MTAiLCJwcyI6InZtZXNzLTUxLjc5Ljg2LjE4Mi00MjYxMCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDUzNCIsInBzIjoidm1lc3MtOTQuMTM2LjE4NS4yMzAtMTA1MzQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIzOC40Ny4xNzYuMjUxIiwiYWlkIjoiMCIsImlkIjoiMmJjYTM1NjktMDY2Mi00N2Y3LWZkZjgtNDIxZjMwZTcxZjQ0IiwibmV0IjoidGNwIiwicG9ydCI6IjU2MDUxIiwicHMiOiJ2bWVzcy0zOC40Ny4xNzYuMjUxLTU2MDUxIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLTU3LjEyOS42NC4yMzgtNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
