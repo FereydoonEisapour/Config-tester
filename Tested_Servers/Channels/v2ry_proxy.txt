@@ -1,8 +1,7 @@
-vless://75542618-2a4e-4e94-cd5d-f2866e284901@91.107.144.102:443?security=none&encryption=none&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.41s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?path=%2F&security=none&encryption=none&host=q6.19kalA.co&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.70s
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=%2F%3Fed&security=none&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.78s
-vless://cf04e45a-13e9-4603-a39b-d38c934cdfc5@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=bAlaNCED-eDuCAtiON.onEeAt.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.96s
-vless://d4bc0a04-a68e-4de8-9098-4a22f8936485@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=FAInt-gAte.oNEeAt.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.04s
-vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.10s
-vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.59s
+vless://75542618-2a4e-4e94-cd5d-f2866e284901@91.107.144.102:443?security=none&encryption=none&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.39s
+vless://cf04e45a-13e9-4603-a39b-d38c934cdfc5@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=bAlaNCED-eDuCAtiON.onEeAt.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.50s
+vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.51s
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=%2F%3Fed&security=none&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.72s
+vless://d4bc0a04-a68e-4de8-9098-4a22f8936485@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=FAInt-gAte.oNEeAt.CO.&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.47s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#https%3A%2F%2Ft.me%2FV2ry_Proxy | 6.92s
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

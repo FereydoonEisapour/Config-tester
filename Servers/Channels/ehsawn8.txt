@@ -1,3 +1,3 @@
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?type=tcp&headerType=http&host=zula.ir#@ehsawn8
-vless://57567659-5d0f-4dd6-9184-9f7aaecb49e5@boom.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=cloudify.global.ssl.fastly.net.&path=/GoodLuck?ed%3D2560#@ehsawn8
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928/?type=tcp&path=%2F&host=canva.com&headerType=http&security=none#@ehsawn8
+vless://57567659-5d0f-4dd6-9184-9f7aaecb49e5@boom.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=cloudify.global.ssl.fastly.net.&path=/GoodLuck?ed%3D2560#@ehsawn8

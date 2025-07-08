@@ -1,1 +1,0 @@
-vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?sni=www.dns-shop.ir&host=www.dns-shop.ir&type=ws&security=tls&path=%2F%3Fed%3D2048&encryption=none#id-@vmesskhodam | 0.70s

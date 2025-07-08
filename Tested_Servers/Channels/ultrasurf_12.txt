@@ -1,1 +1,1 @@
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12 | 1.01s
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12 | 0.99s

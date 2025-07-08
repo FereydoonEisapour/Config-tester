@@ -1,4 +1,1 @@
-vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=ws&path=/?ed%3D2560/?JOKERRVPNBIA_CHANNEL@JOKERRVPN&host=sib.sibzamini.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
-vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?security=tls&sni=www.dns-shop.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=www.dns-shop.ir&packetEncoding=xudp&encryption=none#@NetAccount
+vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&mode=auto&host=dwellestablishment.global.ssl.fastly.net&path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount

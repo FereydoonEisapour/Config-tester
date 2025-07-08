@@ -1,1 +1,2 @@
+vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#%40Mobilinternet
 vless://b9d7ed5b-5a8f-4c8b-8fb3-253942424d2a@wouldyoumarriemepleasefuckthesystem.siasia.ir:8880?path=%2Fshetman&security=none&encryption=none&host=hey-dude-this-is-shet-world-dot-com.siasia.ir&type=httpupgrade#Sw%5B%F0%9F%87%A8%F0%9F%87%AD%5D%20%40Mobilinternet

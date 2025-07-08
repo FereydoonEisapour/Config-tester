@@ -1,4 +1,3 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#%40v2rayvpn2
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#%40v2rayvpn2
-vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2087?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2rayvpn2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#telegram%3A%20%40v2rayvpn2%F0%9F%87%A9%F0%9F%87%AA
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#%40v2rayvpn2
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#%40V2rayvpn2

@@ -1,2 +1,0 @@
-vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=none&encryption=none&type=grpc#https%3A%2F%2Ft.me%2Fpsiphonf | 6.20s
-vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
