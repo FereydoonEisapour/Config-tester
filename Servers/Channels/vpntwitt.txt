@@ -1,9 +1,8 @@
-vless://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@91.99.235.201:666?type=tcp&headerType=none&security=none#
-vless://ff8fffd7-3546-488b-a5f2-a07996da74a2@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
-vless://ff8fffd7-3546-488b-a5f2-a07996da74a2@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@panel.bandarhp.ir:666?type=tcp&headerType=none&security=none#
 vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?type=tcp&headerType=none&security=none#@VPNTwitt
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@blog.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@blog.bandarhp.ir:666?type=tcp&headerType=none&security=none#
 vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?type=tcp&headerType=none&security=none#
-vless://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
-vless://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@91.99.235.201:666?type=tcp&headerType=none&security=none#@VPNTwitt
-vless://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#
-vless://bf3c2f7c-5751-4684-aedb-105b02419cac@91.99.109.191:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=tgju.org&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38&spx=/
+vless://ff8fffd7-3546-488b-a5f2-a07996da74a2@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#
+vless://ff8fffd7-3546-488b-a5f2-a07996da74a2@site.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@panel.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt

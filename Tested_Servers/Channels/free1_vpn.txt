@@ -1,6 +1,4 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%40V2ray1_Ng | 0.04s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray1_Ng | 0.66s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 1.10s
-vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 2.00s
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?path=%2F&security=none&encryption=none&type=ws#%40V2ray1_Ng | 8.05s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#%40V2ray1_Ng | 19.37s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%40V2ray1_Ng | 0.17s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray1_Ng | 1.15s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 1.98s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#%40V2ray1_Ng | 21.81s

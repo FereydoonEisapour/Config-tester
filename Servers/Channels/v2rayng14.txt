@@ -1,11 +1,6 @@
 vless://34b1893d-b210-45a9-a306-d63c076d05ba@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw%3D%3D@92.63.193.252:20#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://fbadf555-9c51-4870-b227-31aadcf32548@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://20630c0f-64b3-4237-8c13-7f4cde734df9@mahtabhub.metishop.top:8080?path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&type=ws#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?mode=auto&path=%2Fpwp%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://68e1228d-5db7-4c68-8edf-b11a3b0c2a56@135.181.201.193:56207?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://d8522fbf-1af9-47c5-92dd-3c9da27b4542@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://cbc68f99-54f8-4605-8fac-69d8c9fdb1e7@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://bd23cbe8-5d84-42b8-b89f-f36a5143aa10@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://fbadf555-9c51-4870-b227-31aadcf32548@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://cbc68f99-54f8-4605-8fac-69d8c9fdb1e7@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://d8522fbf-1af9-47c5-92dd-3c9da27b4542@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://51327d13-8547-4711-a26a-428068635585@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14

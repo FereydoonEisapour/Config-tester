@@ -1,0 +1,1 @@
+vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws#https://t.me/falcunargo | 0.52s

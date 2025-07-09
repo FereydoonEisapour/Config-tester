@@ -1,1 +1,1 @@
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0 | 2.58s
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0 | 3.71s

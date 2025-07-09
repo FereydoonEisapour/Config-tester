@@ -1,17 +1,10 @@
-vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%2012898 | 0.47s
-vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%2012897 | 0.47s
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws#12830 | 0.48s
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#12956 | 0.54s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#12834 | 0.63s
-vless://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.162.50:443?path=%2F6OWLjRc26b0nHYr5hYXD&security=tls&alpn=http%2F1.1&encryption=none&host=444rrrt5.7777155.xyz&fp=chrome&type=ws&sni=444RRrt5.7777155.xYZ#12976 | 0.84s
-vless://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.130.204:443?path=%2FOjdW89Bpg4ykd4O&security=tls&alpn=http%2F1.1&encryption=none&host=hhhhhhhhhhh.777198.xyz&fp=chrome&type=ws&sni=HHhhhHhhhhH.777198.xYz#12975 | 1.01s
-vless://d4bc0a04-a68e-4de8-9098-4a22f8936485@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=FAInt-gAte.oNEeAt.CO.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%2012899 | 1.07s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#12967 | 1.37s
-vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#12962 | 1.86s
-vless://cca45b57-0f24-43c8-8911-f8dab5af1e10@104.21.10.25:8880?path=%2F&security=none&encryption=none&host=0522.yeyefeng.dpdns.org&type=ws#12974 | 1.88s
-vless://af1c70ed-15cb-4f03-95eb-44383d227631@173.245.59.81:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=1yrcg4nx.shemrons.com&type=ws&sni=1yrcg4nx.shemrons.com#12957 | 1.92s
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&headerType=none&type=tcp#12971 | 3.03s
-vless://cf04e45a-13e9-4603-a39b-d38c934cdfc5@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=bAlaNCED-eDuCAtiON.onEeAt.CO.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%2012896 | 5.50s
+trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#12956 | 0.22s
+vless://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.130.204:443?path=%2FOjdW89Bpg4ykd4O&security=tls&alpn=http%2F1.1&encryption=none&host=hhhhhhhhhhh.777198.xyz&fp=chrome&type=ws&sni=HHhhhHhhhhH.777198.xYz#12975 | 0.24s
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&headerType=none&type=tcp#12971 | 0.86s
+vless://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.162.50:443?path=%2F6OWLjRc26b0nHYr5hYXD&security=tls&alpn=http%2F1.1&encryption=none&host=444rrrt5.7777155.xyz&fp=chrome&type=ws&sni=444RRrt5.7777155.xYZ#12976 | 0.97s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#12967 | 2.62s
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#12962 | 2.63s
+vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws# | 6.83s
 vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLXBxLWJyYXppbDEuMDl2cG4uY29tLTgwIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiaWQiOiJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDI2MTAiLCJwcyI6InZtZXNzLTUxLjc5Ljg2LjE4Mi00MjYxMCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiaWQiOiI1N2U1OTVlNi1lZjU0LTRlMGQtYjhkZi1lOTZkYjk2MTJiOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaG9yc2VuIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLW9ydnBzMi5ob3JzZW5tYS5uZXQtODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvcnZwczIuaG9yc2VubWEubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiaWQiOiJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDI2MTAiLCJwcyI6InZtZXNzLTUxLjc5Ljg2LjE4Mi00MjYxMCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

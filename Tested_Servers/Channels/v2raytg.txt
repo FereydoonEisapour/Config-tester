@@ -1,0 +1,2 @@
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?path=%2FmFvK3LJyIAe8ydvnmRKWDa8&security=tls&alpn=http%2F1.1&host=666666y.999165.xyz&fp=chrome&type=ws&sni=666666Y.999165.XYZ#IR-%40ARGO_VPN1 | 0.45s
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&security=tls&alpn=http%2F1.1&host=xxxxxxx.890604.dpdns.org&fp=chrome&type=ws&sni=xXxXxxx.890604.dPDNs.org#IR-%40ARGO_VPN1 | 1.03s

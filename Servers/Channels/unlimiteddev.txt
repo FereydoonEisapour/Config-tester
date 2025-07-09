@@ -1,0 +1,2 @@
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?type=ws&host=my.ski1plag.ir&path=/download#%E2%9C%88%EF%B8%8F%20@unlimiteddev-2
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&host=my.ski1plag.ir&path=/upload#%E2%9C%88%EF%B8%8F%20@unlimiteddev-1

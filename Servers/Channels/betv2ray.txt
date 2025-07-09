@@ -1,0 +1,2 @@
+vless://30939f46-144d-4652-9c8e-543fad8c1931@parmis.crocodileserver.ir:443?security=reality&encryption=none&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&headerType=none&fp=firefox&type=tcp&sni=rtf.crocodileserver.ir&sid=1da8d08f24e92861#t.me%2FBetV2ray%20%286343%29%20DE%20%F0%9F%87%A9%F0%9F%87%AA
+vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#t.me%2FBetV2ray%20%286342%29%20DE%20%F0%9F%87%A9%F0%9F%87%AA

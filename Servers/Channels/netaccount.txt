@@ -1,1 +1,9 @@
-vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&mode=auto&host=dwellestablishment.global.ssl.fastly.net&path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
+vless://a9874b38-d920-4d92-a252-e8deac80aa63@62.60.179.65:18191?type=tcp&path=%2F&host=cloud.ir&headerType=http&security=none#
+vless://185cd292-e501-4622-a310-7ea64ea85efb@subeighteen.iranfreedomserver.com:20340?security=none&type=tcp&headerType=http&host=speedtest.net&packetEncoding=xudp&encryption=none#@NetAccount
+vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=none&type=tcp&headerType=http&host=telewebion.com&packetEncoding=xudp&encryption=none#
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&type=ws&path=/Telegram@server_free2/?ed%3D2560&host=reedfree8mahsang2.redorg.ir&packetEncoding=xudp&encryption=none#@NetAccount
+vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?security=none&type=tcp&packetEncoding=xudp&encryption=none#
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&sni=havvas.shohreh.dpdns.org&fp=random&type=ws&path=/?ed%3D@Selinc/?N&host=havvas.shohreh.dpdns.org&packetEncoding=xudp&encryption=none#
+vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#
+vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#
+vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&type=tcp&headerType=http&host=skyroom.online&packetEncoding=xudp&encryption=none#

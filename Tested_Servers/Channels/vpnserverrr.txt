@@ -1,1 +1,0 @@
-vless://217be117-a1c7-4165-96d1-25a2839b6f06@de.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=de.foxinonet.ir&fp=safari&type=ws&sni=de.foxinonet.ir#%F0%9F%87%A9%F0%9F%87%AA+DE-NB-%40vpnserverrr… | 4.18s
