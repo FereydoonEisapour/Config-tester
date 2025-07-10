@@ -1,5 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#%40HiByeVPNN | 0.37s
-vless://fd7ef777-55be-43fe-8462-ea0cd549be5a@104.18.26.90:2096?path=%2Frlogcews&security=tls&encryption=none&host=638874931195359438.kish-prx-dnraaaf.info&type=ws&sni=638874931195359438.kish-prx-dnraaaf.info#%40hibyevpnn | 0.78s
-vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&security=tls&encryption=none&host=638874929583386193.zagreb-prx-dnraaad.info&type=ws&sni=638874929583386193.zagreb-prx-dnraaad.info#%40hibyevpnn | 1.39s
-vless://653ded5e-50bc-4fe4-807b-1230a017c304@104.18.26.90:2096?path=%2Feccmnews&security=tls&encryption=none&host=638874931195382804.kish-prx-dnraaaf.info&type=ws&sni=638874931195382804.kish-prx-dnraaaf.info#%40hibyevpnn | 2.44s
-vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40hibyevpnn | 5.22s
+vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&security=tls&encryption=none&host=638874929583386193.zagreb-prx-dnraaad.info&type=ws&sni=638874929583386193.zagreb-prx-dnraaad.info#%40hibyevpnn | 0.97s
+vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40hibyevpnn | 2.35s
+vless://653ded5e-50bc-4fe4-807b-1230a017c304@104.18.26.90:2096?path=%2Feccmnews&security=tls&encryption=none&host=638874931195382804.kish-prx-dnraaaf.info&type=ws&sni=638874931195382804.kish-prx-dnraaaf.info#%40hibyevpnn | 2.49s
+vless://fd7ef777-55be-43fe-8462-ea0cd549be5a@104.18.26.90:2096?path=%2Frlogcews&security=tls&encryption=none&host=638874931195359438.kish-prx-dnraaaf.info&type=ws&sni=638874931195359438.kish-prx-dnraaaf.info#%40hibyevpnn | 7.39s

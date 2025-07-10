@@ -1,1 +1,2 @@
-vless://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?encryption=none&security=none&type=ws&path=%2F# | 0.67s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:2096?encryption=none&security=tls&sni=GqAlTbPs11.aBbAsAlIrAhMaTdIkH.OrG&type=ws&host=GqAlTbPs11.aBbAsAlIrAhMaTdIkH.OrG&path=%2F# | 1.07s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotNVRVTTVDbTF5dGNEb3FCSG9tMUdR@62.60.216.61:1080# | 18.06s

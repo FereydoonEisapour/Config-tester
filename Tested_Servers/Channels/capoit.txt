@@ -1,0 +1,2 @@
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=%2FyayPR7DCW3dDdcCPPcNB6&security=tls&alpn=h2&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit | 1.12s
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=%2FyayPR7DCW3dDdcCPPcNB6&security=tls&alpn=http%2F1.1&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit | 1.16s

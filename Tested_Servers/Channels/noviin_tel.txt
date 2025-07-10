@@ -1,5 +1,2 @@
-vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws#%F0%9F%86%94%40HTTPinjectorcustom%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%29 | 0.50s
-vless://a020eb91-54b1-4a73-8dd5-f705a6dcc6ae@172.234.197.187:11518?security=none&encryption=none&headerType=none&type=tcp#NetAccount | 0.52s
-vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?security=none&type=tcp&packetEncoding=xudp&encryption=none# | 0.71s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#NetAccount | 0.73s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#NetAccount | 1.58s
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

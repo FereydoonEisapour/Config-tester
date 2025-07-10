@@ -1,2 +1,1 @@
-vless://d72cc344-058a-443f-9830-47fe413d5725@sv2.farsdataco2.top:51343?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%202%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%D8%AA%D8%A7%D9%86%D9%84%20%D8%B4%D8%AF%D9%87%20%F0%9F%87%A9%F0%9F%87%AA
 vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@all1.hajhesam.biz.id:443?path=%2Fws%3Fed%3D2056&security=tls&alpn=http%2F1.1&encryption=none&host=de222.hajhesam.biz.id&fp=randomized&type=ws&sni=de222.hajhesam.biz.id#%DB%B3

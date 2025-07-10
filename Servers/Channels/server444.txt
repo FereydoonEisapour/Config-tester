@@ -1,1 +1,1 @@
-vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?type=tcp&security=none#Free
+vless://b1500629-5d35-459d-afe9-7835d2e1e556@maskunlimit51.royalmt.life:65041?type=ws&security=none#Support

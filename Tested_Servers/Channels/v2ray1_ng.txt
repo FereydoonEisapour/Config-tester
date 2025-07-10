@@ -1,3 +1,5 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%40V2ray1_Ng | 1.06s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 1.35s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray1_Ng | 2.49s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%40V2ray1_Ng | 0.55s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray1_Ng | 0.86s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng | 0.94s
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#%40V2ray1_Ng | 1.22s
+vless://8f36d89f-2aa7-4616-b43a-088db3945dc0@104.18.26.90:2096?path=%2Fddfkmmws&security=tls&encryption=none&host=638874931195901893.kish-prx-dnraaaf.info&type=ws&sni=638874931195901893.kish-prx-dnraaaf.info#%40V2ray1_Ng | 2.19s

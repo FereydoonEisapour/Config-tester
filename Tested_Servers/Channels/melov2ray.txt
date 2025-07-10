@@ -1,3 +1,3 @@
-vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 0.58s
-vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 11.10s
-vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 12.64s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 0.80s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 1.06s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 2.03s

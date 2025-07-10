@@ -1,3 +1,5 @@
-vless://13e211dc-81a6-4e7e-aabf-e679e5bbba32@142.132.227.65:33036?type=tcp&security=none# | 0.40s
-vless://413aac92-46cb-4d23-856e-6dbc8c5e9cbf@142.132.227.65:33036?type=tcp&security=none# | 0.40s
-vless://1343289b-3518-48da-9ee6-1bc99860b505@104.18.26.90:443?type=ws&path=%2FTwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService%3Fed%3D2560&host=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com&security=tls&fp=randomized&alpn=http%2F1.1&sni=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com# | 1.00s
+vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp# | 0.54s
+vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?security=none&encryption=none&headerType=none&type=tcp# | 0.98s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws# | 1.10s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws# | 3.32s
+vmess://eyJhZGQiOiJzMS5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImlkIjoiMTk2OWEyNmQtNDJjMy00Nzg4LTVmYjEtNmMyZGU0N2U4ZDM1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NyIsInBzIjoidm1lc3MtczEuZG5zNHdhcmRzLmNvbS0yMDg3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

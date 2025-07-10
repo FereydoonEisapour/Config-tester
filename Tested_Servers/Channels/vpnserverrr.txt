@@ -1,0 +1,4 @@
+vless://69775f3a-e02c-450a-a2ee-fd0f11d62e00@104.18.26.90:80?path=%2Fvless%2F&security=none&encryption=none&host=ov-germany3.09vpn.com&type=ws#telegram-%40vpnserverrr | 0.67s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40vpnserverrr%F0%9F%87%AB%F0%9F%87%AE | 0.84s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40vpnserverrr%F0%9F%87%AB%F0%9F%87%AE | 0.97s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40vpnserverrr%F0%9F%87%AB%F0%9F%87%AE | 1.24s

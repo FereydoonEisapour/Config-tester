@@ -1,7 +1,7 @@
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Mxv2ray
 vless://b2b7f6bd-bbec-472a-8c57-261333676d3f@91.99.204.234:14767?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#IR--%40mxv2ray
 vless://c264aa9e-ade2-43c9-be14-ff25059fd107@91.99.104.110:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#%5B%F0%9F%8F%81%5D
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MT…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#IR-%40mxv2ray
 vmess://eyJhZGQiOiI5MS45OS4xODcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTM4MmQ3MmYtNjUwOS00ZDE2LWFhZTctYzY3MTIxYzczNmRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NjE5OSIsInBzIjoiW/Cfj4FdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#IR-%40mxv2ray
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
