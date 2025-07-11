@@ -1,2 +1,2 @@
-hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1&sni=apple.com#AstroVPN_Official-US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODVlOWExZmNmODFiY2Rh@195.7.6.214:47598#AstroVPN_Official-SS-%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1&sni=apple.com#AstroVPN_Official-US

@@ -1,1 +1,1 @@
-vless://8e61d1cf-11f3-4e6e-866c-8429b5020f7a@aVip.Rxteam.pro:17328?security=none&encryption=none&seed=0wawu6emjT&headerType=srtp&type=kcp#3wd1eytt
+vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=firefox&type=ws#1om2cw93

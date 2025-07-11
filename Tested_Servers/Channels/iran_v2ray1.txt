@@ -1,9 +1,10 @@
-vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%40Iran_V2ray1 | 0.76s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.83s
-vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#Bya%20To%20%40Iran_V2ray1 | 0.93s
-vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.94s
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%3A%20%40Iran_V2ray1 | 1.45s
-vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#Bya%20To%20%40Iran_V2ray1 | 1.48s
-vless://8f36d89f-2aa7-4616-b43a-088db3945dc0@104.18.26.90:2096?path=%2Fddfkmmws&security=tls&encryption=none&host=638874931195901893.kish-prx-dnraaaf.info&type=ws&sni=638874931195901893.kish-prx-dnraaaf.info#Bya%20To%20%40Iran_V2ray1 | 3.36s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#Join%20To%20%40IRAN_V2RAY1 | 4.15s
-vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.04s
+vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.40s
+vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%40Iran_V2ray1 | 0.40s
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#Bya%20To%20%40Iran_V2ray1 | 0.60s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#Bya%20To%20%40Iran_V2ray1 | 0.62s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#Join%20To%20%40IRAN_V2RAY1 | 0.63s
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#Join%20To%20%40IRAN_V2RAY1 | 0.87s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.95s
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#Bya%20To%20%40Iran_V2ray1 | 1.30s
+vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJAdjJ4YXktQHYyeGF5LUB2MnhheS0iLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxNTcwOSIsInBzIjoidm1lc3MtY2hhbm5lbC5kb2xsYXJkb29uLmNvbS0xNTcwOSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

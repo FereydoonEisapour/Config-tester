@@ -1,5 +1,2 @@
-vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp# | 0.54s
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?security=none&encryption=none&headerType=none&type=tcp# | 0.98s
-vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws# | 1.10s
-vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws# | 3.32s
-vmess://eyJhZGQiOiJzMS5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImlkIjoiMTk2OWEyNmQtNDJjMy00Nzg4LTVmYjEtNmMyZGU0N2U4ZDM1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NyIsInBzIjoidm1lc3MtczEuZG5zNHdhcmRzLmNvbS0yMDg3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&security=&alpn=http%2F1.1&encryption=none&host=d1.hetzner.com&type=ws&sni=epgs9l0n.salamtrip.ir# | 1.29s
+vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?path=%2F&security=&encryption=none&type=ws# | 1.43s

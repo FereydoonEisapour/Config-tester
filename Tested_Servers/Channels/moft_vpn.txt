@@ -1,2 +1,1 @@
-vless://1561be8b-7000-42c7-80ae-036bcf3ea3a9@142.132.227.65:443?security=none&encryption=none&headerType=none&type=tcp#%40Moft_VPn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84 | 0.54s
-vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#%40Moft_VPn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84 | 0.63s
+vmess://eyJhZGQiOiJkZS5zcGVlZGh1bnRlci50b3AiLCJhaWQiOiIwIiwiaWQiOiI2OTJjZjk0OS1iY2YyLTRjYWQtODA2Ny0yNzYyYjhlMjQ4NzQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjEyNTciLCJwcyI6InZtZXNzLWRlLnNwZWVkaHVudGVyLnRvcC0yMTI1NyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

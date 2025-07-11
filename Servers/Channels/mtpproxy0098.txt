@@ -1,0 +1,2 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.39.244:80?path=Telegram%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#%F0%9F%87%A7%F0%9F%87%BFBZ%20-%3E%20%F0%9F%87%AB%F0%9F%87%B7FR%20%E2%9A%A111
+vless://7bacc90e-ae2a-4bb1-8edf-7f662a937b45@all97-vip.f-sub.com:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#365D-3000GB%F0%9F%93%8A-%E2%8F%B3

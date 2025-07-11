@@ -1,6 +1,7 @@
-vless://fbadf555-9c51-4870-b227-31aadcf32548@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://0f66ff66-1cd7-4237-8481-77cb6f1be0c4@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://51327d13-8547-4711-a26a-428068635585@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://9a042116-b5a8-4b20-91e1-dc0947808bae@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://ff27f307-e565-418b-af21-d28986d36453@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://bd23cbe8-5d84-42b8-b89f-f36a5143aa10@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://34b1893d-b210-45a9-a306-d63c076d05ba@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://d8522fbf-1af9-47c5-92dd-3c9da27b4542@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://12222495-e38c-4564-9bad-cd7babaed0b1@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14

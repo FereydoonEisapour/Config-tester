@@ -1,7 +1,7 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh23v5.hiddendom.shop#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 0.13s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 0.87s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40Asak_Vpn%F0%9F%87%B8%F0%9F%87%AC | 1.03s
-vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?path=%2F%3Fed%3D2048%40ShadowProxy66&security=none&encryption=none&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&type=ws#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 3.25s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#T.me%2FAsak_Vpn | 4.96s
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh23v5.hiddendom.shop#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 0.11s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 1.06s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40Asak_Vpn%F0%9F%87%B8%F0%9F%87%AC | 1.43s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#T.me%2FAsak_Vpn | 1.58s
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJpZCI6IjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsIm5ldCI6InRjcCIsInBvcnQiOiIyODIxMyIsInBzIjoidm1lc3MtMTM1LjEyNS4xODIuNzQtMjgyMTMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJpZCI6IjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsIm5ldCI6InRjcCIsInBvcnQiOiIyODIxMyIsInBzIjoidm1lc3MtMTM1LjEyNS4xODIuNzQtMjgyMTMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTIyNjIiLCJwcyI6InZtZXNzLWVlMS5kYWFsbHlnb2xkLmNvbS01MjI2MiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

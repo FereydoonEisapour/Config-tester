@@ -1,3 +1,2 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%B5%F0%9F%87%AD%7CPH%7C%40wxgqlfx%7C409
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=vle.amclubdns.dpdns.org&fp=chrome&type=ws&sni=vle.amclubdns.dpdns.org#%F0%9F%87%B5%F0%9F%87%AD%7CPH%7C%40wxgqlfx%7C340
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#telegram
+vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@154.83.2.84:443?path=%2FMTbeT87uR90Qfn6U%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#13261

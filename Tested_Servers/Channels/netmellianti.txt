@@ -1,1 +1,1 @@
-vless://874f64b9-cc71-4e84-9c33-fd61e1876c7a@antifilter_iranians.sozokiplus.ir:2071?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 3.82s
+vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 0.57s

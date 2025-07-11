@@ -1,4 +1,3 @@
-vless://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?path=%2Fvless&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#%40FLYSTOREIR%20%C2%A0%20%E2%9C%85%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF | 1.25s
-vless://546cc913-2825-4771-b713-a23905913141@104.18.26.90:2096?path=%2Fwjwqzaws&security=tls&encryption=none&host=638874931195949050.kish-prx-dnraaaf.info&type=ws&sni=638874931195949050.kish-prx-dnraaaf.info#%40Flystoreir | 1.67s
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Flystoreir | 1.69s
-vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?encryption=none&security=none&type=tcp&headerType=none#%40flystoreir | 7.77s
+vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?encryption=none&security=none&type=tcp&headerType=none#%40flystoreir | 0.62s
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Flystoreir | 0.64s
+vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQ4ODMiLCJwcyI6InZtZXNzLTE5OC4yLjIxOC4yMTYtNDQ4ODMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
