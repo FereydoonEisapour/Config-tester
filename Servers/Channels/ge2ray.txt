@@ -1,0 +1,2 @@
+vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#S2-+telegram+%40Ge2ray+%F0%9F%87%A9%F0%9F%87%AA
+vless://b52a81f3-7167-4064-9d09-d54fccf273bd@85000?path=%2FHHJ1feCQkdARo4ZzMOCSwT&security=none&alpn=http%2F1.1&encryption=none&host=

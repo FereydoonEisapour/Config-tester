@@ -1,1 +1,2 @@
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#hmrah@vmesskhodam | 0.77s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#hmrah@vmesskhodam | 0.75s
+vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#%28%40vmesskhodam%29%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86 | 1.04s

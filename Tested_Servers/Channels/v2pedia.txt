@@ -1,2 +1,2 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#[ | 0.47s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#[ | 1.14s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#[ | 1.19s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#[ | 4.15s

@@ -1,0 +1,11 @@
+vless://d3cc4545-0896-4245-8f29-fcc5dd928512@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:2087?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell
+vless://62fb023a-2a3a-40a6-a156-5f2dbd127900@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:2087?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell
+vless://3c2cd8ba-da22-4d57-e885-26089cbead66@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:443?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell2
+vless://622d9cf2-7417-4951-9a5e-8173a46c6761@31.40.4.84:2053?type=tcp&path=%2F&host=xbox.com&headerType=http&security=none#zilorX-Service-mci
+vless://96569ce7-a432-43f3-921f-a36bd2131bc2@31.40.4.84:2053?security=none&encryption=none&host=xbox.com&headerType=http&type=tcp#zilorX-Service-mci
+vless://c9d5d7e0-3520-4edb-d15d-c472f32e7151@31.40.4.84:8443?type=grpc&serviceName=&authority=&security=none#zilorX-Service-mci2
+vless://a8562d8d-60fa-4b8e-fb80-ee82357ec322@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:2087?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell
+vless://142407ad-404f-4268-917f-3c25be740783@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:443?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell2
+vless://6dcc502c-cff4-4149-db6e-d8d37db8685c@31.40.4.84:8443?type=grpc&serviceName=&authority=&security=none#zilorX-Service-mci2
+vless://8cae872e-6fa9-4745-850b-8dacd15dda28@31.40.4.84:8443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#zilorX-Service-mci2
+vless://97344abc-9139-472f-d8a6-970f260cec8e@[2a01:7e0:0:151:1fff:ffff:ffff:2224]:443?security=none&encryption=none&headerType=none&type=tcp#zilorX-Service-irancell2

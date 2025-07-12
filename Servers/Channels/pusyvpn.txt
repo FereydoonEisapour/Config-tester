@@ -1,0 +1,9 @@
+vless://cb464319-56c8-404c-b610-6b41d1951032@217.60.252.121:6710?security=none&encryption=none&headerType=http&type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+T.me%2FPusyVpn
+vless://8206019b-0b2c-440e-a12e-6f7003d3e79f@omslavetrr.goofy.boats:9304?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA++T.me%2FPusyVpn+%7C+%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF+60+%D8%AA%D9%85%D9%86
+vless://45c24d3e-5f87-45a3-a440-b0d6d3e92082@5.57.33.227:5001?security=none&encryption=none&headerType=http&type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5DT.me%2FPusyVpn
+vless://65115d6d-7c5b-45e5-929f-f50a86138f51@gr1.asc-sam.ir:80?path=%2Fswgsth&security=none&encryption=none&host=gr1.asc-sam.ir&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D++T.me%2FPusyVpn
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40PusyVpn+%7C+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF+60+%D8%AA%D9%88%D9%85%D9%86
+vless://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097?security=none&encryption=none&headerType=http&type=tcp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D+T.me%2FPusyVpn
+vless://daa299ad-af63-40ac-ba13-78459047faec@85.9.98.218:443?security=none&encryption=none&headerType=none&type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+T.me%2FPusyVpn
+vless://5f9fc2af-5e32-4e06-9f46-bbdb8a9d306d@31.14.115.163:55375?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+T.me%2FPusyVpn
+vless://a56cf768-7fbb-4504-aa3f-4b9b33ededd3@94.182.147.227:8081?security=none&encryption=none&headerType=http&type=tcp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D+T.me%2FPusyVpn

@@ -1,3 +1,1 @@
-vless://4b1171b2-65f9-41a3-9d78-59b95876501d@hound.origamimarketings.com:7777?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9#%F0%9F%A5…
-vless://5dbb9535-4647-4519-be29-6b17fb702ddd@188.121.105.181:2321?security=none&encryption=none&headerType=none&type=tcp#%40v2rayvpn2
-vless://4b1171b2-65f9-41a3-9d78-59b95876501d@hound.origamimarketings.com:7777?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9#%F0%9F%A5%B6%40v2rayvpn2%F0%9F%A5%B6
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#%40v2rayvpn2

@@ -1,1 +1,2 @@
-vless://8438b531-dd7a-4779-9364-44f42576737b@217.69.4.95:52340?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.33s
+vless://8438b531-dd7a-4779-9364-44f42576737b@217.69.4.95:52340?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.35s
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 1.70s

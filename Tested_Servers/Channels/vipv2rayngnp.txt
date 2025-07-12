@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=&encryption=none&type=grpc# | 0.07s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=&encryption=none&type=grpc# | 0.04s

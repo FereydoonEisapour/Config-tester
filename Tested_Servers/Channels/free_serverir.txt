@@ -1,0 +1,2 @@
+vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?security=none&encryption=none&type=ws&path=/#بیا | 3.29s
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?security=tls&encryption=none&type=ws&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws&sni=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome#@free_serverir | 7.02s

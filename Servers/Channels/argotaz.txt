@@ -1,0 +1,1 @@
+vless://52200463-3f3e-4751-8887-b80b70212af7@vrp2.vidasuniversity.ir:8443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#20.0%20GB

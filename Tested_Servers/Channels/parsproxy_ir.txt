@@ -1,0 +1,12 @@
+vless://9c6d3d75-2508-47df-8861-db52bac52860@49.13.74.56:12972?path=%2F&security=none&encryption=none&host=49.13.74.56&type=ws# | 0.50s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#https%3A%2F%2Ft.me%2Fparsproxy_ir | 0.71s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&alpn=h3h2&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=/# | 0.85s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443/?type=ws&encryption=none&flow=&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG# | 0.92s
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws# | 1.31s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg# | 1.44s
+trojan://0b9c9261-7209-4dcc-b268-2fa74f6cd536@q1.46322416.xyz:20220?allowInsecure=1&sni=cdn.alibaba.com# | 1.52s
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80/?type=ws&encryption=none&flow=&host=onlytesla1.xz027.com&path=%2F# | 1.94s
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?type=ws&path=%2F&host=onlytesla1.xz027.com&security=none# | 4.43s
+ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ==@220.124.31.130:19378# | 6.03s
+vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?path=%2F&security=&encryption=none&type=ws# | 8.06s
+vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?type=ws&path=/&security=none# | 13.10s

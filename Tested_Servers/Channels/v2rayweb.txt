@@ -1,6 +1,6 @@
-vless://44781453-5f6c-43ab-8d6c-3bc4323311be@142.132.227.65:80?security=none&encryption=none&headerType=none&type=tcp# | 0.41s
-vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info# | 0.77s
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg# | 0.98s
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg# | 1.06s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org# | 1.47s
-vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp# | 17.66s
+vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop# | 0.11s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org# | 0.81s
+vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws# | 1.71s
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?security=none&encryption=none&headerType=none&type=tcp# | 2.79s
+vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=%2Faucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info# | 3.17s
+vless://1bb67568-99ca-42cb-a196-c87bf76948a8@104.18.26.90:2096?path=%2Fdbjfngws&security=tls&encryption=none&host=638874929556912040.abadan-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929556912040.abadan-prx-dnraaad.info# | 4.90s

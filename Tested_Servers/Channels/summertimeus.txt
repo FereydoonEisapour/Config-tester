@@ -1,1 +1,1 @@
-vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@104.21.89.221:443?path=%2FwU3lZaUTRQTqot0LE&security=tls&alpn=http%2F1.1&encryption=none&host=kkkkkkkkkkkklo.999824.xyz&fp=chrome&type=ws&sni=KKkkKKKkkkkKLO.999824.xYz#vpn | 1.38s
+vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@104.21.89.221:443?path=%2FwU3lZaUTRQTqot0LE&security=tls&alpn=http%2F1.1&encryption=none&host=kkkkkkkkkkkklo.999824.xyz&fp=chrome&type=ws&sni=KKkkKKKkkkkKLO.999824.xYz#vpn | 0.16s

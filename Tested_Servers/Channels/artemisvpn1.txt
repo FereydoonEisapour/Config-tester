@@ -1,0 +1,2 @@
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#%40Artemisvpn1 | 0.76s
+vmess://eyJhZGQiOiI2Mi42MC4xNDguMjIzIiwiYWlkIjoiMCIsImlkIjoiY2M0MDA0OGMtMjhhYS00MTVmLWI4NmYtNzE1MTJhMzk5MDk3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1NjYxMiIsInBzIjoidm1lc3MtNjIuNjAuMTQ4LjIyMy01NjYxMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ

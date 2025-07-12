@@ -1,2 +1,2 @@
-vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp# | 1.24s
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=&encryption=none&host=onlytesla1.xz027.com&type=ws# | 5.79s
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@bd.iranlit.ir:14569?path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048&security=&encryption=none&type=ws# | 0.63s
+vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws# | 7.69s

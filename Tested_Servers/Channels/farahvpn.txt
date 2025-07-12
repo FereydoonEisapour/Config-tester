@@ -1,2 +1,3 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&path=%2F#Telegram%3A%20%40FarahVPN | 19.75s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F#Telegram%3A%20%40FarahVPN | 0.80s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&path=%2F#Telegram%3A%20%40FarahVPN | 5.27s
 vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJhaWQiOiIwIiwiaWQiOiJlZTNmMzdiMS1lODA1LTRiZGMtOWQ0Ni04MGRmMTgxODk5ZGYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTM0MTEiLCJwcyI6InZtZXNzLTEzOC4xOTkuMTQ2LjE4MS0xMzQxMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

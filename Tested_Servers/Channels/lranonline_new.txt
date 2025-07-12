@@ -1,0 +1,2 @@
+vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40f | 0.77s
+vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?type=ws&host=s2p2e45.speedtest.web.s2pp.ir.&path=/@HqV2rayNG?ed%3D2048&security=none#@H | 3.46s

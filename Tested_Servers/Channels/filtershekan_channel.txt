@@ -1,2 +1,2 @@
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40Teymourlang | 1.11s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40Teymourlang | 1.38s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40Teymourlang | 0.42s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40Teymourlang | 12.41s

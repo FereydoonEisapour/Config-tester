@@ -1,0 +1,2 @@
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&encryption=none&host=xcvfgt6.890606.xyz&fp=chrome&type=ws&sni=XCVFgT6.890606.XYz#@Filter_breaker | 0.24s
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.89:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#@Filter_breaker | 1.13s

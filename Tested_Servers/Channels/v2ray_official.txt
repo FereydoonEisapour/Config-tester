@@ -1,4 +1,7 @@
-vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?path=%2Fpvjoniws&security=tls&encryption=none&host=638874929583850409.zagreb-prx-dnraaad.info&type=ws&sni=638874929583850409.zagreb-prx-dnraaad.info#[ | 0.60s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#[ | 1.52s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#[ | 6.13s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#[ | 0.71s
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#[ | 0.83s
+vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?path=%2Fpvjoniws&security=tls&encryption=none&host=638874929583850409.zagreb-prx-dnraaad.info&type=ws&sni=638874929583850409.zagreb-prx-dnraaad.info#[ | 1.01s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#[ | 11.68s
+vmess://eyJhZGQiOiI0My4xNTMuMTA0LjYyIiwiYWlkIjoiMCIsImlkIjoiOTdjYzAzMjMtZGU1My00YTc1LWQ2OWQtYzZhY2RhYzVmZGM3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzk3Y2MwMzIzIiwicG9ydCI6IjQ1MTEzIiwicHMiOiJ2bWVzcy00My4xNTMuMTA0LjYyLTQ1MTEzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ny45Mi4xNTIuMTY5IiwiYWlkIjoiMCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicG9ydCI6IjUwMDAyIiwicHMiOiJ2bWVzcy00Ny45Mi4xNTIuMTY5LTUwMDAyIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiaWQiOiI1N2U1OTVlNi1lZjU0LTRlMGQtYjhkZi1lOTZkYjk2MTJiOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaG9yc2VuIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLW9ydnBzMi5ob3JzZW5tYS5uZXQtODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvcnZwczIuaG9yc2VubWEubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0

@@ -1,4 +1,7 @@
-vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#%40V2ray_cartel | 1.12s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%40V2ray_cartel | 1.26s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray_cartel | 1.84s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#%40V2ray_cartel | 3.17s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#v2ray_cartel | 0.88s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%40V2ray_cartel | 1.12s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#v2ray_cartel | 1.29s
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#v2ray_cartel | 1.53s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#%40V2ray_cartel | 10.42s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%40V2ray_cartel | 17.58s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#v2ray_cartel | 29.47s

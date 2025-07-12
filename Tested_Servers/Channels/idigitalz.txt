@@ -1,3 +1,3 @@
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#VIP%20455%20%F0%9F%87%BB%F0%9F%87%B3 | 2.17s
-vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#VIP%20444%20%F0%9F%87%AB%F0%9F%87%B7 | 6.30s
+vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#VIP%20455%20%F0%9F%87%BB%F0%9F%87%B3 | 1.05s
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#VIP%20444%20%F0%9F%87%AB%F0%9F%87%B7 | 6.65s
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTIyNjIiLCJwcyI6InZtZXNzLWVlMS5kYWFsbHlnb2xkLmNvbS01MjI2MiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

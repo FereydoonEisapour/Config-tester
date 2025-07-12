@@ -1,0 +1,2 @@
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#FG
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#FG
