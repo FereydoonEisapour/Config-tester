@@ -1,4 +1,4 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135004002.sec20org.com#_hamedp71_%20%F0%9F%87%BA%F0%9F%87%B8 | 0.04s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encryption=none&headerType=&type=tcp#_hamedp71_%20%F0%9F%87%B8%F0%9F%87%AC | 0.96s
-vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicG9ydCI6IjQ0ODgzIiwicHMiOiJ2bWVzcy0xOTguMi4yMTguMjE2LTQ0ODgzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encryption=none&headerType=&type=tcp#_hamedp71_%20%F0%9F%87%B8%F0%9F%87%AC | 0.94s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135004002.sec20org.com#_hamedp71_%20%F0%9F%87%BA%F0%9F%87%B8 | 1.50s
 vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLXBxLWJyYXppbDEuMDl2cG4uY29tLTgwIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicG9ydCI6IjQ0ODgzIiwicHMiOiJ2bWVzcy0xOTguMi4yMTguMjE2LTQ0ODgzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

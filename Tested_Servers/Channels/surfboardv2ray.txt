@@ -1,2 +1,2 @@
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?encryption=none&security=none&type=ws&host=q6.19kalA.co&path=%2F#%40Surfboardv2ray | 0.65s
-vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?encryption=none&security=none&type=ws&host=0612.heweiyi.dpdns.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_4015_%40Surfboardv2ray | 1.24s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?encryption=none&security=none&type=ws&host=q6.19kalA.co&path=%2F#%40Surfboardv2ray | 0.63s
+vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?encryption=none&security=none&type=ws&host=0612.heweiyi.dpdns.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_4015_%40Surfboardv2ray | 1.23s

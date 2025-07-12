@@ -1,0 +1,2 @@
+vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?path=%2F%40custom_config&security=&encryption=none&type=ws#%40custom_config%20%28mci%29 | 0.46s
+vless://d5922f30-1ff8-4974-9a58-2aafe660ec2a@www.speedtest.net.b.3.ubuntu-words.ir:80?path=%2F%40custom_config&security=none&encryption=none&type=ws#%40custom_config%20%28mtn%29 | 0.70s

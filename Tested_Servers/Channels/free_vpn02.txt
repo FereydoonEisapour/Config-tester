@@ -1,0 +1,2 @@
+trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@free_vpn02 | 0.48s
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?type=ws&host=638868951946670036.amsterdam-prx-dnraaal.info&path=/mmdhmrws&security=tls&sni=638868951946670036.amsterdam-prx-dnraaal.info#@free_vpn02 | 1.16s

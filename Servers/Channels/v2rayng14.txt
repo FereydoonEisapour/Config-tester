@@ -1,7 +1,11 @@
 vless://0f66ff66-1cd7-4237-8481-77cb6f1be0c4@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://51327d13-8547-4711-a26a-428068635585@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://9a042116-b5a8-4b20-91e1-dc0947808bae@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
-vless://ff27f307-e565-418b-af21-d28986d36453@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
 vless://bd23cbe8-5d84-42b8-b89f-f36a5143aa10@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng14%20%20%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 vless://34b1893d-b210-45a9-a306-d63c076d05ba@135.181.201.193:51168?security=none&encryption=none&headerType=none&type=tcp#tel%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://cdc5a503-e1e8-4cfe-a507-d0710803ee22@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#%40v2rayng14%20%20%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 vless://12222495-e38c-4564-9bad-cd7babaed0b1@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:8080?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%40v2rayng14%20%20%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+vless://51327d13-8547-4711-a26a-428068635585@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng14%20%20%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+vless://ff27f307-e565-418b-af21-d28986d36453@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14
+vless://9a042116-b5a8-4b20-91e1-dc0947808bae@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#telegram%F0%9F%91%89%F0%9F%91%89%40v2rayng14

@@ -1,0 +1,1 @@
+vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%40Serrv2ray%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%88%D9%82%D8%AA%20150 | 1.60s

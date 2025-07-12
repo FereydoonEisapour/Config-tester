@@ -1,4 +1,12 @@
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&host=kawaiifreevpn-7ds.pages.dev&path=/?ed%3D2560&security=tls&fp=random&sni=kawaiifreevpn-7ds.pages.dev#@FREE_VPN02-@FREE_VPN02
-vless://0d69b241-cfaf-42df-8b2b-d69a51e03b07@185.143.234.46:443?type=ws&host=marz-vip.nikatel.store&path=/&security=tls&sni=marz-vip.nikatel.store#@FREE_VPN02-@FREE_VPN02
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?type=ws&host=638868951946670036.amsterdam-prx-dnraaal.info&path=/mmdhmrws&security=tls&sni=638868951946670036.amsterdam-prx-dnraaal.info#@free_vpn02
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&mode=auto&host=Ryanjames.global.ssl.fastly.net&path=/Zed&security=none#@FREE_VPN02-@FREE_VPN02
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&mode=auto&host=Ryanjames.global.ssl.fastly.net&path=/Zed&security=none#@free_vpn02
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&host=kawaiifreevpn-7ds.pages.dev&path=/?ed%3D2560&security=tls&fp=random&sni=kawaiifreevpn-7ds.pages.dev#@FREE_VPN02…
-vless://TelegramTokaVpn@91.99.172.196:2025?type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&sid=91355b9b818617&spx=@FREE_VPN02--@FREE_…
+trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@free_vpn02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443?type=tcp#@free_vpn02
+vless://0d69b241-cfaf-42df-8b2b-d69a51e03b07@185.143.234.46:443?type=ws&host=marz-vip.nikatel.store&path=/&security=tls&sni=marz-vip.nikatel.store#@FREE_VPN02-@FREE_VPN02
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?type=ws&host=638868951946670036.amsterdam-prx-dnraaal.info&path=/mmdhmrws&security=tls&sni=638868951946670036.amsterdam…
+vless://ec8a65ad…
+vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?type=xhttp&mode=auto&host=V2rayNGFreee.global.ssl.fastly.net&path=/&security=none#@FREE_VPN02-@FREE_VPN02
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed%3D@vpnserverrr_vpnserverrr_vpnserverrr&security=tls&fp=firefox&sni=simorgh.hpcode.ir#@FREE_VPN02-@FREE_VPN02

@@ -1,9 +1,10 @@
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@panel.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?type=tcp&headerType=none&security=none#
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@dest.realtechshop.top:666?type=tcp&host=/
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@web.bandarhp.ir:666?type=tcp&headerType=none&security=none#
+vless://1d89eb87-dfb5-4c6d-8e02-3474e0f425a3@5.75.198.54:443?type=tcp&headerType=http&path=/
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@dest.realtechshop.top:666?type=tcp&host=/@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt…
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@full.VIGIlantecOllecTIOn.shop:666?type=tcp&headerType=none&security=none#
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@full.VIGIlantecOllecTIOn.shop:666?type=tcp&headerType=none&security=none#@VPNTwitt
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@blog.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@panel.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@blog.bandarhp.ir:666?type=tcp&headerType=none&security=none#
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@panel.bandarhp.ir:666?type=tcp&headerType=none&security=none#
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@web.bandarhp.ir:666?type=tcp&headerType=none&security=none#
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?type=tcp&headerType=none&security=none#@VPNTwitt
+vless://1d89eb87-dfb5-4c6d-8e02-3474e0f425a3@5.75.198.54:443?type=tcp&headerType=http&path=/@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt-@VPNTwitt…
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@blog.bandarhp.ir:666?type=tcp&headerType=none&security=none#@VPNTwitt

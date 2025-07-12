@@ -1,3 +1,5 @@
-vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=%2Flinkws%3Fed&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#Moftinet1.1 | 0.17s
-vless://e231db10-25b8-4e6d-8942-a93d4d4ac422@104.18.26.90:2096?path=%2Fhclrkdws&security=tls&encryption=none&host=638874929584132219.zagreb-prx-dnraaad.info&type=ws&sni=638874929584132219.zagreb-prx-dnraaad.info#Moftinet1.3 | 0.67s
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=%2Flinkws%3Fed&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#Moftinet1.1 | 0.08s
+vless://e231db10-25b8-4e6d-8942-a93d4d4ac422@104.18.26.90:2096?path=%2Fhclrkdws&security=tls&encryption=none&host=638874929584132219.zagreb-prx-dnraaad.info&type=ws&sni=638874929584132219.zagreb-prx-dnraaad.info#Moftinet1.3 | 0.63s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#Moftinet1 | 0.77s
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#Moftinet1.0 | 1.08s
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
