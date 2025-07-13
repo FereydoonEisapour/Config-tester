@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram%20%40free_netplus%20%E2%9A%A1%EF%B8%8F
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?security=none&encryption=none&host=pamchall.com.&type=ws#Telegram+%7C+%40Free_NetPlus%F0%9F%93%B1
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Free_Netplus
 vmess://eyJhZGQiOiIxNTEuMTAxLjMuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9naW4uc2luYWJhbmsuaXIiLCJpZCI6IjFmN2UyOTQ3LWM0YTUtNGUzYy1iMjg0LTc3N2ZmNzNhMDg2ZSIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRlbGVncmFtIHwgQEZyZWVfTmV0UGx1c/Cfk7EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?security=none&encryption=none&host=pamchall.com.&type=ws#Telegram+%7C+%40Free_NetPlus%F0%9F%93%B1

@@ -1,11 +1,10 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.185:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.06s
-vless://7028cb85-9611-4876-bb19-e15fa050b253@172.234.31.253:2321?security=none&encryption=none&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.30s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.52s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.70s
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.84s
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.57s
-vless://1bb67568-99ca-42cb-a196-c87bf76948a8@104.18.26.90:2096?path=%2Fdbjfngws&security=tls&encryption=none&host=638874929556912040.abadan-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929556912040.abadan-prx-dnraaad.info#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.65s
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 2.02s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#https%3A%2F%2Ft.me%2FV2ry_Proxy | 7.71s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 18.88s
-vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtMTY5LjE1MC4yMDguODMtMTgwMDAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://7028cb85-9611-4876-bb19-e15fa050b253@172.234.31.253:2321?security=none&encryption=none&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.27s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.59s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.185:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.72s
+vless://1bb67568-99ca-42cb-a196-c87bf76948a8@104.18.26.90:2096?path=%2Fdbjfngws&security=tls&encryption=none&host=638874929556912040.abadan-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929556912040.abadan-prx-dnraaad.info#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.73s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#https%3A%2F%2Ft.me%2FV2ry_Proxy | 0.86s
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.30s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#https%3A%2F%2Ft.me%2FV2ry_Proxy | 1.96s
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 7.13s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#https%3A%2F%2Ft.me%2FV2ry_Proxy | 8.03s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#https%3A%2F%2Ft.me%2FV2ry_Proxy | 10.73s

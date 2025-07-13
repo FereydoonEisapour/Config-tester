@@ -1,1 +1,1 @@
-vless://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443?path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd&security=tls&encryption=none&host=iiiiiiiiiiio.huangshang.dpdns.org&type=ws&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG#%40DailyTek | 1.44s
+vless://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443?path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd&security=tls&encryption=none&host=iiiiiiiiiiio.huangshang.dpdns.org&type=ws&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG#%40DailyTek | 2.62s

@@ -1,5 +1,2 @@
-vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smiTs.joOjehtor.it.cOm&type=ws&sni=smiTs.joOjehtor.it.cOm#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 0.72s
-vless://83e47814-bc89-4133-8e0d-1d59678249c4@47.243.126.92:47381?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 0.86s
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 1.03s
-vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 2.30s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 5.03s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 10.83s
+vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 21.61s

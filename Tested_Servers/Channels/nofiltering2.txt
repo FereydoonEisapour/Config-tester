@@ -1,1 +1,2 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&type=ws&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO#NOFILTERING2%20%E2%9A%A1%EF%B8%8F | 4.55s
+vless://752811df-c191-4f5f-acaa-ce6399a22024@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Flpiipkws&security=tls&encryption=none&host=638879413057214934.kish-prx-dnraaad.info&type=ws&sni=638879413057214934.kish-prx-dnraaad.info#NOFILTERING2%20%E2%9A%A1%EF%B8%8F | 1.34s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&type=ws&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO#NOFILTERING2%20%E2%9A%A1%EF%B8%8F | 3.63s

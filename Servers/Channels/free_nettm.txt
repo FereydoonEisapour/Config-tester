@@ -1,0 +1,2 @@
+vless://1ca0ec5f-2e07-4d1e-9462-222e8e76e169@a.de.maviks.ru:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20NTGreen%20%F0%9F%91%BD
+vless://1ca0ec5f-2e07-4d1e-9462-222e8e76e169@c.nl.cdn.maviks.ru:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-de.maviks.ru&fp=chrome&type=ws&sni=cdn-de.maviks.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NTGreen%20%F0%9F%91%BD

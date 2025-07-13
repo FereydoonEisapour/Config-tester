@@ -1,0 +1,2 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#@game_file2020 | 0.17s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#@game_file2020 | 1.23s

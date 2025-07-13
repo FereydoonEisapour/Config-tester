@@ -1,5 +1,5 @@
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199…
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#ミLegacy
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=speedtest.net&fp=randomized#Florida¹⁵¹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.235.33.238:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida²³
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida¹⁹⁹
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199…
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=speedtest.net&fp=randomized#Florida¹⁵¹
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=%2FNiREvilxXx&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=TURKISH.NSCL.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#ミLegacy

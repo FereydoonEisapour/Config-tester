@@ -1,1 +1,1 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@free_vpn02 | 5.50s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1-germany-digitalocean-v2.devefun.org#@FREE_VPN02-@FREE_VPN02 | 5.83s

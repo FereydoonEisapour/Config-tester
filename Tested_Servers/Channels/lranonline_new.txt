@@ -1,2 +1,5 @@
-vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40f | 0.77s
-vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?type=ws&host=s2p2e45.speedtest.web.s2pp.ir.&path=/@HqV2rayNG?ed%3D2048&security=none#@H | 3.46s
+vless://163dcbe2-1b39-4bbf-8c3e-9c54c29af199@91.99.186.13:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=fast.com&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FCoNFiG | 0.58s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#Telegram%20%3A%20 | 0.64s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#Telegram+ | 1.07s
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN%20261%20%28%40O | 1.66s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN%20266%20%28%40O | 2.68s

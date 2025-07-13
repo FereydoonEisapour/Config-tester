@@ -1,3 +1,3 @@
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40king_vpn23%20%F0%9F%8F%B3%F0%9F%8F%B3
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#%F0%9F%94%92%20%40king_vpn23
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40king_vpn23%20%F0%9F%8F%B3%F0%9F%8F%B3
 vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IlRlbGVncmFtIDogQGtpbmdfdnBuMjMg8J+Ps/Cfj7QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9

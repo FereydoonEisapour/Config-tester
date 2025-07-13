@@ -1,3 +1,5 @@
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#@confing_chanel | 5.68s
-vless://a9c9c197-c626-4667-f219-1575f26715ac@172.66.40.99:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#https://t.me/confing_chanel | 5.71s
-vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?encryption=none&security=none&type=ws&path=%2F#https://t.me/confing_chanel | 9.38s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#@confing_chanel | 0.31s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#@confing_chanel | 1.05s
+vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?encryption=none&security=none&type=ws&path=%2F#https://t.me/confing_chanel | 6.57s
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#@confing_chanel | 7.50s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@172.66.40.99:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#https://t.me/confing_chanel | 20.82s

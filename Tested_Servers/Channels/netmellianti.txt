@@ -1,2 +1,2 @@
-vless://8438b531-dd7a-4779-9364-44f42576737b@217.69.4.95:52340?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.35s
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti | 1.70s
+vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#%40NETMelliAnti | 1.12s
+vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwibmV0IjoidGNwIiwicG9ydCI6IjMyMDE3IiwicHMiOiJ2bWVzcy1wYW5lbDMuaXB5YXIub3JnLTMyMDE3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

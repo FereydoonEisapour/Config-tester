@@ -1,2 +1,1 @@
-vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=%2F&security=&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#%40
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#%40

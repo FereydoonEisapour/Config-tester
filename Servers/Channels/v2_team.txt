@@ -1,2 +1,0 @@
-vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=soed.serrjioo.ir&type=httpupgrade#%40V2_TEAM
-vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Amarat.serrjioo.ir&type=httpupgrade#%40v2_team

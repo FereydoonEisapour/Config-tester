@@ -1,5 +1,5 @@
-vless://688cf7a1-c5b2-4354-a318-72bcf380d9e3@v1.net2eset.com:53135?type=ws&path=%2F&host=&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-kr00w0wre
-vless://50097144-b6ef-4563-d89f-50ec17a0a42a@v1.net2eset.com:19936?type=tcp&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-ih8hyvsme
 vless://82961b0e-7636-4efe-e6db-3762565f27ad@v2.net2eset.com:43384?type=ws&path=%2F&host=&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-tgxybb95i
-vless://f6f7276f-23ac-4a82-eee0-7b5f7d20c448@v2.net2eset.com:32031?type=tcp&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-w8zhxh8bi
 vless://f6f7276f-23ac…
+vless://f6f7276f-23ac-4a82-eee0-7b5f7d20c448@v2.net2eset.com:32031?type=tcp&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-w8zhxh8bi
+vless://50097144-b6ef-4563-d89f-50ec17a0a42a@v1.net2eset.com:19936?type=tcp&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-ih8hyvsme
+vless://688cf7a1-c5b2-4354-a318-72bcf380d9e3@v1.net2eset.com:53135?type=ws&path=%2F&host=&security=none#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D9%82%D8%B7%D8%B9%DB%8C-kr00w0wre

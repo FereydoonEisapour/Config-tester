@@ -1,10 +1,14 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#Bya%20To%20%40Iran_V2ray1 | 0.73s
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%3A%20%40Iran_V2ray1 | 1.10s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 1.97s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya%20To%20%40IRAN_V2RAY1 | 3.71s
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%40Iran_V2ray1 | 4.96s
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#Bya%20To%20%40Iran_V2ray1 | 12.07s
-vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#Bya%20To%20%40Iran_V2ray1 | 14.23s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya%20To%20%40Iran_V2ray1 | 16.77s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#Bya%20To%20%40Iran_V2ray1 | 0.43s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#Bya%20To%20%40Iran_V2ray1 | 0.54s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.62s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Bya%20To%20%40Iran_V2ray1 | 0.79s
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#Bya%20To%20%3A%20%40Iran_V2ray1 | 0.86s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#Bya%20To%20%40Iran_V2ray1 | 0.92s
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#Bya%20To%20%40Iran_V2ray1 | 2.91s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya%20To%20%40Iran_V2ray1 | 4.32s
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya%20To%20%40IRAN_V2RAY1 | 4.66s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#Join%20To%20%40IRAN_V2RAY1 | 5.82s
+vless://752811df-c191-4f5f-acaa-ce6399a22024@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Flpiipkws&security=tls&encryption=none&host=638879413057214934.kish-prx-dnraaad.info&type=ws&sni=638879413057214934.kish-prx-dnraaad.info#Bya%20To%20%40Iran_V2ray1 | 6.26s
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#Bya%20To%20%40Iran_V2ray1 | 7.69s
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiNGFjMzllOGEtNmQ1Yy00OGJiLWIwZDAtZjYzM2M4MjkxMTNlIiwibmV0IjoidGNwIiwicG9ydCI6IjE1NzA5IiwicHMiOiJ2bWVzcy1jaGFubmVsLmRvbGxhcmRvb24uY29tLTE1NzA5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJAdjJ4YXktQHYyeGF5LUB2MnhheS0iLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxNTcwOSIsInBzIjoidm1lc3MtY2hhbm5lbC5kb2xsYXJkb29uLmNvbS0xNTcwOSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
