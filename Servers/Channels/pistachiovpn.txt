@@ -1,2 +1,0 @@
-vless://c59695d1-b0d3-440e-a502-76e408805a1e@193.151.132.124:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-vmess://eyJhZGQiOiJkZS5zcGVlZGh1bnRlci50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjkyY2Y5NDktYmNmMi00Y2FkLTgwNjctMjc2MmI4ZTI0ODc0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTI1NyIsInBzIjoi2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

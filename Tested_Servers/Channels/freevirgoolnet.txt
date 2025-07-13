@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%203 | 7.11s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%203 | 0.23s

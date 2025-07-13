@@ -1,2 +1,0 @@
-vless://e71d08cf-7410-481f-b6d8-e7ef04015974@172.66.46.213:443?path=%2FiD9iinktJHRPLLJu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bARaRpOoR.pAgES.dEV&fp=randomized&type=ws&sni=BArarPOor.pAGES.DeV#Free
-vless://e71d08cf-7410-481f-b6d8-e7ef04015979@172.66.46.213:443?path=%2FiD9iinktJHRPLLJu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bARaRpOoR.pAgES.dEV&fp=randomized&type=ws&sni=BArarPOor.pAGES.DeV#TEST

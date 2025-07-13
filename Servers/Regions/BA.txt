@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.99.3.102:49339#%F0%9F%87%A7%F0%9F%87%A6%20
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#%40V2RayCactus%20
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.74.228.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3#Telegram:@config_proxy

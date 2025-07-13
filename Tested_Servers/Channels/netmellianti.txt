@@ -1,2 +1,2 @@
-vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#%40NETMelliAnti | 1.12s
+vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#%40NETMelliAnti | 5.36s
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwibmV0IjoidGNwIiwicG9ydCI6IjMyMDE3IiwicHMiOiJ2bWVzcy1wYW5lbDMuaXB5YXIub3JnLTMyMDE3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

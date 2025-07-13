@@ -1,0 +1,1 @@
+vless://bb1ff716-cfbf-4e95-828c-05f7af9b9f0b@89.34.230.117:56149?encryption=none&security=none&type=tcp&headerType=none# | 1.56s

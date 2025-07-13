@@ -1,1 +1,2 @@
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=/&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@proxycrone | 0.88s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=/&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@proxycrone | 0.96s
+vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwibmV0IjoidGNwIiwicG9ydCI6IjMyMDE3IiwicHMiOiJ2bWVzcy1wYW5lbDMuaXB5YXIub3JnLTMyMDE3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

@@ -1,1 +1,2 @@
-vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?encryption=none&security=none&type=ws&path=%2F#%20%40NIM_VPN_ir | 1.57s
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?encryption=none&security=none&type=ws&path=%2F#%20%40NIM_VPN_ir | 1.38s
+vmess://eyJhZGQiOiIxMDkuOTUuNjcuMTA4IiwiYWlkIjoiMCIsImlkIjoiZGZhMGZlY2EtZGY4MS00YzFhLTlhYzMtNDkzOGUxMTc1YjViIiwibmV0IjoidGNwIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLTEwOS45NS42Ny4xMDgtMjA1MiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

@@ -1,1 +1,0 @@
-vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=fix.ahwaz14.ir&sni=fix.ahwaz14.ir#1-ify7fcjx

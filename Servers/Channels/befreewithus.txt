@@ -1,2 +1,0 @@
-vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
-vless://616c06f7-7730-4001-8878-a7a2fc8d7faf@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs

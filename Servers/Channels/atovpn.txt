@@ -1,6 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#%40ATOVPN
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#%40ATOVPN%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2mamad%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#%40ATOVPN
-vless://2492c521-153a-40dd-8646-038d79b24487@87.248.152.60:26604?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#%40ATOVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWV3NCeW1kQ3hRSTlRazht@admin.c4.havij.co:443#%40ATOVPN
-vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=randomized&spx=%2F&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#AMIN%40ATOVPN

@@ -1,1 +1,1 @@
-vless://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7 | 0.44s
+vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7 | 1.42s

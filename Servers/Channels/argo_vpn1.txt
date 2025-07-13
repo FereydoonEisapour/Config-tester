@@ -1,8 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Argo_VPN1+%F0%9F%87%BA%F0%9F%87%B8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Channel+id%3A+%40Argo_VPN1+%F0%9F%87%AC%F0%9F%87%A7
-vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20@ARGO_VPN1
-vmess://eyJhZGQiOiIyMy4xODQuODguMTU5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIwZjMxZjliLTNmNDUtNDk4OC1hNTViLWIxMjI3ZTFmYjZlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MjEiLCJwcyI6IkBBcmdvX1ZQTjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8313#
-warp://188.114.96.230:1387/?ifpn=m5#
-warp://188.114.97.239:890/?ifpn=m5#
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.52.41:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0118.kznyoum2.workers.dev&type=ws#%40Argo_VPN1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%AD%90%EF%B8%8F%20Telegram%20%3D%20%40ARGO_VPN1
+warp://188.114.97.123:5956/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40Argo_VPN1&&detour=warp://188.114.98.224:939/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%
+warp://188.114.99.89:7281/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40Argo_VPN1&&detour=warp://188.114.98.224:864/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%40Argo_VPN1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Argo_VPN1+%F0%9F%87%BA%F0%9F%87%B8
+warp://188.114.99.195:1074/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40ARGO_VPN1&&detour=warp://188.114.98.228:878/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%40ARGO_VPN1
+warp://188.114.96.113:1387/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40Argo_VPN1&&detour=warp://188.114.98.224:1070/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%40ARGO_VPN1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%E2%AD%90%EF%B8%8F%20Telegram%20%3D%20%40ARGO_VPN1
+warp://188.114.96.113:1387/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#Channel%20id%3A%20%40ARGO_VPN1&&detour=warp://188.114.98.224:500/?ifp=2-4&ifpm=m4#Channel%20id%3A%20%40ARGO_VPN1

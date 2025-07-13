@@ -1,5 +1,6 @@
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#%40vpnaloo | 1.05s
-vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40vpnaloo | 1.11s
-vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws#%40vpnaloo | 1.18s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%40vpnaloo | 1.48s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&type=ws&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO#%40vpnaloo | 4.36s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%40vpnaloo | 1.63s
+vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=%2Fohfqcwws&security=tls&encryption=none&host=638874929583412911.zagreb-prx-dnraaad.info&type=ws&sni=638874929583412911.zagreb-prx-dnraaad.info#%40vpnaloo | 2.14s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&type=ws&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO#%40vpnaloo | 3.00s
+vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40vpnaloo | 4.25s
+vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws#%40vpnaloo | 7.39s

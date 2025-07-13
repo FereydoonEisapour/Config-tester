@@ -1,10 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-0322-NetFreedom0
-vless://bc09f682-8c7e-4530-9380-d103fa739079@147.45.116.4:888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=_K91Z0rRa3uH-re6enMM0AQ63OhZkyjD5_HaeLLv6lM&sid=0ca9f654d16681&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%40BlueberryNetWork
 vmess://eyJhZGQiOiI5NS4xNjQuNC4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzE4MjBlNjItN2I5OS00ZWQ5LWE4MzYtMWUwZjgxNGMzM2ExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjkzNyIsInBzIjoi8J+Hp/Cfh7dCUiAtXHUwMDNlIPCfh6fwn4e3QlIg4pqhQFJzdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1NTRlNVx1NjVhZlx1OGZiZVx1OWVjZVx1NTJhMCAgNDUiLCAiYWRkIjogIjE0NC4yMi4xNzEuMTgyIiwgInBvcnQiOiAiMTcyMDciLCAiaWQiOiAiYTBhMDk4YWYtNmE3Ni00MjdmLWRmOTEtM2MzZGQ2Nzk2ZTIyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIxNDQuMjIuMTcxLjE4MiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5be06KW/LTE2Mi4yS0IvcyIsImFkZCI6Ijg5LjM5LjE2MS4xMjIiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-0322-NetFreedom0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-0320-NetFreedom0
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=%2FTelegram%D9%8B%DA%BA%E2%80%A1%C2%A8%D9%8B%DA%BA%E2%80%A1%C2%B3&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%9B%92%40v2rayngsupbot%20%F0%9F%9B%A1%EF%B8%8F%40ai_duet
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@awlix_ir
-vless://bc09f682-8c7e-4530-9380-d103fa739079@147.45.116.4:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=_K91Z0rRa3uH-re6enMM0AQ63OhZkyjD5_HaeLLv6lM&sid=0ca9f654d16681&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%40BlueberryNetWork
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-0262-NetFreedom0

@@ -1,2 +1,1 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 10.83s
-vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 21.61s
+vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey | 1.58s

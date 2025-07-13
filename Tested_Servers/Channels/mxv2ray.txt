@@ -1,2 +1,3 @@
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0 | 1.10s
-vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?path=%2F&security=none&encryption=none&type=ws#%40mx | 2.57s
+vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0 | 0.77s
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?path=%2F&security=none&encryption=none&type=ws#%40mx | 1.83s
+vmess://eyJhZGQiOiIxMDkuOTUuNjcuMTA4IiwiYWlkIjoiMCIsImlkIjoiZGZhMGZlY2EtZGY4MS00YzFhLTlhYzMtNDkzOGUxMTc1YjViIiwibmV0IjoidGNwIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLTEwOS45NS42Ny4xMDgtMjA1MiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0

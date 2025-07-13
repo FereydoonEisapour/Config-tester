@@ -1,2 +1,0 @@
-vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#EmranVPN-19
-vless://e5f689a0-16c9-490e-8276-c1535964efc2@sublink.kharejishop.sbs:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=BKCXk7rOuoL_V29FXRuOY0D9n0SvNIrU_RSQ2U0mLTo&fp=chrome&type=grpc&serviceName=W7lsFNbKqr3KudvIdn0xHgBq2t&sni=refersion.com&sid=1a71da57#new%20config%20reality%20reality%20grpc%20direct%20vless

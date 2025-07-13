@@ -1,2 +1,0 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%40v2ray_83%F0%9F%98%8D%20%40xiv2ray
-vless://7adb2684-8b2a-48f1-a2c5-722e6c2b853c@45.94.213.90:2060?security=none&encryption=none&headerType=none&type=tcp#%40v2ray_83%F0%9F%98%8D%40xiv2ray

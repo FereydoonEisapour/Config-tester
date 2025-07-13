@@ -1,2 +1,4 @@
-vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&encryption=none&host=xcvfgt6.890606.xyz&fp=chrome&type=ws&sni=XCVFgT6.890606.XYz#@Filter_breaker | 0.27s
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.89:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#@Filter_breaker | 4.15s
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&encryption=none&host=xcvfgt6.890606.xyz&fp=chrome&type=ws&sni=XCVFgT6.890606.XYz#@Filter_breaker | 1.62s
+vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info | 2.65s
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024 | 5.28s
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.157:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1 | 6.19s

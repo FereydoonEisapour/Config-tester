@@ -1,6 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.24s
-vless://0a5da5de-f685-4add-9f76-afce594a3c05@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.47s
-vless://feea904b-d443-43e1-beaa-621ef7a3de3f@activeservice.mispd.ir:2096?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.79s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.79s
-vless://1ca0ec5f-2e07-4d1e-9462-222e8e76e169@b.nl.cdn.maviks.ru:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-de.maviks.ru&fp=chrome&type=ws&sni=cdn-de.maviks.ru#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.92s
-vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 2.52s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF | 0.72s

@@ -1,7 +1,4 @@
-vless://feea904b-d443-43e1-beaa-621ef7a3de3f@activeservice.mispd.ir:2096/?security=none&encryption=none&type=tcp&headerType=none#Telegram: | 0.63s
-vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096/?security=none&encryption=none&type=tcp&headerType=none#Telegram: | 0.87s
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096/?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=%2F#Telegram: | 0.89s
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443/?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=%2F#Telegram: | 1.13s
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443/?path=%2F&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&fp=chrome&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#Telegram: | 1.19s
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443/?path=%2F&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#Telegram: | 1.38s
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80/?encryption=none&security=none&type=ws&host=onlytesla1.xz027.com&path=%2F#Telegram: | 4.22s
+vless://15ce70b5-3f28-409a-9626-288cc5b869a4@194.87.148.104:39914/?security=none&encryption=none&headerType=none&type=tcp#Telegram: | 0.52s
+vless://cdfe166f-3c2a-4d56-bd7b-1ea376a2166f@65.109.207.127:37788/?security=&encryption=none&headerType=none&type=tcp#Telegram: | 0.56s
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096/?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#Telegram: | 1.03s
+vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096/?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#Telegram: | 1.21s

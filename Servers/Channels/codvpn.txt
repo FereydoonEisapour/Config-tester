@@ -1,4 +1,0 @@
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2FTelegram-WedBaZ-WedBaZ%2F%3Fed%3D2048&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#%40codvpn
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?security=none&encryption=none&headerType=none&type=tcp#%D8%AD%D9%84%D8%A7%D9%84%D8%AA%20%D9%86%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%A7%DA%AF%D8%B1%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20%D8%AC%D9%88%DB%8C%DB%8C%D9%86%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%21%20%40codvpn
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?security=none&encryption=none&headerType=none&type=tcp#%D8%AD%D9%84%D8%A7%D9%84%D8%AA%20%D9%86%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%A7%DA%A…
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#%40Codvpn

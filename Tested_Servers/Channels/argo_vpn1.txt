@@ -1,2 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Channel+id%3A+%40Argo_VPN1+%F0%9F%87%AC%F0%9F%87%A7 | 0.60s
-vmess://eyJhZGQiOiIyMy4xODQuODguMTU5IiwiYWlkIjoiMCIsImlkIjoiMjBmMzFmOWItM2Y0NS00OTg4LWE1NWItYjEyMjdlMWZiNmVmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoidm1lc3MtMjMuMTg0Ljg4LjE1OS0yMDUyMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%AD%90%EF%B8%8F%20Telegram%20%3D%20%40ARGO_VPN1 | 0.71s

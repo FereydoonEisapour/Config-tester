@@ -1,1 +1,0 @@
-vless://58e2565b-4e1a-4553-a7e7-054e24e0809b@www.speedtest.net.b.3.linux-title.ir:80?path=%2F%40custom_config&security=none&encryption=none&type=ws#@vpnstorefast | 0.90s
